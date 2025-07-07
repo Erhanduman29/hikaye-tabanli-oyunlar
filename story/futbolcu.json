@@ -83,7 +83,7 @@
   "text": "Fiziksel olarak tamamen iyileşmek için kendine zaman tanıyorsun. Her gün düzenli egzersizler yapıyor, fizik tedavi seanslarına gidiyorsun. İyileşmenin yavaş olması bazen moralini bozsa da, sabrın ve disiplinin seni ayakta tutuyor. Ailenin desteği ve antrenörün güveni de motivasyonunu artırıyor.\n\nGünlerden bir gün, takım arkadaşlarının antrenmanını izlemeye gidiyorsun. Onların hızla ilerleyişi seni hem heyecanlandırıyor hem de biraz kaygılandırıyor. Kendi yolunda sabırlı olman gerektiğini hatırlıyorsun.\n\nŞimdi iki seçenek var:",
   "options": [
     { "text": "!hazırlan → Yaklaşan seçmeler için formunu tekrar yükseltmeye başlamak", "next": "hazirlan", "points": 7 },
-    { "text": "!bekle → Kendini tamamen hazır hissetmeden acele etmemek", "next": "bekle", "points": 3 }
+    { "text": "!bekle → Kendini tamamen hazır hissetmeden acele etmemek", "next": "bekle", "points": 6 }
   ]
 },
 "bekle": {
