@@ -1,0 +1,297 @@
+{
+  "title": "Bir Teknisyenin Yolculuğu",
+  "subtitle": "Bölüm 1: Uyanış",
+  "author": "Senin Oyunun",
+  "start": "uyanis",
+  "scenes": {
+    "uyanis": {
+      "text": "Gözlerini açtığında, etrafındaki oda soğuk ve yabancıydı. Metalik bir koku, steril bir hava vardı. Ellerini hareket ettirmeye çalıştın ama hafif bir uyuşukluk vardı. Kafanda ise bulanık, eksik anılar vardı; geçmişin bir pusun ardında gizlenmiş gibiydi.\n\nBirden, duvardaki ekranlarda beliriveren MemoriaCorp logosu gözlerine çarptı. Bu isim sana bir yerlerden tanıdık geliyordu ama tam olarak nereden emin değildin. Etrafındaki cihazların karmaşası, içinde olduğun ortamın teknoloji dolu bir laboratuvar ya da kontrol merkezi olduğunu hissettiriyordu.\n\nKapı sessizce açıldı. İçeriye giren kişi ciddi ve soğukkanlı bir ifadeyle sana baktı.\n“Uyanmışsın,” dedi kısa ve net. “Burada olduğun süre boyunca sana eşlik edeceğim.”\n\nAdını vermedi. Ancak onun varlığı, kendini güvende hissetmeni sağladı. Yine de kafandaki sorulara yanıt yoktu. “Ben kimim?” sorusu dilinin ucundaydı, ama henüz cevaplanmamıştı.\n\nBir süre sessizlik oldu. Sonra o kişi devam etti:\n“Buraya neden geldiğini hatırlamak zaman alacak. Ama endişelenme, her şey adım adım açığa çıkacak.”\n\nŞimdi ne yapacaksın?",
+      "options": [
+        { "text": "!incele → Odanın içinde dolaşarak etrafı incelemeye başlıyorsun.", "next": "incele", "points": 5 },
+        { "text": "!konus → O kişiyle konuşmayı tercih ediyorsun, belki ipuçları alabilirsin.", "next": "konus", "points": 8 }
+      ]
+    },
+  "incele": {
+    "text": "Masada duran tablete yöneliyorsun. Titreyen ekranı parmaklarınla uyandırdığında, tanıdık ama bir o kadar da yabancı bir arayüz gözünün önüne geliyor. Dokunduğun anda soğuk bir his eline yayılıyor — sanki cihaz seni tanıyor, ama sen onu hatırlamıyorsun.\n\nEkranda tek bir başlık var:\n\nProject Origo\n\nBu kelimeyi okuduğunda, kalbinin ritmi değişiyor. “Origo”... dilinin ucuna bir anlamı geliyor ama bir türlü hatırlayamıyorsun.\nDosyayı açmaya çalışıyorsun fakat şifre korumalı. Bir an için refleksle birkaç sayı kombinasyonunu deniyorsun; ama başarısız.\n\nO sırada arkandaki kişinin sesi tekrar duyuluyor:\n“Onu kurcalama,” diyor soğukkanlı bir ifadeyle.\nGöz göze geliyorsunuz. Onun bakışları, sende daha fazlasını bildiğini düşündüğün bir soğukluk taşıyor.\n\n“Bu kadar acele etme,” diyor, biraz daha yumuşak bir sesle. “Sana anlatacağımız şeyler var. Ama önce… sağlığından emin olmamız gerekiyor.”\n\nBu söz seni ürpertiyor. Sağlığından emin olmak mı?\nSanki senin hakkındaki tüm kontrol onlarda gibi.\n\nNe yapacaksın?",
+    "options": [
+      { "text": "!ısrar → Tableti açmayı zorlamaya devam ediyorsun, ne pahasına olursa olsun.", "next": "israr", "points": 5 },
+      { "text": "!bekle → Şimdilik geri çekilip karşısındakinin söylediklerini dinlemeyi seçiyorsun.", "next": "bekle", "points": 7 }
+    ]
+  },
+  "israr": {
+    "text": "Tabletin elinden alınmasına rağmen içindeki şüpheyi bastıramıyorsun. Göğsünde bastıran o garip duygu, geri çekilmeni imkânsız hale getiriyor.\n\nAniden ileri atılıp tableti tekrar almaya çalışıyorsun. O kişi seni durdurmak için kolunu kavrıyor.\n“Hayır!” diye haykırıyor, yüzünde panik ilk kez bu kadar belirgin.\n“Şimdi buna bakamazsın! Kendini mahvedersin!”\n\nAma dinlemiyorsun.\nSanki damarlarında akan kan bile seni durduramazmış gibi hissediyorsun. Tableti kapmak için bir hamle daha yapıyorsun ve ekran yeniden açılıyor.\n\n**Proje Origo**\nYETKİ AŞIMI ALGILANDI\nGüvenlik Protokolü: NULL-LOCK AKTİFLEŞTİRİLDİ\n\nKırmızı bir alarm sesi odada yankılanıyor. Duvarlarda ışıklar yanıp sönüyor. Birdenbire, bedenin tuhaf şekilde ağırlaşıyor. Bacakların seni taşımıyor, dizlerinin üzerine düşüyorsun.\n\nBir tür bastırıcı kimyasal mı?\nO kişi, çaresiz bir ifadeyle eğilip gözlerinin içine bakıyor.\n“Sana söylemiştim,” diyor boğuk bir sesle. “Hazır değildin.”\n\nBeyninde bir uğultu başlıyor. Giderek yükselen, yakıcı bir uğultu. Görüntüler kararıyor.\n\nBir an için, hayatının en önemli anılarını hatırlayacak gibi oluyorsun — ama bir kapı kapanıyor. Sonsuza dek.\n\n💾 Oyun Sonu: Senin güvenlik sistemlerin, kendine karşı bile tasarlanmıştı. Kurucusu olduğun teknoloji, seni korumak adına kendi hatıralarına ulaşmanı engelledi. Ve sonunda, seni susturdu.",
+    "options": [
+      { "text": "Skorunu Gör +10 puan", "next": "finalSkor", "points": 10 }
+    ]
+  },
+  "bekle": {
+    "text": "Bir an için nefesini tutuyorsun. Tablete uzanacakken, kalbinde yankılanan o karanlık sezgi geri çekilmene sebep oluyor. Parmakların titriyor; bir adım geriye atıyorsun.\n\nKarşındaki kişi, göz ucuyla sana bakarken, bir rahatlama hissi geçiyor yüzünden.\n“Doğru karar,” diyor yavaşça. “Şimdilik ona dokunma. Bunun için henüz hazır değilsin.”\n\nİçindeki merak hâlâ canlı ama, bastırmak zorundasın. Bir şekilde, bu insanın söylediği şeyin doğru olabileceğini hissediyorsun.\n\nAdam (veya kadın) masasından bir sandalye çekip sana oturmanı işaret ediyor.\n“Bak,” diye başlıyor, sesi daha sakin.\n“Burası, senin düşündüğünden çok daha karmaşık bir yer. Kendine dair bildiklerin bile... sorgulanabilir.”\n\nKelimeleri ağır ağır beynine işliyor. Kendine dair bildiklerin bile sorgulanabilir mi? Bu söz, zihninde yankılanıyor.\n\nBirden, hafif bir baş ağrısı hissediyorsun. Sanki bozuk bir kaydı dinlerken patlayan bir ses gibi bir anı parçası gözünün önüne düşüyor:\nKoyu renkli bir toplantı odası, sana bakan onlarca yüz, bir sunum ekranı…\nSonra görüntü parçalanıyor.\n\nYüzüne garip bir ifade yerleşiyor. Bunu fark eden o kişi, bakışlarını sertleştiriyor:\n“Geçmişine odaklanma,” diyor. “Sana yeni bir görev vereceğiz. Bu, burada kalmanın karşılığı.”\n\nNe yapacaksın?",
+    "options": [
+      { "text": "!kabul → Görevi dinlemeyi ve kabul etmeyi seçiyorsun.", "next": "kabul", "points": 15 },
+      { "text": "!itiraz → Göreve karşı çıkıp, cevap almak için diretmek istiyorsun.", "next": "itiraz", "points": 5 }
+    ]
+  }, 
+  "konus": {
+    "text": "Karşındaki kişinin yüzündeki donuk ifadeye rağmen cesaretini toplayıp konuşmaya başlıyorsun.\n“Burada ne yapıyorum? Beni neden gözlemliyorsunuz?” diye soruyorsun, sesin biraz titreyerek.\n\nO kişi, gözlerini kaçırmadan seni izliyor.\n“Bir süre sonra anlayacaksın,” diyor tekdüze bir sesle.\n“Bu merkezde kaldığın sürece bazı prosedürleri uygulamak zorundayız. Ancak…”\n\nKısa bir duraksama oluyor. Gözleri, masadaki tabletin üzerine kayıyor.\n“…bazı görevlerimiz var,” diye devam ediyor.\n“Senin yardımına ihtiyacımız olacak.”\n\nBirden boğazında düğümlenen o bilinmezlik hissi geri geliyor. Görev mi?\nDaha kendini bile hatırlamıyorsun… nasıl bir görev olabilir ki?\n\nYine de bu insanın söylediği ciddiyet seni kuşatıyor. Bir yanlış yaparsan, her şey daha kötüye gidecek gibi.",
+    "options": [
+      { "text": "!kabul → Görevi dinlemeyi ve kabul etmeyi seçiyorsun.", "next": "kabul", "points": 15 },
+      { "text": "!itiraz → Göreve karşı çıkıp, cevap almak için diretmek istiyorsun.", "next": "itiraz", "points": 5 }
+    ]
+  },
+  "itiraz": {
+    "text": "Derin bir nefes alıyorsun. Bu görevi kabul etmek… hayır, buna hazır değilsin. Kendini bile hatırlamazken birilerinin seni yönlendirmesine izin veremezsin.\n\n“Hayır,” diyorsun, sesin bu sefer kararlı çıkıyor. “Ne olduğunu bilmeden hiçbir şeye yardım etmeyeceğim.”\n\nKarşındaki kişinin yüzü geriliyor, kasları hafifçe titriyor. Bu itirazı beklemiyormuş gibi bir an sende kalıyor, sonra sert bir nefes veriyor.\n“Zamanımız yok,” diyor.\nSesi, sabrını zorladığını belli ediyor.\n\nAyağa kalkıp odada birkaç adım atıyor, ardından sana tekrar dönüyor.\n“Bak… bazı şeyleri açıklamak imkânsız. Çünkü bu açıklamalar seni yıkabilir. Hafızan parçalı, sen bile kendine güvenemezsin. Ama… eğer illa gerçeği istiyorsan…”\n\nMasadaki tableti işaret ediyor.\n“Bir yol var. Proje Origo dosyasına girmeyi başarabilirsen… belki her şeyi öğrenirsin.”\n\nBunu söylerken yüzündeki tedirginlik gözünden kaçmıyor.\n“Fakat,” diye ekliyor, sesi bu kez boğuklaşıyor,\n“bunu yaparsan… sonuçlarına katlanırsın.”\n\nYine de, bir seçim yapmak zorundasın.\n\nNe yapacaksın?",
+    "options": [
+      { "text": "!origo → Tableti alıp Proje Origo’yu açmaya çalışıyorsun.", "next": "origo", "points": 10 },
+      { "text": "!geri → Kararından vazgeçip görevi kabul etmeye ikna oluyorsun.", "next": "geri", "points": 6 }
+    ]
+  },
+  "origo": {
+    "text": "Tablete elin uzanıyor. O kişinin uyarılarını, yüzündeki korkuyu, sesindeki titremeyi umursamıyorsun. İçindeki boşluğu dolduracak tek yolun bu olduğuna inanıyorsun.\n\nEkrana dokunduğun an, soğuk bir ürperti kolundan yukarı doğru yayılıyor. Parmakların, sanki eski bir hatırayı anımsar gibi otomatik olarak bir şifre tuşluyor. Kilit sesi açıldığında, ekrandan yükselen yoğun bir veri akışı gözlerini kamaştırıyor.\n\nGözlerinle satırları tarıyorsun:\n\n**Proje Origo**\nDenek #001\nStatü: Kurucu\nYönetsel Bellek Temizliği: %94 başarı\nHedef: Kurucunun güvenliğini sağlamak için anı filtreleme\n\nBirden beyninde bir yıldırım gibi çakan ağrı patlıyor.\nYere kapanıyorsun.\n\nSesler duyuyorsun, tanıdık ama karmakarışık.\nKendi sesin.\nKonuşmalar. Emrediyorsun, yönetiyorsun, onlara yol gösteriyorsun.\n\nSonra… bir başka ses.\nSeni durdurmak isteyen biri.\nYüzünü seçemiyorsun, ama gözlerini hatırlıyorsun — öfke, nefret, ihaneti birleştiren buz gibi bir bakış.\n\nVeri akışı devam ettikçe zihnin taşma noktasına ulaşıyor.\nEllerin titriyor, nefesin yetmiyor, başın zonkluyor.\n\nKendi geliştirdiğin sistem, belleğinin çözülemeyecek kadar güçlü bir kilidini tetikliyor: NULL-LOCK.\nProtokol, kurucuyu korumak için bile olsa, senin hafızana erişimini engellemek üzere tasarlanmıştı.\n\nBir anda zihninin ışıkları sönüyor.\n\n💾 Oyun Sonu: Proje Origo'nun sırları, seni kendinden bile koruyacak kadar acımasızdı.\nBelleğinin kilidi sonsuza dek kapandı.",
+    "options": [
+      { "text": "Skorunu Gör +12 puan", "next": "finalSkor", "points": 12 }
+    ]
+  },
+  "kabul": {
+    "text": "Derin bir nefes alıyorsun. İçindeki kuşkular bitmiş değil, ama bu insanın sözlerindeki kararlılık seni ikna ediyor. Şimdilik onlara karşı çıkmanın faydasız olacağını anlıyorsun.\n\n“Peki,” diyorsun, sesinde bir miktar teslimiyet var. “Söyleyin. Görevim ne?”\n\nKarşındaki kişi ilk kez hafifçe gülümsüyor.\n“Akıllıca bir seçim,” diyor.\nSonra cebinden küçük, cam görünümlü bir veri modülü çıkarıp masaya bırakıyor.\n“Bunu al. Güvenlik katına ulaşman gerek. Orada sisteme yükleyeceksin. Sadece sen yapabilirsin.”\n\nŞüphelerin büyüyor.\n“Neden sadece ben?” diye soruyorsun.\n\nBir an duraksıyor.\n“Çünkü,” diyor, gözlerini kaçırarak,\n“bu sistemin ana kodları sana bağlı. Sen olmadan açılmaz.”\n\nİçinde anlamlandıramadığın bir soğukluk hissi dolaşıyor. Ben… neden bu kadar önemli olayım ki?\nYine de bu veri modülünü eline alıyorsun. Hafif, ama taşıdığı sorumluluk ağır.\n\n“Güvenlik katına indiğinde,” diye devam ediyor,\n“bazı şeyleri görebilirsin. Sakın paniğe kapılma. Ve... kimseye güvenme.”\n\nO an kapının yanındaki ışık yeşile dönüyor; çıkışın serbest olduğu anlamına geliyor.\n\nŞimdi ne yapacaksın?",
+    "options": [
+      { "text": "!in → Güvenlik katına gitmek için çıkışa yöneliyorsun.", "next": "guvenlikKat", "points": 9 },
+      { "text": "!soru → Gitmeden önce birkaç şey daha sormaya karar veriyorsun.", "next": "soru", "points": 5 }
+    ]
+  },
+  "geri": {
+    "text": "Bir an düşünüyorsun. Belki de bu kadar acele etmemelisin. Görevi kabul etmek, içinde bir umut kırıntısı uyandırıyor.\n\n“Tamam,” diyorsun, “görevi kabul edeceğim.”\n\nKarşındaki kişi hafifçe başını sallıyor, memnun olmuş gibi.\n“Doğru karar,” diyor.\n“Elindeki veri modülünü hazır tut. Güvenlik katına indiğinde… işin asıl zorluğu başlayacak.”\n\nKapıdaki ışık yeşile dönüyor.\n“Şimdi gitmelisin.”\n\nŞimdi ne yapacaksın?",
+    "options": [
+      { "text": "!in → Güvenlik katına gitmek için çıkışa yöneliyorsun.", "next": "guvenlikKat", "points": 9 },
+      { "text": "!soru → Gitmeden önce birkaç şey daha sormaya karar veriyorsun.", "next": "soru", "points": 5 }
+    ]
+  },
+  "soru": {
+    "text": "Kapıya yönelmeden önce bir adım geri çekilip sorularını sıralıyorsun.\n“Bu görev tam olarak neyi kapsıyor? Bana neden güveniyorsunuz? Hafızam hala parçalıyken, nasıl başarılı olabilirim?”\n\nKarşındaki kişi derin bir nefes alıyor, gözlerinde hafif bir yorgunluk beliriyor.\n“Biliyorum, her şey çok karmaşık ve adaletsiz görünüyor,” diyor.\n“Ancak sen, bu kurumun temel taşısın. Belleğin parçalı olabilir ama sistemle bağlantın ve yetkin tartışılmaz.”\n\nBir an için yüzündeki ciddiyet kayboluyor, yerini bir umut ışığı alıyor.\n“Güvenlik katına indiğinde, geçmişinin bazı parçalarını görebileceksin. Ama dikkatli ol; gerçek, beklediğinden farklı olabilir.”\n\nSonra kapının ışığı yeşile dönüyor.\n“Şimdi gitmelisin. Yolun orada başlıyor.”",
+    "options": [
+      { "text": "!in → Güvenlik katına gitmek için çıkışa yöneliyorsun.", "next": "guvenlikKat", "points": 8 }
+    ]
+  },
+  "guvenlikKat": {
+    "text": "Merdivenlerden aşağı doğru inmeye başlıyorsun. Son basamaktan sonra önünde bir kapı var. İçinde garip bir duyguyla birlikte kapıyı itiyorsun. Kapı yavaşça açılıyor, içerisi soğuk, steril bir koridora adım atıyorsun. Burada her şey kontrol altında, her köşe gözlemleniyor. İçerideki hava yoğun ve biraz boğucu; sanki görünmeyen duvarlar seni kuşatıyor.\n\nElindeki veri modülü hafifçe titriyor, bir yandan da üzerindeki sorumluluğun ağırlığını hissettiriyor. Her adımında, aklında binlerce soru dönüyor: \"Geçmişim gerçekten böyle miydi? Bu sistem neyi saklıyor? Beni buraya getirenler kim? Ben kimim?\" Bu sorular eşliğinde koridorun sonuna geliyorsun.\n\nKoridorun sonunda üç farklı kapı var. Her biri farklı bir seçeneğe açılıyor.\n\nHangi kapıyı seçeceksin?",
+    "subtitle": "Bölüm 2: Gerçeğin Kıyısında",
+    "options": [
+      { "text": "!araştır → Teknoloji ve sistemle ilgili bilgilere ulaşabileceğin laboratuvar kapısına gidiyorsun.", "next": "laboratuvar", "points": 6 },
+      { "text": "!hafıza → Hafıza odasına gidip, anılarınla yüzleşmeye karar veriyorsun.", "next": "hafizaOdasi", "points": 8 },
+      { "text": "!yüzleş → Şüpheli kişilerin bulunduğu güvenlik odasına gidip, cevaplar arıyorsun.", "next": "yuzles", "points": 7 }
+    ]
+  },
+  "laboratuvar": {
+    "text": "Üstünde laboratuvar yazılı kapıyı görüyorsun. İçinden bir ses bu kapıya gitmen gerektiğini söylüyor. Cesaretini toplayıp laboratuvar kapısını itiyorsun. Paslanmaz çelikten dev kapı, mekanik bir uğultuyla aralanıyor ve keskin dezenfektan kokusu yüzüne çarpıyor. İçeriye girdiğinde gözlerini mavi, titreşen ışıklar karşılıyor.\n\nCihazlarla dolu tezgahlar, sayısız bellek diski, modüller, kablolar… Bir köşede, monitörlerin başında çalışan bir teknisyen fark ediyorsun. Sen girince ürkek bir şekilde dönüp bakıyor, sonra hemen ekrana gömülüyor.\n\nTam o sırada holografik bir panel açılıyor. Panelde tek bir kelime parlıyor:\n\n**Origo Ana Belleği: Erişim Yetkisi Bekleniyor**\n\nİçin buz kesiyor.\nYine o kelime — Origo.\nAma bu sefer, veri akışının gerisinde farklı bir başlık dikkatini çekiyor:\n\n**Kurucu Protokolü - Gizli**\n\nTeknisyenin sesi sert bir şekilde yankılanıyor:\n“Bunlara dokunma,” diyor kısa ve net.\n“Henüz erişime açılmadı.”\n\nAma merakın seni kemiriyor.\nBelki de bu veriler, aradığın gerçekleri ortaya çıkarabilir.\n\nNe yapacaksın?",
+    "options": [
+      { "text": "!sorgula → Teknisyeni sorgulayarak bilgi almaya çalışıyorsun.", "next": "sorgulaTeknisyen", "points": 7 },
+      { "text": "!hack → Uyarılarına aldırmadan dosyayı zorla açmaya çalışıyorsun.", "next": "hackDosya", "points": 9 }
+    ]
+  },
+  "sorgulaTeknisyen": {
+    "text": "Teknisyenin seni durdurmaya çalışan bakışlarına aldırmadan, bir adım daha yaklaşıyorsun.\n“Bana doğruyu söyle,” diyorsun kararlı bir sesle.\n“Bu dosyalar neden benden saklanıyor? Neden her şey Origo’ya bağlı?”\n\nTeknisyenin gözleri bir an titriyor. Çekingenliğini yutkunarak bastırmaya çalışıyor.\n“Sen… buraya gelmeden önce sana ait kayıtların çoğu temizlendi,” diyor.\n“Belleğin geri dönse bile, buradaki protokoller seni korumak için tasarlanmıştı.”\n\nBeni korumak mı?\nBu söz beyninde yankılanıyor, mide bulandırıcı bir şekilde.\n\n“Koruma mı diyorsun?” diyorsun, sesin sertleşerek.\n“Beni her şeyden kopararak mı koruyorsunuz?”\n\nTeknisyen bakışlarını kaçırıyor.\n“Başka yolu yoktu,” diyor fısıltıyla.\n“Sen… bu sistemin kurucususun. Ama bir şey oldu. Proje kontrolden çıktı. Seni bile tehdit eder hale geldi. O yüzden… hafızan sıfırlandı.”\n\nO an dizlerinin bağı çözülür gibi oluyor. Bir süre kelimeleri toparlayamıyorsun.\nKurucu… ben miyim?\n\nTeknisyen elini sana doğru uzatıyor, neredeyse yalvarırcasına:\n“Lütfen, bu bilgilerle şimdilik oynamaya çalışma. Güvenlik katının alt seviyesine in, orada seni bekleyen biri var. Gerçekleri yavaş yavaş öğrenmen gerekiyor.”\n\nGözlerin panele takılıyor:\n\n**Origo Ana Belleği: Erişim Yetkisi Bekleniyor**\n\nBu kadarına rağmen hâlâ dosyayı açmak istiyorsun. Ama belki de teknisyenin dediği doğrudur…\n\nNe yapacaksın?",
+    "options": [
+      { "text": "!indir → Alt kata inip, seni bekleyen kişiye ulaşmayı kabul ediyorsun.", "next": "altKat", "points": 8 },
+      { "text": "!hack → Yine de dosyayı zorla açmaya kararlısın.", "next": "hackDosya", "points": 10 }
+    ]
+  },
+  "altKat": {
+    "text": "Derin bir nefes alıyorsun. Bu kadar bilgi, bu kadar boşluk… Zihnin neredeyse patlayacak gibi. Ama içgüdülerin bu sefer teknisyenin haklı olabileceğini söylüyor.\n\nVeri modülünü sıkıca tutup başını sallıyorsun.\n“Tamam,” diyorsun, sesin yorgun ama net. “Alt kata ineceğim.”\n\nTeknisyenin yüzünde, hafif de olsa bir rahatlama okunuyor.\n“Akıllıca bir karar,” diyor.\nSonra parmaklarıyla duvardaki paneli işaret ediyor.\n“Bu asansör seni doğrudan -3 Seviyesine götürür. Orada seni biri karşılayacak. Onunla konuşmadan, hiçbir protokolü devreye alma.”\n\nAsansör kapısı sessizce açılıyor. İçerisi, gri metalden soğuk bir kutu gibi. Basamaklarını ağır ağır atıyorsun. Asansör aşağı inmeye başladığında, miden kasılıyor.\n\nKaranlık, uzun bir iniş.\nKafanda yankılanan sesler…\nKurucusun… kurucusun… kurucusun.\n\nBunu kendine bile itiraf edemiyorsun, hâlâ bir kabus gibi geliyor.\n\nBir süre sonra asansör duruyor. Kapı sessizce aralandığında, soğuk bir hava akımı yüzüne vuruyor.\nDar, loş bir koridor. Duvarlarda sadece tek bir kelime parlıyor:\n\n**GÜVENLİK ALANI**\n\nAyak seslerini duyuyorsun, ileriden bir silüet yaklaşıyor.\nKimin olduğunu seçemiyorsun ama sesleniyor:\n“Hoş geldin,” diyor.\n“Geçmişini öğrenmeye hazır mısın?”\n\nNe yapacaksın?",
+    "options": [
+      { "text": "!hazirim → Geçmişinle yüzleşmek için ileri yürüyorsun.", "next": "gecmisYuzles", "points": 10 },
+      { "text": "!dön → Korkuya yenilip laboratuvara geri dönüyorsun", "next": "geridon", "points": -20 }
+    ]
+  },
+  "geridon": {
+  "text": "Korku ve belirsizlik içini sarıyor. O an, ilerlemek yerine geri çekilmenin daha güvenli olduğunu düşünüyorsun.\nAsansöre binip laboratuvara geri dönüyorsun, içinde acaba doğru mu yaptım düşüncesi dolaşıyor.\n\nAsansörün kapısı açılıyor. Laboratuvara doğru yöneliyorsun; tanıdık cihazlar, veri panelleri ve o teknisyen…\n\nİçine yerleşen huzursuzluk büyüyor ama bilmediğin bir şeyi yapmak üzere olduğunu seziyorsun.\n\n“Yine de dosyaya erişmeliyim,” diyorsun kendi kendine.\n\nTableti eline alıp, yeniden Kurucu Protokolü - Gizli dosyasını açmaya çalışıyorsun.\nTeknisyen seni uyarıyor. \"Geri dönmemeliydin, bu yaptığın çok büyük bir hata.\"\n\nTeknisyenin söylediklerine kulak asmıyorsun. Dosyayı hacklemek için kararlısın.",
+  "options": [
+    { "text": "!hack → Yine de dosyayı zorla açmaya kararlısın.", "next": "hackDosya", "points": 2 }
+  ]
+},
+"hackDosya": {
+  "text": "Uyarılara rağmen, merakın ve kararlılığın ağır basıyor. Teknisyenin sözlerini kulak arkası ederek, terminale yaklaşıp şifreleri zorlamaya başlıyorsun. Parmakların hızlıca tuşlarda dans ediyor; her saniye kalbin hızlanıyor.\n\nEkranda güvenlik duvarları bir bir aşılırken, içeride saklı belgeler ve veriler hızlıca açığa çıkıyor. Bir dosya, diğerinden daha ağır geliyor sana:\n\n**Kurucu Protokolü - Ana Bellek Erişimi**\n\nVeri akışı içinde eski anılar, kodlar, notlar, protokoller...\nSanki kayıp bir yapbozun parçalarını birleştiriyorsun; ancak parçalar birbirinden kopuk, karmaşık.\n\nBir an için, yüzlerce kod satırı ve grafik akarken, hafızanın derinliklerinde yankılanan eski bir ses duyuyorsun:\n\"Hatırla... Bizi hatırla...\"\n\nAma bu anlık içsel çağrı, sistemin güvenlik protokolleri tarafından hızla bastırılıyor. Kırmızı ışıklar yanıp sönmeye başlıyor, alarm sesi kulaklarında uğuldayarak çoğalıyor.\n\n**YETKİ AŞIMI TESPİT EDİLDİ**\n**GÜVENLİK PROTOKOLÜ: NULL-LOCK AKTİFLEŞTİRİLDİ**\n\nEkran kararıyor, dosya aniden kilitleniyor ve tüm bağlantılar kopuyor.\nElindeki terminalden aniden çekilmiş gibi hissediyorsun; kayıp parçalar beynini zorluyor. Hafızan hâlâ silik, kırık ve seni en çok korkutan, gerçeklerin ardındaki karanlık hala kapalı.\n\nO an, içindeki fırtına büyüyor. Zihnin arasında iki yol beliriyor:",
+  "options": [
+    { "text": "!sıfırla → Bu yaşadıkların ağır geliyor. Bu yeni bir hayat kurma fırsatı mı yoksa?", "next": "sifirla", "points": 5 },
+    { "text": "!hafıza → Aklına hafıza odası geliyor. Belki de umutların tükenmemiştir.", "next": "hafizaOdasi", "points": 1 }
+  ]
+},
+"sifirla": {
+  "text": "Hafızanı sıfırlamaya karar veriyorsun. Bu yaşadığın ağırlık, taşıyamayacağın kadar büyük. Kendi iradenle, geçmişinin zincirlerinden kurtulmayı seçiyorsun.\n\nTerminale son bir komut giriyorsun. Tüm veriler, anılar, korkular — hepsi saniyeler içinde silinip gidiyor. Hafızanda yankılanan o boşluk hissi, şimdi sonsuz bir sessizlikle yer değiştiriyor.\n\nArtık ne Proje Origo, ne de kuruculuk… sadece yepyeni, bomboş bir sayfa.\n\n💾 Oyun Sonu: Hafızanı terk ederek kendini korumayı seçtin. Kim olduğunu hatırlamayacak olsan da, belki bu sefer huzuru bulabilirsin.",
+  "options": [
+    { "text": "Skorunu Gör +10 puan", "next": "finalSkor", "points": 10 }
+  ]
+},
+"hafizaOdasi": {
+  "text": "Koridorun loş ışıkları arasında derin bir nefes alıyorsun. Zihnindeki parçalar hala dağınık, ama içinde bir kıvılcım yanıyor — umudun.\n\n“Hafıza odası...”\nTeknisyenin sözleri geliyor aklına, orası kayıp parçalarını bir araya getirebileceğin, gerçeklere yaklaşabileceğin tek yer.\n\nAdımlarını hızlandırarak, koridorun sonunda eski, ağır bir kapıya geliyorsun.\nÜzerinde silik harflerle:\n\n**HAFIZA ODASI**\n\nKapı ağır ama kararlı bir hareketle açılıyor. İçeri adım attığında, gelişmiş teknolojiyle dolu, soğuk ama etkileyici bir oda seni karşılıyor.\nDuvarlarda parlayan dijital paneller, hafıza kayıt cihazları ve karmaşık kablolar göz kamaştırıyor.\n\nOdanın tam ortasında, devasa, insan bedenine uygun bir koltuk var. Burası, geçmişinle doğrudan bağlantı kurabileceğin nokta. Anılar burada uyuyor — bekliyor.\n\nKendi kendine fısıldıyorsun:\n“Şimdi başlamanın zamanı…”\n\nSisteme bağlanıyorsun. Hafıza taraması başlıyor. Başlangıçta bulanık, kopuk görüntüler ve anılar beliriyor. Ama gittikçe daha netleşiyorlar, eski sesler ve yüzler canlanıyor.\nAncak hafızanın derinliklerinde gizlenmiş karanlık bir gölge var; geçmişin sırlarını saklayan bir güç…\n\nBu gölgeyle yüzleşmek zorundasın.\n\nNe yapacaksın?",
+  "options": [
+    { "text": "!devam → Hafızanın derinliklerine dalıp, bu gölgeyle yüzleşmeye hazırlanıyorsun.", "next": "hafizaDerinlik", "points": 10 }
+  ]
+},
+"hafizaDerinlik": {
+  "text": "Derin bir nefes alıyorsun. Hafıza odasının soğuk atmosferi içinde, karanlık gölge seni bekliyor. Zihnindeki puslu anılar, sisler içinde belirip kayboluyor.\n\nEllerin titrerken, koltuğa doğru ilerliyorsun. Sistem bağlantısını sağlarken, gölge şekillenmeye başlıyor; yaşanmış acılar, ihanetler ve unutulmuş gerçekler bir araya geliyor.\n\nİki seçenek beliriyor önünde:",
+  "options": [
+    { "text": "!hatıra → Geçmişte yaşanan önemli bir anıyı seçerek, olayları detaylıca çözmeye çalışacaksın. Bu yol, hafızanın kilit noktalarını açabilir.", "next": "gecmisAnilar", "points": 10 },
+    { "text": "!parlaklık → Hafızanın içinde beliren bir ışık huzmesine odaklanıyorsun. Bu seçenek, sana beklenmedik bir keşif ve yeni umut kapısı açabilir.", "next": "parlaklik", "points": 8 }
+  ]
+},
+"gecmisAnilar": {
+  "text": "Koltuğa otururken, hafıza sistemin seni geçmişin en derin köşelerine götürmek için hazırlanıyor. Bir anda gözlerinin önünde donuk bir görüntü beliriyor:\n\nSoğuk bir gece, eski bir laboratuvar. Sesler yankılanıyor; tartışmalar, uyarılar, bir ihanetin habercisi. Karanlık figürlerin siluetleri, elindeki dosyaya göz gezdiriyor.\n\n“Bunu asla ortaya çıkarmamalısın...” Fısıltı, hafızanın bir köşesinden geliyor.\n\nAma sen… o günü yeniden yaşarken, unutulmuş detaylar zihninde canlanıyor. Bir isim, bir yüz belirmeye başlıyor.\n\nSaklanan sırların kapısı aralanıyor; kim ve neden biri hafızanı silmek istemiş olabilir ki?\n\nNe yapacaksın?",
+  "options": [
+    { "text": "!takip → O ismin peşine düşerek, sırların izini sürmeye karar veriyorsun.", "next": "isimIzle", "points": 10 },
+    { "text": "!araştırmayaDevam → Hafızandaki diğer parçaları inceleyip, bağlantıları çözmeye çalışıyorsun.", "next": "baglantiCoz", "points": 8 }
+  ]
+},
+"isimIzle": {
+  "text": "İzini sürdüğün isim, hafızanın karanlık köşelerinde gölgeler gibi dolaşıyor. Adım adım, karmaşık veri dosyaları ve eski kayıtlar arasında, seni geçmişin en saklı sırlarına götürecek izler peşindesin. Bilinmezlik ve tehlike iç içe; kimi zaman duyduğun uzak bir fısıltı, kimi zaman karşılaştığın keskin bakışlar seni gözlüyor. Kendini, hatırlamak istemediğin anların, ihanetlerin ve gizli planların ortasında buluyorsun.\n\nBir noktada, elinde eski bir anahtar parçası var — sembolik mi yoksa gerçek bir anahtar mı, bilmiyorsun.\nAma bu anahtar, kapalı kapıların ardındaki gerçeklerle yüzleşmenin anahtarı olabilir.\n\nÖnünde iki yol var:",
+  "options": [
+    { "text": "!gizliGeçit → Anahtarın uyduğu gizli bir kapı bulmaya çalışıyorsun. Belki orada kayıp anılar ve cevaplar seni bekliyordur.", "next": "gizliGeçit", "points": 10 },
+    { "text": "!direktYüzleş → Cesaretini toplayıp, isminle ilişkilendirilen kişiyle doğrudan yüzleşmeye karar veriyorsun. Bu riskli ama gerekli bir adım.", "next": "isimleYuzles", "points": 12 }
+  ]
+},
+
+"baglantiCoz": {
+  "text": "Hafızandaki parçaları didik didik etmeye devam ediyorsun.\nKarmaşık kodlar, eski dosyalar ve hatıra kırıntıları arasında kaybolmuş gibisin.\nHer yeni parça, geçmişin karanlık ve karmaşık labirentinde yeni bir kapı aralıyor.\n\nBir an, ekranda eski bir dosya yavaşça beliriyor:\n“Kilitli Anı: Kritik Olay”\n\nBu anıya erişmek için özel bir onay gerekiyor. Kalbin hızlanıyor; bu kapının arkasında seni nelerin beklediğini bilmiyorsun ama bilmeyi de çok istiyorsun.\n\nNe yapacaksın?",
+  "options": [
+    { "text": "!anıyıAç → Kilitli kapıyı açıp, o kritik anıyı keşfetmeye cesaret ediyorsun.", "next": "kilitliAni", "points": 12 },
+    { "text": "!parlaklık → Hafızandaki o gizemli ışık huzmesine tekrar yöneliyorsun; yeni umut ve keşif kapısını aralamak için.", "next": "parlaklik", "points": 8 },
+    { "text": "!geriDön → Geri dönüp hafızanı silen kişiyi bulmaya çalışıyorsun.", "next": "isimIzle", "points": 5 }
+  ]
+},
+"geriDon": {
+  "text": "Zihnindeki karmaşık parçaları bir kenara bırakıp, asıl amacına odaklanmaya karar veriyorsun: Hafızanı silen kişiyi bulmak. Adımlarını hızla hızlandırarak, önceki ipuçlarının seni götürdüğü o ismin peşine düşüyorsun.\n\nKaranlık koridorlar, sessiz odalar arasında ilerlerken, her ses ve gölge seni gerçeğe biraz daha yaklaştırıyor.\nGeçmişin sisleri arasında kaybolmak yerine, şimdi sırları ortaya çıkarmak için savaşma zamanı.\n\nBir sonraki adım:",
+  "options": [
+    { "text": "!takip → Hafızanı silen kişinin izini sürmeye devam et.", "next": "isimIzle", "points": 5 }
+  ]
+},
+"parlaklik": {
+  "text": "Hafızanın derinliklerinde, puslu görüntüler arasında parlayan bir ışık huzmesi dikkatini çekiyor. Bu parlaklık, sana umut ve keşif vaat ediyor; geçmişin karanlık labirentinde bir rehber gibi. Işığa doğru ilerledikçe, zihninde eski anılar daha net beliriyor; unutulmuş yüzler, gizli mesajlar ve kodlar bir araya geliyor. Sanki uzun süredir kapalı kalan bir kapı yavaş yavaş aralanıyor. Ancak bu parlaklık, beraberinde bilinmezlik ve riskler de getiriyor.\nKarşında, geleceğini değiştirebilecek bir karar var.\n\nSeçeneklerin:",
+  "options": [
+    { "text": "!anıyıAç → Kilitli kapıyı açıp, o kritik anıyı keşfetmeye cesaret ediyorsun.", "next": "kilitliAni", "points": 8 },
+    { "text": "!ışığaİlerle → Parlaklığın peşinden gidip, yeni bir umut ve gerçeğin kapısını aralamaya cesaret ediyorsun.", "next": "umutKapi", "points": 10 }
+  ]
+},
+"yuzles": {
+  "text": "Güvenlik odasının kapısını araladığında, soğuk ışıklar altında bekleyen iki figür beliriyor karşında. Onların gözlerinde, seni tanıyan ama aynı zamanda sana karşı koruma içgüdüsü taşıyan karmaşık duygular var. Sessizlik içinde, kim olduklarını ve ne amaçla burada olduklarını anlamaya çalışıyorsun.\n\n“Burası çok tehlikeli,” diyor biri, sesi derin ve ciddi.\n“Buraya gelmen, her şeyi değiştirebilir.”\n\nDerin bir nefes alıyorsun; geçmişin ve geleceğin arasında ince bir çizgide yürüyor gibisin. Cevaplar yakında, ama her adımda risk artıyor.\n\nİki seçenek beliriyor:",
+  "options": [
+    { "text": "!ikna → Onlarla konuşup güvenlerini kazanmaya çalışıyorsun. Belki de senin için gizlenen gerçekleri öğrenebilirsin.", "next": "iknaEt", "points": 10 },
+    { "text": "!zorla → Risk alıp, kontrolü ele geçirmeye karar veriyorsun. Tehlike büyük ama gerçekleri daha çabuk öğrenebilirsin.", "next": "zorla", "points": 12 }
+  ]
+},
+"zorla": {
+  "text": "Gözlerini kısarak, karşında duran iki figüre sertçe bakıyorsun. Artık kaybedecek bir şeyin kalmadığını hissediyorsun. İçindeki bastırılmış öfke, korkularını geri itiyor.\n\n“Yolumdan çekilin,” diyorsun dişlerinin arasından. Sesin soğuk ve kararlı.\n\nAdamların biri elini hafifçe silahına götürüyor, ama diğerinin yüzünde bir tereddüt var. O anı yakalıyorsun — ani bir hamleyle öne atılıp, kolunu savurarak silahı kenara itiyorsun. Dengen bozulsa da kararlılığınla ayakta kalıyorsun.\n\n“Geri durun!” diye haykırıyorsun. “Sakladığınız ne varsa, onu öğrenmek zorundayım.”\n\nBir anlık gerilim… Sonra adamların bakışları birbirine kayıyor. Sanki sessiz bir karar veriyorlar. İçlerinden biri yavaşça başını sallıyor ve kapının şifresini tuşluyor.\n\n“Pekâlâ,” diyor boğuk bir sesle, teslimiyetle. “Bunu istiyorsan, git ve kendi gözlerinle gör.”\n\nAğır kapı açılıyor. Arkasından yayılan buz gibi hava yüzünü okşuyor. Titreyen ışıkların altından uzun bir koridor uzanıyor — koridorun sonunda, Anı Odası. Adımların kararlı, nefesin hızlı. Geri dönmek için artık çok geç.",
+  "options": [
+    { "text": "!anıOdasınaGit → Kapıdan geçerek, seni bekleyen gerçeklerle yüzleşmeye gidiyorsun.", "next": "aniOdasi", "points": 5 }
+  ]
+},
+"iknaEt": {
+  "text": "Derin bir nefes alıp, sakin bir sesle konuşuyorsun.\n“Buraya savaşmaya gelmedim,” diyorsun, bakışlarını karşındaki iki figürün gözlerine sabitleyerek. “Yalnızca gerçeği öğrenmek istiyorum. Yardımınıza ihtiyacım var.”\n\nAdamların arasında bir sessizlik oluşuyor. Biri, siyah üniformasının yakasında parlayan ORIGO sembolüne dokunuyor; diğerinin yüzünde ise tereddüt okunuyor. Birbirlerine kısa bir bakış atıyorlar.\n\n“Bize gerçekten tehdit olmadığını kanıtlaman gerek,” diyor öndeki.\n“Çünkü sen… bu sistemin kurucususun. Ve bu seni hem tehlikeli, hem vazgeçilmez yapıyor.”\n\nBu sözler kalbine saplanan bir bıçak gibi oluyor; kurucu… yine aynı kelime. Beyninde yankılanıyor. Adam devam ediyor:\n“Sana güvenebilmemiz için bir seçim yapman gerekiyor.” Elindeki küçük bir paneli sana uzatıyor:\n\n“Birincisi, seninle ilgili kilitli bir hafıza dosyasına birlikte erişmeyi deneyebiliriz. İkincisi, bizle basit bir güven protokolüne girersin, bazı sorulara yanıt vererek samimiyetini ölçeriz.”\n\nDerin bir nefes alıyorsun. Kolay bir karar değil. Geleceğin bu seçimlere bağlı.\n\nSeçeneklerin:",
+  "options": [
+    { "text": "!kilidiÇöz → Onlarla birlikte kritik bir hafıza dosyasını açarak gerçeğe yaklaşmayı deneyeceksin.", "next": "kilitliDosya", "points": 12 },
+    { "text": "!sorularıYanıtla → Güven protokolüne katılıp, onlara sadakatini ispatlamaya çalışacaksın.", "next": "guvenProtokol", "points": 8 }
+  ]
+},
+"kilitliDosya": {
+  "text": "Adamların yanında dizüstü bir terminal açılıyor. Yüzeyindeki soluk mavi ışıklar titrerken, sana dönüp başını sallıyorlar.\n\n“Hazır mısın?” diye soruyor biri. Başını onaylayarak eğiyorsun.\n\nTerminalin ekranına bağlanınca, beyninle bağlantılı eski kod dizinleri açılıyor. Gözlerinin önünde parçalanmış anılar akıyor: çocuk sesleri, laboratuvar koridorları, panik dolu bağırışlar… Bir satırda bir isim takılıyor gözlerine: **Proje Originator**\n\nBu sensin…\n\nAma bağlantı stabil değil. Anıların ortasında kopuk imgeler beliriyor: Bir sabotaj, karanlık bir işbirliği, ve kendine bile itiraf edemediğin bir emir. Bir anda terminal titriyor ve kesiliyor. Adam, elini omzuna koyarak seni toparlıyor: “Tamam, yeter. Bu kadar bilgiye bile dayanabildin. Bu güvenilirliğinin kanıtı.”\n\nTesti başarıyla geçtikten sonra, güvenlerini kazandığını hissediyorsun. Adam, gri metal bir kartı cebinden çıkarıp uzatıyor:\n“Alt seviyedeki anı odasına git. Orada seni bekleyen gerçekler var. Bu kartı kullan.”\n\nYüzüne yerleşen o sonsuz sorularla birlikte kartı alıyorsun. Bir sonraki adımın, artık geri dönüşsüz olacak.",
+  "options": [
+    { "text": "!anıOdasınaGit → Kartı kullanarak anı odasına inmeyi kabul ediyorsun.", "next": "aniOdasi", "points": 10 }
+  ]
+},
+
+"guvenProtokol": {
+  "text": "Seni küçük, parlak bir odaya alıyorlar. Metal bir masa, karşısında iki sandalyeyle bekliyor.\n“Basit sorular,” diyor adam, not defterine bakarak. “Cevaplarının tutarlılığına bakacağız.”\n\nSorular hızlıca geliyor:\n“Son hatırladığın olay nedir?, Origo senin için ne ifade ediyor?, Bize ihanet eder misin?”\n\nNefesini kontrol etmeye çalışıyorsun, kelimeler boğazında düğümleniyor. Ama her soruya dürüstçe cevap veriyorsun. Beynindeki karmaşa seni korkutuyor olsa da, açık olmaktan başka seçeneğin yok.\n\nAdam sonunda gözlerini kapatıp başını sallıyor: “Tamam. Bize karşı dürüst olduğunu görüyoruz.”\n\nTesti başarıyla geçtikten sonra, güvenlerini kazandığını hissediyorsun. Adam, gri metal bir kartı cebinden çıkarıp uzatıyor:\n“Alt seviyedeki anı odasına git. Orada seni bekleyen gerçekler var. Bu kartı kullan.”\n\nYüzüne yerleşen o sonsuz sorularla birlikte kartı alıyorsun. Bir sonraki adımın, artık geri dönüşsüz olacak.",
+  "options": [
+    { "text": "!anıOdasınaGit → Kartı kullanarak anı odasına inmeyi kabul ediyorsun.", "next": "aniOdasi", "points": 10 }
+  ]
+},
+"gecmisYuzles": {
+  "text": "Derin bir nefes alıyorsun. Soğuk metal kokusu, koridorun paslı duvarlarına sinmiş gibi. Titreyen ışıklar, adımlarına eşlik ediyor. O karanlık silüet, birkaç metre ileride seni bekliyor. Gözlerinde tanıdık ama aynı zamanda yabancı bir gölge var. Bir adım daha yaklaştığında, onun yüzünü seçebiliyorsun. Gözleri sende sabitlenmiş, ağır ve yargılayan bir bakış.\n\n“Geçmişini öğrenmeye geldin değil mi?” diyor. Sesi bir bıçak gibi keskin. “Bunu duyduktan sonra bir daha asla geri dönemezsin.”\n\nYutkunuyorsun. Kalbin deli gibi atıyor. O, cebinden bir cihaz çıkarıyor — parlak, küçük bir bellek modülü.\n\n“Bunu sana göstereceğim,” diye devam ediyor. “Fakat önce karar vermelisin. Bu kayıtlar sadece gerçeği değil, en derin korkularını da ortaya çıkaracak.”\n\nBir an duraksıyorsun. Bu kadar yükü kaldırabilecek misin? Ama cevabı çoktan biliyorsun: Evet. Bir baş sallaması yetiyor. Adam başını eğiyor, bellek modülünü bir terminale takıyor. O an ekranda parlayan tek bir kelime beliriyor:\n\n**ORIGINATOR**\n\nBir flaş gibi zihnine vuruyor. Bu kelime seni sarsıyor.\nSen… bu projenin kurucususun. Sen… bu sistemin mimarısın.\n\nDizlerin hafif titriyor. Hatırlamaya başlıyorsun. Çığlıklar, laboratuvarlar, deneyler, insanları bile bile kobay yapışın… Bir kısmı bulanık, ama parçalar birleşmeye başlıyor.\n\nAdam sana dönüp ciddi bir sesle soruyor:\n“Şimdi önünde iki yol var,” diyor. “Ya bu sistemi geri alıp onu kontrol edeceksin, ya da bu lanetin içinden kurtulup sonsuza dek kaçacaksın.”",
+  "options": [
+    { "text": "!kontrol → Sistemi geri almak ve kurucu kimliğinin tüm gücüyle gerçeği değiştirmek.", "next": "sistemiKontrolEt", "points": 10 },
+    { "text": "!kaç → Bu karanlık döngüden kaçarak, başka bir hayata doğru sıfırdan başlamak.", "next": "yeniHayatBasla", "points": 8 }
+  ]
+},
+"yeniHayatBasla": {
+  "text": "Kalbin yerinden fırlayacakmış gibi atıyor. O anın ağırlığı omuzlarına çökerken, tek düşüncen bu karanlık zincirlerden kurtulmak. Adım adım geriye çekiliyorsun; her adımda geçmişin gölgeleri seni daha da sıkıştırıyor ama kaçmak, hayatta kalmanın tek yolu. Karanlık koridorlardan hızla geçerken, arkanızda çığlıklar yükseliyor — uyarılar, tehditler, belki de seni durdurmak isteyenlerin sesleri. Ancak artık dinlemiyorsun.\n\nDışarı çıktığında, soğuk havanın ciğerlerine doluşunu hissediyorsun. Gözlerini kapatıp derin bir nefes alıyorsun. “Başka bir hayat… başka bir başlangıç…” diyorsun kendi kendine. Ama bu kaçış, seni yalnızca bilinmezliklere sürüklüyor. Hafızanın parçaları hala eksik; gerçekler bir yerlerde seni bekliyor. Adımlarını bilinmezliğe atarken, kalbinin en derinlerinde bir ses yankılanıyor:\n\n“Kurucu olmak, sadece güç değil. Sorumluluk demektir.” Ama sen, şu an için sadece özgürlük istiyorsun.\n\n💾 Oyun Sonu: Yeni bir hayat için yola çıktın. Geçmişin seni bırakmadı ama peşinden gelen karanlık gölgelerden kaçmayı başardın. Bu senin seçimin, ama hatırlaman gereken tek şey var: Kaçış sonsuza dek sürmez.",
+  "options": [
+    { "text": "Skorunu Gör +10 puan", "next": "finalSkor", "points": 10 }
+  ]
+},
+"sistemiKontrolEt": {
+  "text": "Derin bir nefes alıyorsun; korku ve kararlılık birbirine karışıyor. Artık geri dönüş yok. Kurucu kimliğinin gücü, üzerindeki sorumluluğu da beraberinde getiriyor.\n\nAdımlarını sağlamlaştırarak o karanlık terminale yöneliyorsun. Parlak ekranlar önünde, sistemin kalbine dokunma zamanı. Kodlar, protokoller, gizli veriler gözlerinin önünde akıyor.\n\nHer satırda, yarattığın sistemin büyüklüğü ve karanlığıyla yüzleşiyorsun. Yanlış kararlar, ihanetler ve kayıplar… Hepsi burada, şimdi senin kontrolünde.\n\nAma bu güç, seni aynı zamanda tehlikelere de sürüklüyor. Sistem seni kabul edecek mi? Yoksa kendi yarattığın labirentin içinde mi kaybolacaksın?\n\nBir seçenek beliriyor:",
+  "options": [
+    { "text": "!hakimOl — Sistemi tamamen ele geçir, kurucu olarak gerçek kontrolü eline al ve geleceği şekillendir.", "next": "sistemiEleGecir", "points": 12 },
+    { "text": "!kontroluBırak — Gücün getirdiği ağırlıktan bir adım geri çekil, farklı bir yol aramaya başla.", "next": "yeniYolAra", "points": 6 }
+  ]
+},
+"yeniYolAra": {
+  "text": "Bir an duraksıyorsun. Tüm gücü elinde tutmanın ağırlığı omuzlarını sıkar ama aklında bir ses, bu gücün seni tamamen kontrol etmemesi gerektiğini söylüyor. Belki de asıl yol, gücü dengede tutmaktan geçiyor.\n\nGözlerin soğuk ekranlardan uzaklaşırken, içindeki huzursuzluk yerini yeni bir kararlılığa bırakıyor. Bu karmaşık sistemin içinde farklı bir yol keşfetmek için adımlarını yeniden atıyorsun. Ancak bu yol, bilinmezliklerle dolu; her köşe yeni bir sır, her adım yeni bir meydan okuma.\n\nİki seçenek beliriyor:",
+  "options": [
+    { "text": "!dengeyiKur — Sistemin derinliklerinde dengeyi sağlamaya çalışarak, gücünü kontrollü bir şekilde kullanmayı hedefliyorsun.", "next": "dengeyiKur", "points": 8 },
+    { "text": "!gölgelerleDans — Gücün sınırlarını zorlayarak, sistemin karanlık yanlarına doğru ilerliyorsun; riskler büyüyor ama sırlar da açığa çıkıyor.", "next": "gogelerleDans", "points": 10 }
+  ]
+},
+"dengeyiKur": {
+  "text": "Sistemin soğuk kalbinde, titreyen kod satırları arasında derin bir nefes alıyorsun. Bu gücü tamamen ele geçirmek yerine, onu dengelemeyi seçiyorsun. Protokolleri titizlikle düzenlerken, gözünün önünden geçen eski anılar — kayıplar, ihanetler, fedakârlıklar — sana yol gösteriyor.\n\nYavaş ama emin adımlarla sistemin dengelerini yeniden kuruyorsun. Aşırı güçlenmeye çalışan modülleri bastırıyor, koruma katmanlarını güçlendiriyor, kendi yarattığın bu teknolojiyi insanlığa fayda sağlayacak şekilde yönlendiriyorsun.\n\nBir süre sonra ekranlarda beliren mesaj seni rahatlatıyor:\n\n**Sistem dengede.**\n\nBir gülümseme yerleşiyor yüzüne. Belki de en zor seçim buydu; kendi gücünün kölesi olmamak. Ve sonunda, uzun zamandır ilk kez umut dolu bir nefes alıyorsun.\n\n💾 Oyun Sonu: Dengeyi sağladın ve geleceğe barış getirdin.",
+  "options": [
+    { "text": "Skorunu Gör +15 puan", "next": "finalSkor", "points": 15 }
+  ]
+},
+
+"gogelerleDans": {
+  "text": "Kendini tutamıyorsun. Karanlığın çağrısı çok güçlü; dizginlenemez bir merak, hırs ve belki de intikam hissi damarlarında akıyor. Adımlarını derinlere, sistemin gölgeli kısımlarına doğru atıyorsun.\n\nSistemin yasaklanmış protokollerini aktif ediyorsun; deneysel modülleri, tehlikeli güvenlik bypass’larını, akla zarar algoritmaları…\n\nBir süre sonra, ekranlarda garip semboller dans etmeye başlıyor. Kendi yarattığın şey seni bile tanımaz hale geliyor. Kontrol ettiğini sandığın güç, sana geri dönüyor.\n\nBir uğultu, kulaklarının derinliklerinde çınlıyor. Kodu okumaya çalışırken birden görüntüler paramparça oluyor. Sistem seni yutuyor, kim olduğunu bile hatırlayamayacağın karanlık bir sonsuzluğa sürüklüyorsun.\n\n💾 Oyun Sonu: Gücün cazibesi seni tüketti ve yarattığın karanlıkta kayboldun.",
+  "options": [
+    { "text": "Skorunu Gör -15 puan", "next": "finalSkor", "points": -15 }
+  ]
+},
+"sistemiEleGecir": {
+  "text": "Derin bir nefes alıyorsun. Tüm sistem, tüm kod, tüm sırlar… hepsi parmaklarının ucunda. Kurucu olarak, nihayet kendi mirasına sahip çıkmaya karar veriyorsun. Terminalin ekranına baktığında, gözlerinin önünde sonsuz satırlarca veri, geçmişten kalan kayıtlar, anılar ve devasa bir sorumluluk akıyor.\n\nİçindeki korkuyu bastırıyorsun. Bu sistem senden doğdu, seni tanıyor — ve şimdi yeniden sana hizmet edecek. Protokolleri yavaş yavaş devralırken, bir karar vermen gerekiyor: Bu gücü nasıl yönlendireceksin?",
+  "options": [
+    { "text": "!koru → Sistemi insanlığı koruyacak şekilde yeniden tasarla, iyileştir, adil bir düzen kur.", "next": "koruSon", "points": 10 },
+    { "text": "!yenidenKur → Sistemi baştan inşa ederek hatalarını sil, daha güçlü ama daha vicdanlı bir düzen kurmayı seç.", "next": "yenidenKurSon", "points": 10 }
+  ]
+},
+
+"koruSon": {
+  "text": "Sistemin köklerine ulaştığında, orada masum hayatların izlerini görüyorsun. Acılar, kayıplar, yanlış kararların bedelleri… Sen bunları tekrarlamayacaksın.\n\nSistem çekirdeğine erişip kodları düzenlerken, insanlığı koruyacak bir kalkan kuruyorsun. Güçlü ama adaletli bir yapı. Hiçbir baskıcı unsurun egemen olamayacağı, insanların yeniden huzur içinde yaşayabileceği bir düzen.\n\nSistem kısa süreliğine donuyor… Sonra yeşil bir mesaj beliriyor:\n\n**KORUMA MODÜLÜ AKTİF**\n\nBir gülümseme yerleşiyor yüzüne. Artık umut var.\n\n💾 Oyun Sonu: Sistemi adalet için kullandın ve insanlığı korudun.",
+  "options": [
+    { "text": "Skorunu Gör +20 puan", "next": "finalSkor", "points": 20 }
+  ]
+},
+
+"yenidenKurSon": {
+  "text": "Yıllar boyunca yapılan hataların izleri, bu sistemin damarlarına işlemişti. Onları düzeltmek için basit yamalar yetmeyecekti. Gözlerini kararlı bir şekilde ekrana dikiyorsun ve tüm altyapıyı silip, sıfırdan kuracak komutu giriyorsun. Veriler bir bir silinirken, içinde eskiyle vedalaşmanın acı tatlı huzurunu hissediyorsun.\n\nSonra yeniden başlıyorsun: daha temiz, daha vicdanlı, daha akıllı bir çekirdek kod. Bittiğinde derin bir nefes alıyorsun; bu kez aynı hatalara izin vermeyeceksin.\n\n**YENİDEN KURULUM TAMAMLANDI**\n\nArtık bambaşka bir başlangıç.\n\n💾 Oyun Sonu: Sistemi yeniden inşa ederek geleceğe adil bir kapı açtın.",
+  "options": [
+    { "text": "Skorunu Gör +10 puan", "next": "finalSkor", "points": 10 }
+  ]
+},
+"gizliGeçit": {
+  "text": "Anahtarın soğuk metalini avucunda hissediyorsun. Bu kadar zamandır sana fısıldayan anıların, parça parça yitip giden hatıraların bir şekilde bu anahtarla bağlantılı olduğunu düşünüyorsun.\n\nLoş koridorlardan geçerken, duvarlarda kabartma semboller fark ediyorsun. Kimi tanıdık geliyor, kimi ise yabancı ve tehditkâr. Derinlerde bir kapı… Paslı, neredeyse unutulmuş bir kapı. Anahtarı sokup çevirdiğinde, kilit sessizce açılıyor.\n\nİçeri adım atar atmaz, bir laboratuvarın eski havası yüzüne çarpıyor. Masalarda, yarım kalmış cihazlar, sayısız veri kartuşu, ve üstü örtülü bir terminal duruyor. Terminal, hafif bir mavi ışıkla titriyor; sanki seni bekliyor.\n\nYaklaştığında ekranda eski bir mesaj beliriyor:\n\n“Kurucu modülü sen misin?”\n\nKalbin sıkışıyor. Bu odaya, bu terminale ait olduğunu hissediyorsun. Ama hâlâ hatırlayamadığın karanlık boşluklar var.\n\nÖnünde iki yol beliriyor:",
+  "options": [
+    { "text": "!moduluAktifEt → Terminali açıp kendini tamamen tanımlamayı deneyeceksin, geçmişinin derinliklerini ortaya dökmeye hazır ol.", "next": "moduluAktifEt", "points": 10 },
+    { "text": "!geriCekil → Bu odanın tehlikeli olduğunu hissediyorsun, geri adım atarak başka bir yol aramayı tercih ediyorsun.", "next": "geriCekil", "points": 6 }
+  ]
+},
+
+"geriCekil": {
+  "text": "O eski terminalin başında nefesin daralıyor. Parmakların tuşlara uzanmak istiyor, ama zihnindeki sisli uyarılar ağır basıyor.\n\n“Burası… tehlikeli olabilir.” Düşüncelerine hâkim olmaya çalışıyorsun. Bu kadar güçlü bir bilgi, belki de seni geri dönüşsüz bir karanlığa sürükleyecek. Bir an duraksıyorsun ve geri adım atıyorsun.\n\nLaboratuvardan çıkarken, eski kabloların hışırtısı, soğuk metalin kokusu, sana hâlâ kim olduğunu hatırlatmaya çalışıyor. Ama henüz hazır değilsin. Koridora geri döndüğünde, farklı bir yola yönelmen gerektiğini hissediyorsun. Belki başka bir kapı, başka bir ipucu, geçmişine giden daha güvenli bir rota vardır.\n\nÖnünde iki yeni seçenek beliriyor:",
+  "options": [
+    { "text": "!alternatifArayis → Laboratuvarın dışındaki koridorlarda farklı veri odalarını araştırmayı seçiyorsun.", "next": "alternatifArayis", "points": 8 },
+    { "text": "!direktYüzleş → Artık kaçamayacağını düşünüp, adını öğrendiğin kişiyle yüzleşmeye karar veriyorsun.", "next": "isimleYuzles", "points": 10 }
+  ]
+},
+"isimleYuzles": {
+  "text": "Eline sıkıca tuttuğun anahtarı cebine koyuyorsun. Artık sembollerin, kilitlerin, gizli odaların ardına saklanmayacağını biliyorsun. Bu kez gerçeğin kendisiyle, yani seni burada tutmaya çalışan ya da senden bir şey saklayan kişiyle yüzleşmeye karar verdin.\n\nDar bir geçitten geçip ağır bir kapının önüne geliyorsun. Kart okuyucusu, tanıdık bir onay sesiyle yeşile dönüyor. İçeri girdiğinde loş ışıkta bekleyen birini görüyorsun.\n\nO kişi — seni tanıyor. Bakışları seni didikliyor, sanki zihninin derinliklerini okuyormuş gibi. “Geldin,” diyor. Sesinde garip bir hayal kırıklığı var. “Bunu yapacağını biliyordum.” Kalbin yerinden çıkacak gibi atıyor. Bir yandan korku, bir yandan rahatlama…\n\n“Bana söyle,” diyorsun, sesin titreyerek, “Neden benim hafızamı sildin?”\n\nAdam uzun uzun sana bakıyor. Gözleri yorgun, pişmanlık dolu. “Çünkü,” diyor, “senin unutmaktan başka şansın yoktu. Bu sistem… bu dünya… seni yok edecekti.”\n\nBir an sessizlik oluyor. Zaman donmuş gibi.",
+  "options": [
+    { "text": "!inandir → Onun söylediklerinin doğru olduğuna inanıp, işbirliği yapmayı deneyeceksin. Belki gerçeğe birlikte ulaşabilirsiniz.", "next": "inandirDevam", "points": 10 },
+    { "text": "!reddet → Sözlerine güvenmeyip, gerçekleri zorla öğrenmeye karar vereceksin. Bu tehlikeli ama bağımsız bir yol olur.", "next": "reddetDevam", "points": 12 }
+  ]
+},
+
+    "finalSkor": {
+      "text": "🎉 Oyun Bitti! Toplam Puan: {score} 🏆",
+      "options": [
+        { "text": "Tekrar Oyna", "next": "uyanis", "action": "restart" },
+        { "text": "Ana Menüye Dön", "action": "redirect", "target": "ana.html" }
+      ]
+    }
+  }
+}

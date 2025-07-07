@@ -1,0 +1,268 @@
+{
+  "title": "Bir Futbolcu Hikayesi",
+  "author": "Senin Oyunun",
+  "start": "start",
+  "scenes": {
+    "start": {
+      "text": "Soğuk bir sabah, erken saatler. Şehrin sokakları henüz uyanmamış. Ama sen çoktan uyanmışsın. Yatak odasının köşesinde duran eski futbol topuna bakıyorsun. Hayallerin gözünün önünden geçiyor.\n“Bugün başka bir gün,” diyorsun kendi kendine. Yıllardır sakladığın o büyük hayalin peşinden koşmak için bir adım daha atacaksın. Ama hayat, hayaller kadar kolay değil. Evde sorunlar seni bekliyor. Ailenin maddi durumu, hastalıklar, ve kendini kanıtlama baskısı… Bir yandan seçmelere gitmek, diğer yandan evin yükünü taşımak.\n\nİşte tam da bu noktada, yolun ikiye ayrılıyor.",
+      "options": [
+        { "text": "!seçme → Bugün seçmeye gitmeye karar veriyorsun.", "next": "secme", "points": 5 },
+        { "text": "!sorumluluk → Bugün evde kalıp aile sorumluluklarını yerine getireceksin.", "next": "sorumluluk", "points": 3 }
+      ]
+    },
+    "sorumluluk": {
+      "text": "Kapıdan çıkarken arka planda annenin sesi yankılanıyor. Babasız büyümek, kardeşine bakmak ve evin yükünü taşımak sana düşmüş. Bugün, antrenmana gitmek yerine evde kalmaya karar veriyorsun.\nMutfakta yemek yapıyor, ilaçları hazırlıyorsun. Kardeşin oyun oynuyor ama sürekli seni gözlüyor. Yüzünde senin mutsuzluğunu anlama telaşı var. Arada bir pencereye bakıp dışarıdaki çocukların futbol oynamalarını izliyorsun. İçin buruk ama biliyorsun ki ailenin yanında olman gerek. Tam o sırada telefonun çalıyor. Antrenörden bir mesaj gelmiş: \"Bugün yoktun. Ama sana ikinci tur seçmeleri için şans vereceğiz. Gelmek ister misin?\" İçin kıpır kıpır oluyor. Hayallerin hala seninle, ama aile yükün ağır.\n\nŞimdi iki seçenek var ne yapacaksın ?",
+      "options": [
+        { "text": "!ikincişans → İkinci tur için hazırlanıp gitmek", "next": "ikinciSans", "points": 10 },
+        { "text": "!vazgeç → Ailene tamamen odaklanmak ve futboldan vazgeçmek", "next": "vazgec", "points": 2 }
+      ]
+    },
+    "vazgec": {
+      "text": "Gecenin sessizliğinde oturuyorsun. Telefonundaki mesajı defalarca okuyorsun. Kalbinin derinliklerinde bir acı var; hayallerin bir köşede unutulmaya yüz tutmuş. Ailenin yanında olmak, annene destek vermek artık en önemli şey. Futbol, belki de bu yolun sonu, belki de seçimleri kazanamayacaktın, belki de boşuna uğraşacaktın. Düşüncelere dalıyorsun. Bir süre sonra kendini toparlayıp, yeni bir hedef belirliyorsun. Belki iş hayatına atılacak, belki başka bir alanda kendini göstereceksin.\n\n🏁 Oyun Sonu: Hayallerin uçup gitmiş gibi değil; sadece şekil değiştirmiş. Toplam puan:",
+      "options": [
+        { "text": "Skorunu Gör +12 puan", "next": "finalSkor", "points": 12 }
+      ]
+    },
+    "ikinciSans": {
+      "text": "Sabahın ilk ışıkları odanın penceresinden süzülüyor. Gece boyunca gözüne uyku girmemiş. Vicdanın anneni evde bırakmak istemiyor fakat hayallerin daha ağır basıyor. Daha ileriyi düşününce futbolcu olup aileni daha iyi şartlarda geçindirebileceğini düşünüyorsun. Ve şimdi burada, ikinci tur seçmeleri için hazırlanıyorsun.\n\nYaptığın hataların, verdiğin zor kararların ağırlığını yüreğinde taşıyorsun, ama vazgeçmek artık seçenek değil. Bugün rakipler daha deneyimli, ama senin gözlerin hedefe kitlenmiş.\nİçinden fısıldıyorsun: \"Ben buradayım, pes etmeyeceğim.\"",
+      "options": [
+        { "text": "!seçme → Seçmelere git ve kendini göster", "next": "secme", "points": 0 }
+      ]
+    },
+    "secme": {
+      "text": "Sabahın erken saatlerinde, soğuk ve hafif sisli havada evden çıkıyorsun. İçin içine sığmıyor. Ellerini cebine sokarak hızlı adımlarla sahaya doğru yürürken, içinde hem heyecan hem de kaygı var. \"Bugün kendimi göstereceğim,\" diyorsun. Yıllarca hayalini kurduğun takımın seçmelerine katılmak, belki de hayatının dönüm noktası olacak.\n\nIsınma hareketlerini yaparken, dizinde hafif bir ağrı hissediyorsun. Geçmişte geçirdiğin bir sakatlık nüksediyor olabilir mi? \"Dayanmalısın,\" diye fısıldıyorsun kendine. Antrenör, herkesi toplayıp kısa bir konuşmanın ardından seni takımın önünde bir pozisyona çağırıyor. Top ayağına geldiğinde, her şey yavaşlıyor gibi.\n\nİki seçeneğin var:",
+      "options": [
+        { "text": "!riskli → Rakipleri geçip dikkat çekmeye çalış", "next": "riskli", "points": 8 },
+        { "text": "!temkinli → Temkinli ve hatasız oyna", "next": "temkinli", "points": 5 }
+      ]
+    },
+    "temkinli": {
+      "text": "Temkinli ve disiplinli oynayarak oyunu yönetiyorsun. Hatalardan kaçınıyor, takımını destekliyorsun. Antrenör sana güveniyor. Dizindeki hafif ağrı seni biraz zorlasa da, kontrollü oyunla kendini göstermenin yollarını arıyorsun. Bu tutum, takımın oyununu dengelemene yardımcı oluyor. Ancak dizindeki ağrı nüksediyor ve küçük bir sakatlık geçiriyorsun.",
+      "options": [
+        { "text": "!sabır → Fiziksel toparlanmaya ve gelişmeye odaklan", "next": "sabir", "points": 7 },
+        { "text": "!acele → Hızlıca sahaya dönmek için risk al", "next": "acele", "points": 4 }
+      ]
+    },
+    "acele": {
+      "text": "Sabırsızlıkla sahalara dönmek istiyorsun; zaman kaybetmek istemiyorsun. Tedavi sürecini biraz hızlandırarak, ağrılarla mücadele ederek antrenmanlara geri dönüyorsun. Ancak, vücudun henüz tam toparlanmadığı için küçük sakatlıklar sık sık tekrar ediyor. Bu durum moralini zaman zaman bozsa da, pes etmek istemiyorsun. Takım arkadaşların ve antrenörün bu aceleci tavrını fark ediyor. Bir ara seni uyarıyorlar:\n\n“Hızlı dönmek seni tehlikeye atabilir, kariyerinin başındasın dikkatli ol.” Uyarıları dinledikten sonra düşünüyorsun risk almalı mıyım yoksa beklemeli miyim ?\n\nŞimdi ne yapacaksın ?",
+      "options": [
+        { "text": "!zorlaDevamEt → Riskleri göze alıp oyuna inatla devam etmek.", "next": "zorlaDevamEt", "points": 3 },
+        { "text": "!frenleKendini → Daha temkinli davranıp, vücudunu dinlemek ve hız kesmek.", "next": "frenleKendini", "points": 6 }
+      ]
+    },
+    "frenleKendini": {
+       "text": "Vücudunun verdiği sinyalleri ciddiye alıyorsun. Sahalara dönme arzun çok büyük olsa da, acele etmenin seni daha da geriye götürebileceğini biliyorsun. Tedavi sürecine sadık kalıyor, kondisyonunu kontrollü şekilde artırıyorsun. Mental olarak da güçleniyorsun; artık sadece bedensel değil, zihinsel olarak da sahada çıkıp oynamaya hazırsın.\n\nBu temkinli yaklaşımın hem antrenörler hem de ailenden takdir topluyor. Ancak zaman geçtikçe, içinde bir soru beliriyor:\n\nAcaba çok mu yavaş davranıyorum?\n\nŞimdi iki farklı yolun var ne yapacaksın ?",
+        "options": [
+    {"text": "!zamanlama → Hazırlığını doğru zamanladığını hissedip seçmelere katılmak.", "next": "zamanlama", "points": 7 },
+    {"text": "!geriçekil → Kendini hâlâ yeterli hissetmeyip bir süre daha sahalardan uzak kalmak.", "next": "gericekil", "points": 3 }
+  ]
+},
+
+"gericekil": {
+  "text": "Kendini hâlâ hazır hissetmiyorsun ve sahalardan bir süre daha uzak kalmaya karar veriyorsun. Bu kararı vermek kolay değil, çünkü futbol senin en büyük tutkun. Ayrıca annenin hastalığı hâlâ devam ediyor. Çok karamsar bir durumda olsan da bazen en büyük cesaret, zamanında geri çekilmektir diye düşünüyorsun.\n\nBu süreçte ailenle daha çok vakit geçiriyor, kendini farklı akademik alanlarda geliştiriyorsun. Futbolu tamamen bırakmasan da, hayallerin farklı bir yola kayıyor. Belki ileride antrenörlük ya da başka bir spor dalında yer almak...\n\n🏁 Oyun Sonu: Futbolu erken bırakmış olabilirsin ama hayat sana yeni kapılar açtı. Sabırla ve olgunlukla yeni bir başlangıç yaptın.",
+  "options": [
+    { "text": "Skorunu Gör +5 puan", "next": "finalSkor", "points": 5 }
+  ]
+},
+
+"zamanlama": {
+  "text": "Hazırlığını tamamladığını hissediyorsun ve artık seçmelere katılma zamanı geldiğine inanıyorsun. Sahaya çıktığında hem fiziksel hem de mental olarak tam güçtesin. Daha önceki aceleci hamlelerinden ders aldın ve bu sefer disiplinli, stratejik ve kararlı oynuyorsun.\n\nAntrenörlerin gözünde sadece yetenek değil, olgunluk ve sabır da önemliydi. Sen bu kriterleri sahada başarıyla gösteriyorsun. Seçmelerde sergilediğin performansla dikkat çekiyor, takım kadrosuna seçiliyorsun.\n\n🏁 Oyun Sonu: Hayallerine bir adım daha yaklaştın ve artık büyük maçların kapısı aralanıyor.",
+  "options": [
+    { "text": "Skorunu Gör +15 puan", "next": "finalSkor", "points": 15 }
+  ]
+},
+
+"zorlaDevamEt": {
+  "text": "Uyarılara kulaklarını tıkıyorsun. Ben hazırım, diyorsun herkese. Ağrılara, yorgunluğa rağmen sahaya çıkmaya devam ediyorsun. Ailenin yükünü bir an önce hafifletmek için acele ediyorsun. İlk başta işler fena gitmiyor; birkaç maçta etkili oluyorsun. Ama vücudun sinyaller veriyor. Ve sen hâlâ duymazdan geliyorsun.\n\nBir gün antrenmanda, o korktuğun an geliyor. Dizinden yükselen ani bir acıyla yere yığılıyorsun. Herkes başına toplanıyor. Bu seferki farklı. Daha önceki gibi değil. Hastaneye kaldırılıyorsun. Hastanede yapılan kontroller sonucunda doktorun yüzü ciddileşiyor: Bu sakatlık, seni bir daha sahalara döndüremeyebilir.\n\nO an içinden bir şey kopuyor. Ağlamak istemiyorsun ama gözlerin doluyor. Hayallerin, çocukluğundan beri peşinden koştuğun o büyük düş, Ailene sunacağın finansal rahatlık, bir anda ellerinden kayıp gidiyor.\n\nAylar sonra eve dönüyorsun. Aynı pencerenin önünde oturuyorsun. Kardeşin odanın köşesindeki topa bakıyor.Abi… sen yine oynayacak mısın?\n\nSen gülümsüyorsun. Artık değil. Ama başkalarına öğretmek hâlâ elimde.\n\n🏁 Oyun Sonu: Hayalini zorladın ama bedelini ağır ödedin. Artık senin yolun, başkalarının yolunu aydınlatmak.",
+  "options": [
+    { "text": "Skorunu Gör +5 puan", "next": "finalSkor", "points": 5 }
+  ]
+},
+
+"sabir": {
+  "text": "Fiziksel olarak tamamen iyileşmek için kendine zaman tanıyorsun. Her gün düzenli egzersizler yapıyor, fizik tedavi seanslarına gidiyorsun. İyileşmenin yavaş olması bazen moralini bozsa da, sabrın ve disiplinin seni ayakta tutuyor. Ailenin desteği ve antrenörün güveni de motivasyonunu artırıyor.\n\nGünlerden bir gün, takım arkadaşlarının antrenmanını izlemeye gidiyorsun. Onların hızla ilerleyişi seni hem heyecanlandırıyor hem de biraz kaygılandırıyor. Kendi yolunda sabırlı olman gerektiğini hatırlıyorsun.\n\nŞimdi iki seçenek var:",
+  "options": [
+    { "text": "!hazırlan → Yaklaşan seçmeler için formunu tekrar yükseltmeye başlamak", "next": "hazirlan", "points": 7 },
+    { "text": "!bekle → Kendini tamamen hazır hissetmeden acele etmemek", "next": "bekle", "points": 3 }
+  ]
+},
+"bekle": {
+  "text": "Seçmelere acele etmeden, vücudunun tamamen iyileşmesini bekliyorsun. Sabırla, sakin adımlarla ilerlemek gerektiğini biliyorsun. Aceleci davranmak, daha büyük zararlar getirebilir; bu yüzden kendine zaman tanıyorsun.\n\nGünlerini, hem fiziksel hem de zihinsel olarak güçlenmeye ayırıyorsun. Kitaplar okuyorsun, taktikleri inceliyorsun ve zihnini hazır hale getiriyorsun. Bu arada ailenle daha çok vakit geçirip, onların desteğini hissediyorsun. Evdeki küçük işlere yardım edip onların yükünü hafifletiyorsun.\n\nİçinde bir huzur var; çünkü biliyorsun ki gerçek başarı, sağlam adımlarla gelir.",
+  "options": [
+    {"text": "!hazırlan → Artık tüm hazırlıklarını tamamlayıp seçmelere katılmaya karar vermek +10 puan", "next": "hazirlan","points": 10  }
+  ]
+},
+
+"hazirlan": {
+  "text": "Sakatlığını atlattın, şimdi sıra gerçek bir sınavda. Günlerin, disiplin ve kararlılıkla geçiyor. Sabahın erken saatlerinde kalkıyor, hem bedenini hem de zihnini seçmelere hazırlıyorsun. Kaslarındaki o eski güç geri geliyor, ama bu sefer yanında deneyim ve sabır da var.\n\nHer antrenmanda sınırlarını zorluyor, hatalarını analiz ediyor ve gelişiyorsun. İçinde büyüyen heyecanla birlikte, yeniden sahaya çıkmanın verdiği tatlı bir korku da var. Ama sen, artık sadece yetenekle değil, olgunluğunla da diğerlerinden ayrılıyorsun. Takımda karşılaşacağın zorluklar seni yıldırmasın; çünkü bu sefer çok daha güçlüsün.\n\nİki seçeneğin var ne yapacaksın ?",
+  "options": [
+    {"text": "!göster → Cesaretini ortaya koyup, riskli ve etkileyici hamlelerle fark yaratmak", "next": "goster", "points": 8 },
+    {"text": "!güvenilir → Soğukkanlı ve stratejik oynayarak, takımının güvenilir oyuncusu olmak", "next": "guvenilir", "points": 6 }
+  ]
+},
+"goster": {
+  "text": "Seçmeler günü geldiğinde, sahaya adımını attığın anda gözler üzerinde. İçinde bir ateş var; tüm riskleri göze alıp kendini kanıtlamak istiyorsun. Rakiplerin seni küçümseyebilir ama sen, cesaretinle herkesi şaşırtıyorsun.\n\nBirden bire hızlanıyor, topu ustalıkla sürüyor ve beklenmedik bir anda sert ve isabetli bir şut çıkarıyorsun. Tribünler coşuyor, antrenörler hayran kalıyor. Ama bu atak oyun beraberinde riskleri de getiriyor. Bir pozisyonda topu kaybedip bariz gol şansını kaçırıyorsun.\n\nAntrenörün uyarıyor: Harika oyun, ama biraz daha dikkatli olmalısın.\n\nİki seçenek var:",
+  "options": [
+    {"text": "!güçlüKal → Cesaretini koruyup, agresif ve enerjik oyununu sürdürmek", "next": "gucluKal", "points": 9 },
+    {"text": "!akıllıAdım → Daha stratejik ve dikkatli davranarak, oyunu kontrol altında tutmak", "next": "akilliAdim", "points": 8 }
+  ]
+},
+"akilliAdim": {
+  "text": "Oyunu soğukkanlı ve hesaplı oynuyorsun. Rakiplerinin hamlelerini önceden tahmin ediyor, takımı yönlendiriyor ve ani risklerden kaçınıyorsun. Bu disiplinli tutumun, hem antrenörlerin hem de takım arkadaşlarının güvenini kazanıyor.\n\nAncak, bazen bu temkinli oyun seni sınırların dışına çıkmaktan alıkoyuyor. Kendini çok fazla kısıtlamak, potansiyelinin altında oynamana neden olabilir.\n\nNe yapacaksın ?",
+  "options": [
+    { "text": "!zaferYolu → Stratejini biraz esnetip, kritik anlarda cesurca hamleler yapmak.", "next": "zaferYolu", "points": 15 },
+    { "text": "!guvenliOyna → Temkinli kalmaya devam etmek, risk almamak.", "next": "guvenliOyna", "points": 5 }
+  ]
+},
+"guvenliOyna": {
+  "text": "Risk almaktan çekindin, hep temkinli oynadın. Bu sayede hataların azaldı ama aynı zamanda parlama fırsatlarını da kaçırdın. Takım için güvenilir bir oyuncu oldun ama potansiyelinin tamamını kullanamadın.\n\nSezon sonunda, yeni fırsatlar başka oyunculara gitti. Sen, iyi bir oyuncu olarak kalırken, hayallerin yavaş yavaş solmaya başladı.\n\n🏁 Oyun Sonu: Güvenli oynamak seni beklediğin başarılardan uzak tuttu. Fırsatları kaçırdın.",
+  "options": [
+    { "text": "Skorunu Gör +15 puan", "next": "finalSkor", "points": 15 }
+  ]
+},
+"zaferYolu": {
+  "text": "Stratejini esnetip, kritik anlarda cesur hamleler yapmaya karar verdin. Bu riskli ama doğru karar, maçın kaderini değiştirdi. Takımını zafere taşıdın, antrenörlerin ve taraftarların seni kahraman ilan etti. Oyun zekân ve cesaretin birleşince, sahada gerçek bir lider oldun. Bu başarın kariyerine yeni kapılar açtı ve hayallerin gerçek oldu.\n\n🏁 Oyun Sonu: Cesaret ve stratejiyle büyük bir başarıya imza attın. Geleceğin parlak. Hayallerinin gerçekleşmesi çok yakın...",
+  "options": [
+    { "text": "Skorunu Gör +25 puan", "next": "finalSkor", "points": 25 }
+  ]
+},
+"gucluKal": {
+  "text": "Sahaya döndüğünde, içindeki ateşi herkes hissediyor. Her hamlenle rakiplerini zorluyor, takımının moralini yükseltiyorsun. Gücün sadece fiziksel değil; kararlılığın ve inancın da seni farklı kılıyor.\n\nSahada kimi zaman sert ve hızlı oynuyor, kimi zaman ise sakin ve kontrollü hamlelerle rakibini şaşırtıyorsun. Antrenörün gözleri parlıyor, emeklerinin karşılığını alacaksın. Artık geriye sadece son büyük adımı atmak kaldı.\n\nŞimdi, büyük finale doğru iki yolun var ne yapacaksın ?",
+  "options": [
+    {"text": "!azimleYüksel: Zorluklara rağmen pes etmeden, takımını zaferlere taşı.", "next": "azimleYuksel", "points": 10 },
+    {"text": "!akıllıcaOyna: Strateji ve disiplinle, sahada fark yarat ve takımına liderlik yap.", "next": "akillicaOyna", "points": 8 }
+  ]
+},
+"akillicaOyna": {
+  "text": "Sahada her hareketin planlı, her pasın hesaplı. Disiplin ve stratejiyle oynayarak takımının oyununu kusursuz hale getirdin. Antrenörler ve takım arkadaşların sana olan güvenini artırdılar.\n\nSezon sonunda, takımın sadece bir oyuncu değil, bir strateji ustası kazandı. Senin sahadaki zekân ve sakinliğin, maçları kazanmanın anahtarı oldu. Takımda kaptanlığa kadar yükseldin.\n\n🏁 Oyun Sonu: Sahada sadece yetenek değil, akıl ve disiplinle de büyük başarılara imza attın. Gençlere örnek olan bir futbolcu oldun.",
+  "options": [
+    { "text": "Skorunu Gör +20 puan", "next": "finalSkor", "points": 20 }
+  ]
+},
+"azimleYuksel": {
+  "text": "Her türlü zorluğa rağmen, yılmadan ve durmadan mücadele ettin. Takımını her maça azimle taşıdın, saha içinde liderlik yaptın. Rakipler seni gördüğünde artık korkar oldu; çünkü sen sadece topu sürmüyorsun, umutları da taşıyorsun.\n\nSezon sonunda, takımın büyük bir başarı elde etti. Sen ise sadece sahadaki yeteneklerinle değil, karakterinle de herkesin kalbini kazandın. Hayallerinin ötesinde bir futbolcu oldun.\n\n🏁 Oyun Sonu: Hayallerin gerçek oldu. Efsaneleşen bir kariyer seni bekliyor.",
+  "options": [
+    { "text": "Skorunu Gör +25 puan", "next": "finalSkor", "points": 25 }
+  ]
+},
+"guvenilir": {
+  "text": "Artık risk almaktan çok, takımın için güvenilir bir oyuncu olmayı seçiyorsun. Sahada sakin ve dengeli hareket ediyor, paslarını doğru zamanda ve doğru oyuncuya veriyorsun. Oyun zekân sayesinde takım arkadaşlarının oyununu kolaylaştırıyorsun.\n\nAntrenörün, Senin gibi oyunculara her zaman ihtiyaç var, diyerek güvenini gösteriyor. Tribünler seni çok seviyor çünkü sen, bir yıldız gibi parlamaktan çok, takımın başarısı için mücadele ediyorsun.\n\nBu yol sana uzun vadede daha sağlam bir kariyer ve takım içinde saygı getiriyor.\n\nİki seçenek var:",
+  "options": [
+    {"text": "!liderlik → Takım içinde liderlik özelliklerini geliştirmek ve etrafını motive etmek", "next": "liderlik", "points": 8 },
+    {"text": "!disiplin → Oyunu disiplinli ama sıradan oynayarak, risk almadan güvenilir oynamak", "next": "disiplin", "points": 2 }
+  ]
+},
+"liderlik": {
+  "text": "Takım içinde sadece yetenekli bir oyuncu değil, aynı zamanda güvenilen ve saygı duyulan bir lider oldun. Arkadaşlarını motive ediyor, zor anlarda yanlarında duruyor ve takım ruhunu hep canlı tutuyorsun. Sahada gösterdiğin kararlılık ve pozitif enerji, takımın performansını bambaşka bir seviyeye taşıdı.\n\nAntrenörler seni sadece oyuncu olarak değil, aynı zamanda takımın geleceğinin mimarı olarak görüyor. Büyük maçlarda sergilediğin olgunluk ve liderlik sayesinde takımın önemli kupalar kazanıyor. Tribünler senin adını tezahüratlarla anıyor, genç futbolcular sana özeniyor.\n\n🏁 Oyun Sonu: Takımın kalbi ve ruhu oldun. Hayallerine ulaşmanın ötesinde, efsanevi bir lider olarak tarihe geçtin.",
+  "options": [
+    { "text": "Skorunu Gör +30 puan", "next": "finalSkor", "points": 30 }
+  ]
+},
+"disiplin": {
+  "text": "Oyunu disiplinli ve hatasız oynamaya odaklanıyorsun. Her antrenmanda elinden geleni yapıyor, hata yapmamaya çalışıyorsun. Ancak, sahadaki bu temkinli ve sıradan tavır seni izleyenlerin gözünde unutulabilir kılıyor. Ne yazık ki antrenörler ve taraftarlar, senin potansiyelinin tamamını ortaya koyamadığını düşünüyor.\n\nSezon sonunda, seni daha yüksek seviyelere taşıyacak fırsatlar gelmiyor. Kendi içinde bir boşluk hissediyorsun; hayallerine ulaşmanın bu olmadığını fark ediyorsun. Kariyerin belki de beklediğin gibi ilerlemeyecek.\n\n🏁 Oyun Sonu: Hayallerinin gerisinde kalan bir futbolcu oldun.",
+  "options": [
+    { "text": "Skorunu Gör +10 puan", "next": "finalSkor", "points": 10 }
+  ]
+},
+"zorlaDevam": {
+  "text": "Dizindeki ağrı dayanılmaz bir hale gelmesine rağmen, sahada durmak senin için bir seçenek değil. Her adımında acı olsa da topa hükmetmek, takımına umut vermek istiyorsun. Tribünlerden yükselen tezahüratlar seni biraz daha güçlendiriyor. Ancak bir pozisyonda, sert bir darbe alıyor ve yere yığılıyorsun. Hemen sağlık ekibi sahaya iniyor. Bu, kariyerin için kritik bir dönemeç olabilir.\n\nSeçeneklerin: Ne yapacaksın ?",
+  "options": [
+    { "text": "!tedaviOl → Sağlık ekibine izin ver ve iyileş", "next": "tedaviOl", "points": 20 },
+    { "text": "!devamEt → Acıya rağmen kalk ve oyuna devam et", "next": "devamEt", "points": 5 }
+  ]
+},
+"tedaviOl": {
+  "text": "Antrenörün sözünü dinleyip sağlık ekibinin yönlendirmesiyle tedavi sürecine başlıyorsun. İlk başta zor ve sabır gerektiren günler seni bekliyor. Ancak her küçük ilerleme, umudunu güçlendiriyor. Fizik tedavi seansları, egzersizler ve dinlenmeler derken yavaş yavaş dizin güçleniyor.\n\nBu süreçte evdeki sorumlulukların ve hayallerin arasında denge kurmaya çalışıyorsun. Futbolu bırakmak zorunda kalmak korkusu yerini yeniden sahaya dönme umuduna bırakıyor. Antrenörün ve ailenin desteği en büyük dayanağın oluyor.\n\nİki seçenek var:",
+  "options": [
+    { "text": "!kararlilik → Sağlıklı döneceğine inan ve sıkı çalış", "next": "kararlilik", "points": 10 },
+    { "text": "!şüphe → Tedavi sürecinde motivasyonunu kaybet", "next": "suphe", "points": 2 }
+  ]
+},
+"suphe": {
+  "text": "Tedavi süreci beklentilerinden çok daha zorlu olduğunu fark ediyorsun. Ağrılar devam ediyor, ilerleme yavaş ve bazen hiç yokmuş gibi hissediyorsun. Evde geçirdiğin saatler, futboldan uzak kalmanın verdiği boşlukla birleşince, içindeki umut yavaş yavaş azalıyor. Kendi kendine Acaba bu yol benim için mi? diye soruyorsun.\n\nAilen ve antrenörlerin desteği seni ayakta tutmaya çalışsa da, bazen tek başına bu yük ağır geliyor.\n\nŞimdi önünde iki seçenek var:",
+  "options": [
+    { "text": "!yenidenBaşla → Umudunu tazele, yeniden kararlı bir şekilde futbola dönmeye çalış", "next": "yenidenBasla", "points": 8 },
+    { "text": "!bırak → Futbolu bırakıp, aile sorumluluklarına ve başka işlere yönel", "next": "birak", "points": 1 }
+  ]
+},
+"yenidenBasla": {
+  "text": "İçindeki kıvılcımı yeniden keşfediyorsun. Her ne kadar zorluklar devam etse de, vazgeçmek yerine yeniden denemeye karar veriyorsun. Antrenmanlara daha sıkı sarılıyor, dizini güçlendirmek için sabırla çalışıyorsun. Her günkü küçük ilerlemeler, seni yeniden sahalara, hayallerine yaklaştırıyor.\n\nBu yol belki uzun ve meşakkatli ama senin azmin ve kararlılığın, sonunda başarıyı getirecek. Futbolcu olarak yeni bir sayfa açıyorsun; bazen düşmek, daha güçlü kalkmak içindir.\n\n🏁 Oyun Sonu: Yeni bir başlangıç yaptın, hayallerinin peşinden gitmeye devam ediyorsun.",
+  "options": [
+    { "text": "Skorunu Gör +15 puan", "next": "finalSkor", "points": 15 }
+  ]
+},
+"birak": {
+  "text": "Futbolu bırakmaya karar veriyorsun. Bu kolay bir karar değil ama artık ailenin yanında olmanın, onları desteklemenin senin için daha anlamlı olduğunu hissediyorsun. Hayallerin başka şekillerde hayat bulabilir; belki iş hayatında, belki farklı bir alanda kendini göstereceksin.\n\nGeçmişe dönüp baktığında, futbolun sana öğrettikleriyle yeni bir yola adım atıyorsun. Hayat bazen başka planlar yapar, önemli olan cesaretle yoluna devam etmendir.\n\n🏁 Oyun Sonu: Futbolu bırakıp yeni bir hayatın kapılarını araladın.",
+  "options": [
+    { "text": "Skorunu Gör +5 puan", "next": "finalSkor", "points": 5 }
+  ]
+},
+"kararlilik": {
+  "text": "Tedavi süreci zorlayıcı olsa da, senin azmin ve kararlılığın her şeye değer. Sabah erken kalkıyor, fizyoterapistlerin verdiği egzersizleri aksatmadan yapıyorsun. Her küçük ilerleme seni motive ediyor, içindeki ateşi canlı tutuyor.\n\nZamanla dizin güçleniyor, antrenmanlara yavaş yavaş dönüyorsun. Takım arkadaşların seni destekliyor, antrenörün ise Senin gibi bir oyuncu nadir gelir, diyor. Seçmelere yeniden katılmak için gün sayıyorsun.\n\nAma başarı kolay kazanılmaz; yoğun rekabet, yaşadığın sakatlığın yarattığı endişeler ve aile sorumlulukları hâlâ seni zorluyor.",
+  "options": [
+    { "text": "!azimleDevam → Tüm zorluklara rağmen hedefinden vazgeçmeden ilerlemek", "next": "azimleDevam", "points": 10 },
+    { "text": "!dengeKur → Hem ailene hem futbola zaman ayırarak sağlıklı denge kurmak", "next": "dengeKur", "points": 7 }
+  ]
+},
+"azimleDevam": {
+  "text": "Tüm zorluklara, şüphelere ve ağrılara rağmen asla vazgeçmedin. Gün geçtikçe daha da güçlendin. Antrenmanlarda gösterdiğin kararlılık, sahada bıraktığın ter, antrenörlerin gözünden kaçmadı.\n\nSonunda seçmelere çağrıldın. Bu kez sadece bir aday değil, bir örnek oyuncuydun. Sahaya çıktığında herkes seni izliyordu. Sadece yeteneğinle değil, geçirdiğin zorlu sürecin ardından gösterdiğin dirençle de büyüledin. Maçın sonunda, antrenör omzuna dokundu:\n\nBu takıma sadece bir oyuncu değil, bir karakter kazandırdın.\n\n🏁 Oyun Sonu: Hayallerin gerçek oldu. Artık sadece bir futbolcu değil, ilham kaynağısın.",
+  "options": [
+    { "text": "Skorunu Gör +15 puan", "next": "finalSkor", "points": 15 }
+  ]
+},
+"dengeKur": {
+  "text": "Hayatındaki en büyük savaşı kazandın: içindeki futbol aşkı ile ailenin ihtiyaçları arasında bir denge kurmayı. Sabahları antrenmana gittin, akşamları kardeşinle ders çalıştın. Ne futbolu ihmal ettin, ne de sevdiklerini.\n\nZamanla bu tutumun sana güçlü bir disiplin kazandırdı. Hem saha içinde hem saha dışında güvenilen biri oldun. Seçmelere çağrıldığında seni izleyen herkes, sadece bir yetenek değil, aynı zamanda bir karakter gördü sahada. Son maçın sonunda, antrenör şöyle dedi:\n\nSenin gibi dengeli oyuncular, takımı ayakta tutar.\n\n🏁 Oyun Sonu: Hayalini gerçekleştirirken aileni de yanında tuttun. Sen artık sadece futbolcu değil, örnek bir insansın.",
+  "options": [
+    { "text": "Skorunu Gör +10 puan", "next": "finalSkor", "points": 10 }
+  ]
+},
+"devamEt": {
+  "text": "Acın dalga dalga artarken kalkıyorsun, dizin neredeyse dayanılmaz bir sancı veriyor. Ama gözlerin kararlı, kalbin sahada. Takım arkadaşların ve antrenörün şaşkın bakışları arasında oyuna geri dönüyorsun. Bu cesaretin takdir topluyor ama bedenin sınırlarını zorluyor. Birkaç pozisyon sonra sakatlığın daha da kötüleşiyor ve hakem oyunu durduruyor.\n\nAntrenörün yanına geliyor ve ciddi bir sesle konuşuyor:\n\nSenin için en iyisi bu maçı bırakman. Ama bu, daha büyük hedeflerden vazgeçmen anlamına gelmez.\n\nŞimdi iki seçenek var:",
+  "options": [
+    { "text": "!tedaviyeKabul → Tedaviye başla ve güç topla", "next": "tedaviOl", "points": 10 },
+    { "text": "!israrEt → Zorla oyna ve riski göze al", "next": "israrEt", "points": 1 }
+  ]
+},
+"israrEt": {
+  "text": "Antrenörün uyarılarına rağmen kararını değiştirmiyorsun. Ertesi maçta kendini zorlayarak sahaya çıkıyorsun. İlk başta her şey yolunda gibi görünüyor ama maçın ortasında dizinde şiddetli bir ağrı hissediyorsun Ağrı dayanılmaz, hareket edemez hale geliyorsun. Doktorlar acilen müdahale ediyor ancak durum ciddi; futbol kariyerin bu sakatlıkla birlikte sona eriyor.\n\nBaşta yaşadığın hayal kırıklığı ve çaresizlik içinde olsan da zamanla hayatının yeni yönünü kabul ediyorsun. Eski hayallerin yerini, sorumluluklar ve farklı hedefler alıyor.\n\nArtık ailenin yanında olmak, onlara destek vermek ve yeni bir iş hayatına başlamak için hazırlık yapıyorsun. Futbol sahalarından uzaklaşırken, hayatın yeni bir kapısı aralanıyor.\n\n🏁 Oyun Sonu: İnatlığın için büyük bir bedel ödedin. Futbol hayatın erken bitti, ama yeni başlangıçlar için umut her zaman var.",
+  "options": [
+    { "text": "Skorunu Gör +5 puan", "next": "finalSkor", "points": 5 }
+  ]
+},
+"riskli": {
+  "text": "İlk çalımında rakibini geçiyorsun, ardından sert bir şutla kaleyi yokluyorsun. Top filelerle buluştuğunda tribünler coşuyor, yüreğin kabarıyor. Ancak bu atak oyun beraberinde riskler getiriyor. İkinci pozisyonda topu ayağında fazla tutup kaptırıyorsun ve rakip hızlı bir kontra atağa kalkıyor. Bu atağın sonunda gol yiyorsunuz. Antrenör seni uyarıyor:\n\nHarika enerji, ama biraz daha dikkatli olmalısın. \n\nAntrenörün uyarısı beyninde yankılanıyor. Şimdi ne yapacaksın ?",
+  "options": [
+    { "text": "!devamet → Hatalara rağmen atak oyununu sürdür", "next": "devamet", "points": 6 },
+    { "text": "!dengelioyna → Daha temkinli oynayıp riski azalt", "next": "dengelioyna", "points": 5 }
+  ]
+      },
+    "devamet": {
+  "text": "Hatalarına rağmen enerjini kaybetmiyorsun. Sahada kalbinin sesini dinliyorsun; risk almanın seni farklı göstereceğini biliyorsun. Yıldız bir oyuncu olabilmek için diğerlerinden farklı olduğunu göstermen gerek.\n\nRakipler seni durdurmaya çalışsa da, senin cesaretin ve kararlılığın tribünlerde yankılanıyor. Ancak, bu sert tempo vücudunu zorlamaya başlıyor; dizindeki ağrı gitgide artıyor. Antrenör kenardan seni izliyor, zaman zaman uyarılar yapıyor. Bugün çok önemli bir gün kendini göstermelisin ama yine de karar senin.\n\nŞimdi ne yapacaksın ?",
+  "options": [
+    { "text": "!zorlaDevam → Ağrına rağmen oynamaya devam edip, kendini göstermeye çalış.", "next": "zorlaDevam", "points": 7 },
+    { "text": "!dinlen → Sakatlığını ciddiye al ve biraz geri çekil", "next": "dinlen", "points": 8 }
+  ]
+},
+"dinlen": {
+  "text": "Oyunun temposu seni içine çekse de, her ne kadar oynamak istesen de, dizindeki ağrıyı görmezden gelmenin daha büyük bir bedeli olabileceğini anlıyorsun. Kenara çekilip derin bir nefes alıyorsun. Antrenörle göz göze geldiğinde başını onaylar şekilde sallıyor: “Olgun bir karar,” der gibi sana bakıyor. Sahadaki yerini genç bir oyuncuya bırakırken, içten içe “Acaba şansımı kaybettim mi?” sorusu seni kemiriyor. Ama biraz sonra olanlar seni şaşırtıyor. Antrenör, maçtan sonra yanına geliyor:\n\nBugün oyununla değil, kararınla bizi etkiledin. Saha zekân, takım ruhun ve kendini tanıman… Bunlar büyük bir futbolcu olma işaretidir. Seni bir süre izlemek istiyoruz. diyor.\n\nBu moral sana yeni bir güç veriyor. Şimdi önünde iki yol var, ne yapacaksın ?",
+  "options": [
+    {"text": "!sabır → Fiziksel olarak tamamen toparlanıp, daha güçlü geri dönmek için çalışmak.", "next": "sabir", "points": 7 },
+    {"text": "!acele → Bu ilgiyi kaybetmemek için hızlıca sahalara dönmeye çalışmak, riski göze almak.", "next": "acele", "points": 4 }
+  ]
+},
+"dengelioyna": {
+  "text": "Oyunun temposu seni içine çekse de, dizindeki ağrıyı görmezden gelmenin daha büyük bir bedeli olabileceğini anlıyorsun. Kenara çekilip derin bir nefes alıyorsun. Antrenörle göz göze geldiğinde başını onaylar şekilde sallıyor: Olgun bir karar, diyor. Sahadaki yerini genç bir oyuncuya bırakırken, içten içe Acaba şansımı kaybettim mi? sorusu seni kemiriyor. Ama biraz sonra olanlar seni şaşırtıyor. Antrenör, maçtan sonra yanına geliyor:\n\nBugün oyununla değil, kararınla bizi etkiledin. Saha zekân, takım ruhun ve kendini tanıman… Bunlar büyük futbolculuğun işaretidir. Seni bir süre izlemek istiyoruz.\n\nBu moral sana yeni bir güç veriyor.\n\nNe yapacaksın ?",
+  "options": [
+    { "text": "!sabır → Fiziksel olarak toparlanıp güçlü dön", "next": "sabir", "points": 7 },
+    { "text": "!acele → Hızlıca sahaya dönmek için riski göze al", "next": "acele", "points": 4 }
+  ]
+},
+    "finalSkor": {
+      "text": "🎉 Oyun Bitti! Toplam Puan: {score} 🏆",
+      "options": [
+        { "text": "Tekrar Oyna", "next": "start", "action": "restart" },
+        { "text": "Ana Menüye Dön", "action": "redirect", "target": "ana.html" }
+      ]
+    }
+  }
+  }
