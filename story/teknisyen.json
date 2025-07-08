@@ -186,7 +186,7 @@
   "text": "Derin bir nefes alıp, sakin bir sesle konuşuyorsun.\n“Buraya savaşmaya gelmedim,” diyorsun, bakışlarını karşındaki iki figürün gözlerine sabitleyerek. “Yalnızca gerçeği öğrenmek istiyorum. Yardımınıza ihtiyacım var.”\n\nAdamların arasında bir sessizlik oluşuyor. Biri, siyah üniformasının yakasında parlayan ORIGO sembolüne dokunuyor; diğerinin yüzünde ise tereddüt okunuyor. Birbirlerine kısa bir bakış atıyorlar.\n\n“Bize gerçekten tehdit olmadığını kanıtlaman gerek,” diyor öndeki.\n“Çünkü sen… bu sistemin kurucususun. Ve bu seni hem tehlikeli, hem vazgeçilmez yapıyor.”\n\nBu sözler kalbine saplanan bir bıçak gibi oluyor; kurucu… yine aynı kelime. Beyninde yankılanıyor. Adam devam ediyor:\n“Sana güvenebilmemiz için bir seçim yapman gerekiyor.” Elindeki küçük bir paneli sana uzatıyor:\n\n“Birincisi, seninle ilgili kilitli bir hafıza dosyasına birlikte erişmeyi deneyebiliriz. İkincisi, bizle basit bir güven protokolüne girersin, bazı sorulara yanıt vererek samimiyetini ölçeriz.”\n\nDerin bir nefes alıyorsun. Kolay bir karar değil. Geleceğin bu seçimlere bağlı.\n\nSeçeneklerin:",
   "options": [
     { "text": "!kilidiÇöz → Onlarla birlikte kritik bir hafıza dosyasını açarak gerçeğe yaklaşmayı deneyeceksin.", "next": "kilitliDosya", "points": 12 },
-    { "text": "!sorularıYanıtla → Güven protokolüne katılıp, onlara sadakatini ispatlamaya çalışacaksın.", "next": "guvenProtokol", "points": 8 }
+    { "text": "!sorularıYanıtla → Güven protokolüne katılıp, onlara sadakatini ispatlamaya çalışacaksın.", "next": "aniOdasi", "points": 8 }
   ]
 },
 "kilitliDosya": {
