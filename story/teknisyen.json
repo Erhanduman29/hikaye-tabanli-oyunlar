@@ -281,10 +281,53 @@
 "isimleYuzles": {
   "text": "Eline sıkıca tuttuğun anahtarı cebine koyuyorsun. Artık sembollerin, kilitlerin, gizli odaların ardına saklanmayacağını biliyorsun. Bu kez gerçeğin kendisiyle, yani seni burada tutmaya çalışan ya da senden bir şey saklayan kişiyle yüzleşmeye karar verdin.\n\nDar bir geçitten geçip ağır bir kapının önüne geliyorsun. Kart okuyucusu, tanıdık bir onay sesiyle yeşile dönüyor. İçeri girdiğinde loş ışıkta bekleyen birini görüyorsun.\n\nO kişi — seni tanıyor. Bakışları seni didikliyor, sanki zihninin derinliklerini okuyormuş gibi. “Geldin,” diyor. Sesinde garip bir hayal kırıklığı var. “Bunu yapacağını biliyordum.” Kalbin yerinden çıkacak gibi atıyor. Bir yandan korku, bir yandan rahatlama…\n\n“Bana söyle,” diyorsun, sesin titreyerek, “Neden benim hafızamı sildin?”\n\nAdam uzun uzun sana bakıyor. Gözleri yorgun, pişmanlık dolu. “Çünkü,” diyor, “senin unutmaktan başka şansın yoktu. Bu sistem… bu dünya… seni yok edecekti.”\n\nBir an sessizlik oluyor. Zaman donmuş gibi.",
   "options": [
-    { "text": "!inandir → Onun söylediklerinin doğru olduğuna inanıp, işbirliği yapmayı deneyeceksin. Belki gerçeğe birlikte ulaşabilirsiniz.", "next": "inandirDevam", "points": 10 },
-    { "text": "!reddet → Sözlerine güvenmeyip, gerçekleri zorla öğrenmeye karar vereceksin. Bu tehlikeli ama bağımsız bir yol olur.", "next": "reddetDevam", "points": 12 }
+    { "text": "!inandır → Onun söylediklerinin doğru olduğuna inanıp, işbirliği yapmayı deneyeceksin. Belki gerçeğe birlikte ulaşabilirsiniz.", "next": "inandir", "points": 10 },
+    { "text": "!reddet → Sözlerine güvenmeyip, gerçekleri zorla öğrenmeye karar vereceksin. Bu tehlikeli ama bağımsız bir yol olur.", "next": "reddet", "points": 12 }
   ]
 },
+"aniOdasinaGit": {
+  "text": "Kapı, ağır bir inlemeyle açıldığında seni karşılayan ilk şey sessizlik oluyor. Derin, kemiklerine işleyen bir sessizlik. Loş ışıklar arasında ilerlerken her adımın yankısı, seni kendi geçmişinle baş başa bırakıyor.\n\nAnı Odası, tam anlamıyla bir zaman mezarlığı gibi…\nDuvarlarda yanıp sönen veri panelleri, cam tüplerin içinde yüzen bellek çekirdekleri ve tam ortada seni bekleyen dairesel bir bağlantı konsolu.\n\nBir an duraksıyorsun. Tüm bu yolculuk boyunca aradığın cevaplar artık sadece birkaç tıklama uzağında. Ama içinde bir huzursuzluk var — bu kadar fazla gerçeğe hazır mısın?\n\nKonsola yaklaşırken üç farklı etkileşim yolu beliriyor. Her biri seni farklı bir sona, farklı bir gerçekle yüzleşmeye götürecek.",
+  "options": [
+    { "text": "!anıyıAç — En derin, en kilitli anıya erişmeye çalışıyorsun. Burada geçmişinle ilgili en karanlık gerçeği öğrenme ihtimalin var.", "next": "kilitliAni", "points": 10 },
+    { "text": "!yansıma — Hafızandaki olayları dış dünyaya projekte eden özel bir arayüze bağlanıyorsun. Böylece olayları dışarıdan bir göz gibi izleme şansı buluyorsun; objektif mi, yoksa manipüle edilmiş mi olduğunu çözmeye çalışacaksın.", "next": "yansima", "points": 9 },
+    { "text": "!bağlantıKur — Sistemle doğrudan nöral bağlantı kurarak, geçmişteki biriyle veya bir belleğin içindeki bir figürle etkileşime geçmeyi seçiyorsun. Bu yol, bir yüzleşmeden çok bir hesaplaşmaya dönüşebilir.", "next": "baglantiKur", "points": 11 }
+  ]
+},
+"yansima": {
+  "text": "Bağlantı konsolunun başına geçtiğinde, seni karşılayan panel alıştığın türden değil. Bu sefer, anılarını sadece izlemekle kalmayacak, onları dış dünyaya yansıtan bir sistemle karşı karşıyasın.\n\nEkranda beliren mesaj net:\n\"Yansıtılacak Hafıza Seçimi Yapılıyor...\"\n\nBir süre sonra ortam kararıyor. Gözlerinin önünde, bir holografik alan oluşuyor. Geçmişine dair görüntüler, seni dışarıdan bir göz gibi izlemeye zorluyor. Ama bu görüntüler… garip bir şekilde kurgu gibi geliyor.\n\nSenin olan ama sanki değiştirilmiş anılar.\n\nBir tarafta, odadaki figürler sana karşı konuşuyor. Eski bir ekip arkadaşın, yüzü puslu, sana \"bu sen değilsin\" diyor.\nDiğer tarafta ise bir sahne: Bir toplantı odası, masanın sonunda oturan sensin. Ama yüzün karanlıkta kalıyor, söylediklerin yankılanıyor:\n\"Gerçeği herkes bilirse, sistem çöker.\"\n\nBir anda fark ediyorsun. Hafızan sadece bastırılmamış, aynı zamanda yeniden inşa edilmiş olabilir.\n\nBilinçli olarak değiştirilmiş bir geçmişin izlerini görüyorsun. Ama hangisi doğru?\n\nŞimdi iki yol var önünde:",
+  "options": [
+    { "text": "!karşılaştır → Eski kayıtları yeni hatıralarla karşılaştırıp, hangisinin gerçek olduğunu analiz etmeye çalışıyorsun. Zihninde büyük bir çarpışma başlayacak.", "next": "karsilastir", "points": 10 },
+    { "text": "!kabulEt → Anıların çarpıtılmış olabileceğini kabul edip, bu gerçeklik içinde ilerlemeyi seçiyorsun. Geçmişin ne olursa olsun, şu anki kararlılığınla yolunu çizmek istiyorsun.", "next": "kabulEt", "points": 8 }
+  ]
+},
+"karsilastir": {
+  "text": "Ekranda birbiriyle çelişen üç farklı sahne akıyor. Her biri senin geçmişine ait… ya da sana ait olduğu söylenen geçmişe.",
+  "options": [
+    { "text": "!vizyon → İlk kayda tutunuyorsun. Sistemi iyilik için kurduğuna inanıyor, eski ideallerine sarılıyorsun. Bu seni bir kurtarıcıya dönüştürebilir.", "next": "vizyon", "points": 10 },
+    { "text": "!sabotaj → İkinci kayıt seni içine çekiyor. Karanlık kararlarını ve sistemin hatalarını kabul ediyorsun. Belki de her şey çoktan yozlaşmıştı.", "next": "sabotaj", "points": 10 },
+    { "text": "!yazgı → Üçüncü kayıt seni sarsıyor. Belki de tüm hayatın, başkasının planladığı bir düzendi. Şimdi bu yazgıyı kırmak mı yoksa yeniden yazmak mı istersin?", "next": "yazgi", "points": 10 }
+  ]
+},
+"vizyon": {
+  "text": "İlk görüntüye, o berrak sahneye tutunuyorsun. Genç bir ekibin karşısında ayakta duruyorsun; gözlerinde ışık, sesinde inanç var. Hatırlıyorsun artık. Bu sistemin temelini atarken niyetin buydu: insanları geçmişin yükünden kurtarmak, travmalardan arındırmak, yeni bir bilinç inşa etmek…\n\nAma şimdi her şeyin ne kadar çarpıtıldığını da görüyorsun. Sistem büyüdükçe yozlaşmış, hafıza teknolojisi bir tedavi değil, bir silaha dönüşmüş.\n\nSana güvenen o insanlar…\nO laboratuvar…\nO proje…\n\nHepsi sorumluluğun.\n\nŞimdi önünde iki yol var. Aynı ideal için ama farklı yöntemlerle.",
+  "options": [
+    { "text": "!açığaÇıkart — Gerçekleri ifşa etmeye karar veriyorsun. Kendi geçmişin de dâhil olmak üzere, sistemin tüm karanlık yüzünü kamuya açmak istiyorsun.", "next": "acigaCikart", "points": 8 },
+    { "text": "!içeridenDüzelt — Sistemi yıkmak yerine içeriden değiştirmeye karar veriyorsun. Kontrolü ele alıp hataları düzeltmek ve eski ideallerini hayata döndürmek istiyorsun.", "next": "iceridenDuzelt", "points": 10 }
+  ]
+},
+"acigaCikart": {
+  "text": "Gerçekleri açığa çıkarmak için cesurca harekete geçiyorsun. Elindeki tüm kanıtları, belgeleri ve anıları kamuya sunuyorsun. İlk başta destek buluyorsun; insanlar gerçekleri öğrenmeye aç, umutlu.\n\nFakat karanlık güçler çok derinlerde… Senin çabalarının önüne set çekmek için harekete geçiyorlar. Medya manipüle ediliyor, deliller çarpıtılıyor, yakın çevrenden bile ihanetler başlıyor. Güvendiğin bazı kişiler aniden sessizleşiyor, bazıları ise seni durdurmak için saldırıya geçiyor.\n\nSonunda yalnız kalıyorsun. Hem fiziksel hem de psikolojik olarak yıpranmış, kamuoyu tarafından hedef haline gelmiş olarak çıkıyorsun ortaya. Ne yazık ki gerçekler, karanlık ve güçlü çıkarların önünde eziliyor.\n\nBir zamanlar değiştirmeye çalıştığın sistem, seni yutuyor. Senin hikayen, unutulan bir uyarı işaretine dönüşüyor.\n\n💾 Oyun Sonu: Gerçeklerin Yükü\nDünyayı değiştirmeye çalışırken, karanlık güçlerin kurbanı oldun. Senin mücadelen, susturuldu.",
+  "options": [
+    { "text": "Skorunu Gör -15 puan", "next": "finalSkor", "points": -15 }
+  ]
+},
+"iceridenDuzelt": {
+  "text": "Sistemin derinliklerine dalıyorsun; kaybolmuş parçaları bir araya getirip, karanlık sırları ortaya çıkarıyorsun. İhanetlerin ve kırık hatıraların arasından, içtenlikle ve azimle hareket ediyorsun.\n\nYavaş yavaş, eski güvenlik duvarlarını aşarak gerçekleri onarıyor, sistemin kontrolünü yeniden ele geçiriyorsun. Kurduğun teknoloji, şimdi senin rehberin oluyor; geçmişin yüklerini geride bırakıyorsun.\n\nÇevrendeki insanlar sana yeniden güvenmeye başlıyor. Hafızan ve kimliğin birleşiyor, içindeki gücü hissediyorsun.\n\nSonunda, hem kendin hem de dünya için umut dolu yeni bir sayfa açıyorsun.\n\n🎉 Oyun Sonu: Yeniden Doğuş\nKendi karanlığını yendin, gerçek gücünü keşfettin. Gelecek artık senin ellerinde.",
+  "options": [
+    { "text": "Skorunu Gör +15 puan", "next": "finalSkor", "points": 15 }
+  ]
+},
+
 
     "finalSkor": {
       "text": "🎉 Oyun Bitti! Toplam Puan: {score} 🏆",
