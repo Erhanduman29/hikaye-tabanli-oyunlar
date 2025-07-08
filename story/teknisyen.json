@@ -285,7 +285,7 @@
     { "text": "!reddet → Sözlerine güvenmeyip, gerçekleri zorla öğrenmeye karar vereceksin. Bu tehlikeli ama bağımsız bir yol olur.", "next": "reddet", "points": 12 }
   ]
 },
-"aniOdasinaGit": {
+"aniOdasi": {
   "text": "Kapı, ağır bir inlemeyle açıldığında seni karşılayan ilk şey sessizlik oluyor. Derin, kemiklerine işleyen bir sessizlik. Loş ışıklar arasında ilerlerken her adımın yankısı, seni kendi geçmişinle baş başa bırakıyor.\n\nAnı Odası, tam anlamıyla bir zaman mezarlığı gibi…\nDuvarlarda yanıp sönen veri panelleri, cam tüplerin içinde yüzen bellek çekirdekleri ve tam ortada seni bekleyen dairesel bir bağlantı konsolu.\n\nBir an duraksıyorsun. Tüm bu yolculuk boyunca aradığın cevaplar artık sadece birkaç tıklama uzağında. Ama içinde bir huzursuzluk var — bu kadar fazla gerçeğe hazır mısın?\n\nKonsola yaklaşırken üç farklı etkileşim yolu beliriyor. Her biri seni farklı bir sona, farklı bir gerçekle yüzleşmeye götürecek.",
   "options": [
     { "text": "!anıyıAç — En derin, en kilitli anıya erişmeye çalışıyorsun. Burada geçmişinle ilgili en karanlık gerçeği öğrenme ihtimalin var.", "next": "kilitliAni", "points": 10 },
@@ -304,7 +304,7 @@
   "text": "Ekranda birbiriyle çelişen üç farklı sahne akıyor. Her biri senin geçmişine ait… ya da sana ait olduğu söylenen geçmişe.",
   "options": [
     { "text": "!vizyon → İlk kayda tutunuyorsun. Sistemi iyilik için kurduğuna inanıyor, eski ideallerine sarılıyorsun. Bu seni bir kurtarıcıya dönüştürebilir.", "next": "vizyon", "points": 10 },
-    { "text": "!sabotaj → İkinci kayıt seni içine çekiyor. Karanlık kararlarını ve sistemin hatalarını kabul ediyorsun. Belki de her şey çoktan yozlaşmıştı.", "next": "sabotaj", "points": 10 },
+    { "text": "!sabotaj → İkinci kayıt seni içine çekiyor. Karanlık kararlarını ve sistemin hatalarını kabul ediyorsun. Belki de her şey çoktan yozlaşmıştı.", "next": "sabotaj", "points": 1 },
     { "text": "!yazgı → Üçüncü kayıt seni sarsıyor. Belki de tüm hayatın, başkasının planladığı bir düzendi. Şimdi bu yazgıyı kırmak mı yoksa yeniden yazmak mı istersin?", "next": "yazgi", "points": 10 }
   ]
 },
@@ -327,7 +327,32 @@
     { "text": "Skorunu Gör +15 puan", "next": "finalSkor", "points": 15 }
   ]
 },
+"sabotaj": {
+  "text": "Sistemin merkezine doğru ilerliyorsun, içinde bastıramadığın bir huzursuzlukla. Yıllar önce yarattığın bu yapının artık bir tehdit olduğunu hissediyorsun. Onu içeriden çökertmek, bütün geçmişi yerle bir etmek pahasına da olsa, yeni bir başlangıç için tek yol olabilir.\n\nKontrol terminaline ulaştığında, protokolleri devre dışı bırakacak kod dizilerini çalıştırmaya başlıyorsun. Güvenlik duvarları seni tanıyor, ama sen artık sadece bir kurucu değil, bir yabancısın onlara. Sistemi içten sabote etmek, senin için hem bir intikam hem de bir kefaret gibi.\n\nAma sistem sadece verilerden ibaret değil. Onunla birlikte, senin kurduğun anılar, seninle yaşayan hayatlar, senin bıraktığın izler de siliniyor. Sanki kendi geçmişini yakıyorsun, kendini yok ederken sistemi de peşinden götürüyorsun.\n\nSonunda terminal kararıyor. Her şey duruyor. Sistem sustuğunda, dünya sessizleşiyor. Artık hiçbir şey eskisi gibi olmayacak. Belki de bu, olması gerekendi.\n\n💾 Oyun Sonu: Sessiz Kapanış\nSen, sistemin kurucusu olarak onu sonlandırdın. Her şey sustu. Gerçekler, sesini sonsuza dek yitirdi.",
+  "options": [
+    { "text": "Skorunu Gör -10 puan", "next": "finalSkor", "points": -10 }
+  ]
+},
+"yazgi": {
+  "text": "Anı odasında gözlerini kapattığın anda bedenin değil, zihnin bir yolculuğa çıkıyor. Bilincin derinlerine doğru çekiliyorsun. Zaman ve mekân kavramı kaybolmuş gibi. Artık yalnızca sesler, yankılar ve hisler var.\n\nBir masanın etrafında oturan insanlar beliriyor zihninde. Beyaz önlükler, kararsızlıkla dolu bakışlar, senin adının fısıltıyla anıldığı gizli toplantılar. Biri ayağa kalkıyor, parmaklarıyla senin dosyana dokunuyor.\n\n“Kurucunun hafızası silinmeli,” diyor.\n“O, artık bizim için bir tehdit.”\n\nBu sahne sanki yüzlerce kez tekrarlanmış bir yazgının kaydı gibi. Hafızanı silen kararı verenler senin en güvendiğin kişilerdi.\n\nAma şimdi… bu yazgının zincirlerini kırmak senin elinde. Zihin seni bir kavşağa getiriyor.\nKendine tek bir soru soruyorsun: “Bu hayat bana ait mi?”\n\nİki farklı yol beliriyor zihninde:",
+  "options": [
+    { "text": "!yenidenYaz — Her şeyi geride bırakıp, kim olduğunu bile bilmeden, kaderini sıfırdan yazmayı seçiyorsun.", "next": "yenidenYaz", "points": 5 },
+    { "text": "!geriAl — Geçmişini olduğu gibi kabul ediyor, anılarına sahip çıkıyor ve yeniden kontrolü ele almaya karar veriyorsun.", "next": "geriAl", "points": 10 }
+  ]
+},
+"geriAl": {
+  "text": "Gözlerini açtığında, anı odasının ışıkları yavaşça yanıyor. Kalbin hızla atıyor, ama bu kez korkudan değil. Zihnindeki boşluklar dolmuş gibi. Kaybolmuş tüm parçalar yerine oturuyor.\nİsimler… yüzler… kararlar… hepsi geri geliyor.\n\nKimsin sen?\nKurucusun. Bu teknolojiyi sen başlattın. Ama bir noktada, kontrolden çıktığını gördün. İnsanlığın hafızayla olan ilişkisini yeniden tanımlarken, kendi zihnini kaybettin.\n\nAma artık ne yaptığını biliyorsun. Kime güveneceğini, kimden sakınacağını…\nVe şimdi, hatırlaman gereken en önemli şey şu:\nBu sistem hâlâ senin ellerinde.\n\nTerminale yöneliyorsun. Parmakların hafifçe ekranın üzerinde geziniyor. Protokolleri açıyorsun, erişim seviyeni yükseltiyorsun.\nSana karşı kurulan sistemi, yeniden yapılandırıyorsun.\n\nKapı açılıyor. Seni içeride bekleyen teknisyen başını kaldırıp bakıyor.\nGözlerinde şaşkınlık ve hayranlık.\n\n“Hatırladın...” diyor.\n\nSen sadece başını sallıyorsun.\nVe sessizce ekliyorsun:\n“Şimdi her şey farklı olacak.”\n\n💾 Oyun Sonu: Gerçek kimliğini hatırladın ve sistemi kendi ellerinle yeniden kurdun. Bu sefer daha bilinçli, daha güçlü ve yalnız değilsin.",
+  "options": [
+    { "text": "Skorunu Gör +14 puan", "next": "finalSkor", "points": 14 }
+  ]
+},
 
+"yenidenYaz": {
+  "text": "Gözlerini açtığında, hiçbir şey tanıdık gelmiyor. Hafıza odasındaki ışıklar seni ürpertiyor. Sanki beynin yavaşça sıfırlanıyor.\n\nTerminaldeki ekran, kendiliğinden kapanıyor.\nİçeridekiler artık seni bir tehdit olarak görmüyor… çünkü sen hiçbir şey hatırlamıyorsun.\n\nKoridora çıkıyorsun, adımların kararsız. Artık seni yönlendiren bir geçmiş yok. Ne bir hedefin ne de bir nedenin kalmış.\n\nBir görevli yanına geliyor.\n“Sistemden çıkış için hazırlıklar tamamlandı,” diyor.\nSen sadece başını sallıyorsun.\n\nİsmini sorduğunda, cevap veremiyorsun.\n\nArtık kurucu değilsin.\nSadece yeni bir dosya.\nSistemin içinde kaybolan binlerce bilinçten biri daha.\n\n💾 Oyun Sonu: Geçmişini silmeyi seçtin. Artık kendi yazgını bile hatırlamayan, sıradan bir gölge olarak sistemin bir parçasısın.",
+  "options": [
+    { "text": "Skorunu Gör -6 puan", "next": "finalSkor", "points": -6 }
+  ]
+},
 
     "finalSkor": {
       "text": "🎉 Oyun Bitti! Toplam Puan: {score} 🏆",
