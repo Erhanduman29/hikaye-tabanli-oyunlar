@@ -153,7 +153,7 @@
   "text": "Hafızandaki parçaları didik didik etmeye devam ediyorsun.\nKarmaşık kodlar, eski dosyalar ve hatıra kırıntıları arasında kaybolmuş gibisin.\nHer yeni parça, geçmişin karanlık ve karmaşık labirentinde yeni bir kapı aralıyor.\n\nBir an, ekranda eski bir dosya yavaşça beliriyor:\n“Kilitli Anı: Kritik Olay”\n\nBu anıya erişmek için özel bir onay gerekiyor. Kalbin hızlanıyor; bu kapının arkasında seni nelerin beklediğini bilmiyorsun ama bilmeyi de çok istiyorsun.\n\nNe yapacaksın?",
   "subtitle": "Bölüm 3: Kendini Hatırla",
   "options": [
-    { "text": "!anıyıAç → Kilitli kapıyı açıp, o kritik anıyı keşfetmeye cesaret ediyorsun.", "next": "kilitliAni", "points": 12 },
+    { "text": "!anıyıAç → Kilitli kapıyı açıp, o kritik anıyı keşfetmeye cesaret ediyorsun.", "next": "aniyiAc", "points": 12 },
     { "text": "!parlaklık → Hafızandaki o gizemli ışık huzmesine tekrar yöneliyorsun; yeni umut ve keşif kapısını aralamak için.", "next": "parlaklik", "points": 8 },
     { "text": "!geriDön → Geri dönüp hafızanı silen kişiyi bulmaya çalışıyorsun.", "next": "isimIzle", "points": 5 }
   ]
@@ -169,7 +169,7 @@
   "text": "Hafızanın derinliklerinde, puslu görüntüler arasında parlayan bir ışık huzmesi dikkatini çekiyor. Bu parlaklık, sana umut ve keşif vaat ediyor; geçmişin karanlık labirentinde bir rehber gibi. Işığa doğru ilerledikçe, zihninde eski anılar daha net beliriyor; unutulmuş yüzler, gizli mesajlar ve kodlar bir araya geliyor. Sanki uzun süredir kapalı kalan bir kapı yavaş yavaş aralanıyor. Ancak bu parlaklık, beraberinde bilinmezlik ve riskler de getiriyor.\nKarşında, geleceğini değiştirebilecek bir karar var.\n\nSeçeneklerin:",
   "subtitle": "Bölüm 3: Kendini Hatırla",
   "options": [
-    { "text": "!anıyıAç → Kilitli kapıyı açıp, o kritik anıyı keşfetmeye cesaret ediyorsun.", "next": "kilitliAni", "points": 8 },
+    { "text": "!anıyıAç → Kilitli kapıyı açıp, o kritik anıyı keşfetmeye cesaret ediyorsun.", "next": "aniyiAc", "points": 8 },
     { "text": "!ışığaİlerle → Parlaklığın peşinden gidip, yeni bir umut ve gerçeğin kapısını aralamaya cesaret ediyorsun.", "next": "umutKapi", "points": 10 }
   ]
 },
@@ -305,7 +305,7 @@
   "text": "Kapı, ağır bir inlemeyle açıldığında seni karşılayan ilk şey sessizlik oluyor. Derin, kemiklerine işleyen bir sessizlik. Loş ışıklar arasında ilerlerken her adımın yankısı, seni kendi geçmişinle baş başa bırakıyor.\n\nAnı Odası, tam anlamıyla bir zaman mezarlığı gibi…\nDuvarlarda yanıp sönen veri panelleri, cam tüplerin içinde yüzen bellek çekirdekleri ve tam ortada seni bekleyen dairesel bir bağlantı konsolu.\n\nBir an duraksıyorsun. Tüm bu yolculuk boyunca aradığın cevaplar artık sadece birkaç tıklama uzağında. Ama içinde bir huzursuzluk var — bu kadar fazla gerçeğe hazır mısın?\n\nKonsola yaklaşırken üç farklı etkileşim yolu beliriyor. Her biri seni farklı bir sona, farklı bir gerçekle yüzleşmeye götürecek.",
   "subtitle": "Bölüm 3: Kendini Hatırla",
   "options": [
-    { "text": "!anıyıAç — En derin, en kilitli anıya erişmeye çalışıyorsun. Burada geçmişinle ilgili en karanlık gerçeği öğrenme ihtimalin var.", "next": "kilitliAni", "points": 10 },
+    { "text": "!anıyıAç — En derin, en kilitli anıya erişmeye çalışıyorsun. Burada geçmişinle ilgili en karanlık gerçeği öğrenme ihtimalin var.", "next": "aniyiAc", "points": 10 },
     { "text": "!yansıma — Hafızandaki olayları dış dünyaya projekte eden özel bir arayüze bağlanıyorsun. Böylece olayları dışarıdan bir göz gibi izleme şansı buluyorsun; objektif mi, yoksa manipüle edilmiş mi olduğunu çözmeye çalışacaksın.", "next": "yansima", "points": 9 },
     { "text": "!bağlantıKur — Sistemle doğrudan nöral bağlantı kurarak, geçmişteki biriyle veya bir belleğin içindeki bir figürle etkileşime geçmeyi seçiyorsun. Bu yol, bir yüzleşmeden çok bir hesaplaşmaya dönüşebilir.", "next": "baglantiKur", "points": 11 }
   ]
