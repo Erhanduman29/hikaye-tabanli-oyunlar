@@ -1,5 +1,5 @@
 {
-  "title": "Bir Teknisyenin Yolculuğu",
+  "title": "Unutulan Benliğin Hikayesi",
   "subtitle": "Bölüm 1: Uyanış",
   "author": "Senin Oyunun",
   "start": "uyanis",
@@ -13,6 +13,7 @@
     },
   "incele": {
     "text": "Masada duran tablete yöneliyorsun. Titreyen ekranı parmaklarınla uyandırdığında, tanıdık ama bir o kadar da yabancı bir arayüz gözünün önüne geliyor. Dokunduğun anda soğuk bir his eline yayılıyor — sanki cihaz seni tanıyor, ama sen onu hatırlamıyorsun.\n\nEkranda tek bir başlık var:\n\nProject Origo\n\nBu kelimeyi okuduğunda, kalbinin ritmi değişiyor. “Origo”... dilinin ucuna bir anlamı geliyor ama bir türlü hatırlayamıyorsun.\nDosyayı açmaya çalışıyorsun fakat şifre korumalı. Bir an için refleksle birkaç sayı kombinasyonunu deniyorsun; ama başarısız.\n\nO sırada arkandaki kişinin sesi tekrar duyuluyor:\n“Onu kurcalama,” diyor soğukkanlı bir ifadeyle.\nGöz göze geliyorsunuz. Onun bakışları, sende daha fazlasını bildiğini düşündüğün bir soğukluk taşıyor.\n\n“Bu kadar acele etme,” diyor, biraz daha yumuşak bir sesle. “Sana anlatacağımız şeyler var. Ama önce… sağlığından emin olmamız gerekiyor.”\n\nBu söz seni ürpertiyor. Sağlığından emin olmak mı?\nSanki senin hakkındaki tüm kontrol onlarda gibi.\n\nNe yapacaksın?",
+    "subtitle": "Bölüm 1: Uyanış",
     "options": [
       { "text": "!ısrar → Tableti açmayı zorlamaya devam ediyorsun, ne pahasına olursa olsun.", "next": "israr", "points": 5 },
       { "text": "!bekle → Şimdilik geri çekilip karşısındakinin söylediklerini dinlemeyi seçiyorsun.", "next": "bekle", "points": 7 }
@@ -20,12 +21,14 @@
   },
   "israr": {
     "text": "Tabletin elinden alınmasına rağmen içindeki şüpheyi bastıramıyorsun. Göğsünde bastıran o garip duygu, geri çekilmeni imkânsız hale getiriyor.\n\nAniden ileri atılıp tableti tekrar almaya çalışıyorsun. O kişi seni durdurmak için kolunu kavrıyor.\n“Hayır!” diye haykırıyor, yüzünde panik ilk kez bu kadar belirgin.\n“Şimdi buna bakamazsın! Kendini mahvedersin!”\n\nAma dinlemiyorsun.\nSanki damarlarında akan kan bile seni durduramazmış gibi hissediyorsun. Tableti kapmak için bir hamle daha yapıyorsun ve ekran yeniden açılıyor.\n\n**Proje Origo**\nYETKİ AŞIMI ALGILANDI\nGüvenlik Protokolü: NULL-LOCK AKTİFLEŞTİRİLDİ\n\nKırmızı bir alarm sesi odada yankılanıyor. Duvarlarda ışıklar yanıp sönüyor. Birdenbire, bedenin tuhaf şekilde ağırlaşıyor. Bacakların seni taşımıyor, dizlerinin üzerine düşüyorsun.\n\nBir tür bastırıcı kimyasal mı?\nO kişi, çaresiz bir ifadeyle eğilip gözlerinin içine bakıyor.\n“Sana söylemiştim,” diyor boğuk bir sesle. “Hazır değildin.”\n\nBeyninde bir uğultu başlıyor. Giderek yükselen, yakıcı bir uğultu. Görüntüler kararıyor.\n\nBir an için, hayatının en önemli anılarını hatırlayacak gibi oluyorsun — ama bir kapı kapanıyor. Sonsuza dek.\n\n💾 Oyun Sonu: Senin güvenlik sistemlerin, kendine karşı bile tasarlanmıştı. Kurucusu olduğun teknoloji, seni korumak adına kendi hatıralarına ulaşmanı engelledi. Ve sonunda, seni susturdu.",
+    "subtitle": "Bölüm 1: Uyanış",
     "options": [
       { "text": "Skorunu Gör +10 puan", "next": "finalSkor", "points": 10 }
     ]
   },
   "bekle": {
     "text": "Bir an için nefesini tutuyorsun. Tablete uzanacakken, kalbinde yankılanan o karanlık sezgi geri çekilmene sebep oluyor. Parmakların titriyor; bir adım geriye atıyorsun.\n\nKarşındaki kişi, göz ucuyla sana bakarken, bir rahatlama hissi geçiyor yüzünden.\n“Doğru karar,” diyor yavaşça. “Şimdilik ona dokunma. Bunun için henüz hazır değilsin.”\n\nİçindeki merak hâlâ canlı ama, bastırmak zorundasın. Bir şekilde, bu insanın söylediği şeyin doğru olabileceğini hissediyorsun.\n\nAdam (veya kadın) masasından bir sandalye çekip sana oturmanı işaret ediyor.\n“Bak,” diye başlıyor, sesi daha sakin.\n“Burası, senin düşündüğünden çok daha karmaşık bir yer. Kendine dair bildiklerin bile... sorgulanabilir.”\n\nKelimeleri ağır ağır beynine işliyor. Kendine dair bildiklerin bile sorgulanabilir mi? Bu söz, zihninde yankılanıyor.\n\nBirden, hafif bir baş ağrısı hissediyorsun. Sanki bozuk bir kaydı dinlerken patlayan bir ses gibi bir anı parçası gözünün önüne düşüyor:\nKoyu renkli bir toplantı odası, sana bakan onlarca yüz, bir sunum ekranı…\nSonra görüntü parçalanıyor.\n\nYüzüne garip bir ifade yerleşiyor. Bunu fark eden o kişi, bakışlarını sertleştiriyor:\n“Geçmişine odaklanma,” diyor. “Sana yeni bir görev vereceğiz. Bu, burada kalmanın karşılığı.”\n\nNe yapacaksın?",
+    "subtitle": "Bölüm 1: Uyanış",
     "options": [
       { "text": "!kabul → Görevi dinlemeyi ve kabul etmeyi seçiyorsun.", "next": "kabul", "points": 15 },
       { "text": "!itiraz → Göreve karşı çıkıp, cevap almak için diretmek istiyorsun.", "next": "itiraz", "points": 5 }
@@ -33,6 +36,7 @@
   }, 
   "konus": {
     "text": "Karşındaki kişinin yüzündeki donuk ifadeye rağmen cesaretini toplayıp konuşmaya başlıyorsun.\n“Burada ne yapıyorum? Beni neden gözlemliyorsunuz?” diye soruyorsun, sesin biraz titreyerek.\n\nO kişi, gözlerini kaçırmadan seni izliyor.\n“Bir süre sonra anlayacaksın,” diyor tekdüze bir sesle.\n“Bu merkezde kaldığın sürece bazı prosedürleri uygulamak zorundayız. Ancak…”\n\nKısa bir duraksama oluyor. Gözleri, masadaki tabletin üzerine kayıyor.\n“…bazı görevlerimiz var,” diye devam ediyor.\n“Senin yardımına ihtiyacımız olacak.”\n\nBirden boğazında düğümlenen o bilinmezlik hissi geri geliyor. Görev mi?\nDaha kendini bile hatırlamıyorsun… nasıl bir görev olabilir ki?\n\nYine de bu insanın söylediği ciddiyet seni kuşatıyor. Bir yanlış yaparsan, her şey daha kötüye gidecek gibi.",
+    "subtitle": "Bölüm 1: Uyanış",
     "options": [
       { "text": "!kabul → Görevi dinlemeyi ve kabul etmeyi seçiyorsun.", "next": "kabul", "points": 15 },
       { "text": "!itiraz → Göreve karşı çıkıp, cevap almak için diretmek istiyorsun.", "next": "itiraz", "points": 5 }
@@ -40,6 +44,7 @@
   },
   "itiraz": {
     "text": "Derin bir nefes alıyorsun. Bu görevi kabul etmek… hayır, buna hazır değilsin. Kendini bile hatırlamazken birilerinin seni yönlendirmesine izin veremezsin.\n\n“Hayır,” diyorsun, sesin bu sefer kararlı çıkıyor. “Ne olduğunu bilmeden hiçbir şeye yardım etmeyeceğim.”\n\nKarşındaki kişinin yüzü geriliyor, kasları hafifçe titriyor. Bu itirazı beklemiyormuş gibi bir an sende kalıyor, sonra sert bir nefes veriyor.\n“Zamanımız yok,” diyor.\nSesi, sabrını zorladığını belli ediyor.\n\nAyağa kalkıp odada birkaç adım atıyor, ardından sana tekrar dönüyor.\n“Bak… bazı şeyleri açıklamak imkânsız. Çünkü bu açıklamalar seni yıkabilir. Hafızan parçalı, sen bile kendine güvenemezsin. Ama… eğer illa gerçeği istiyorsan…”\n\nMasadaki tableti işaret ediyor.\n“Bir yol var. Proje Origo dosyasına girmeyi başarabilirsen… belki her şeyi öğrenirsin.”\n\nBunu söylerken yüzündeki tedirginlik gözünden kaçmıyor.\n“Fakat,” diye ekliyor, sesi bu kez boğuklaşıyor,\n“bunu yaparsan… sonuçlarına katlanırsın.”\n\nYine de, bir seçim yapmak zorundasın.\n\nNe yapacaksın?",
+    "subtitle": "Bölüm 1: Uyanış",
     "options": [
       { "text": "!origo → Tableti alıp Proje Origo’yu açmaya çalışıyorsun.", "next": "origo", "points": 10 },
       { "text": "!geri → Kararından vazgeçip görevi kabul etmeye ikna oluyorsun.", "next": "geri", "points": 6 }
@@ -47,12 +52,14 @@
   },
   "origo": {
     "text": "Tablete elin uzanıyor. O kişinin uyarılarını, yüzündeki korkuyu, sesindeki titremeyi umursamıyorsun. İçindeki boşluğu dolduracak tek yolun bu olduğuna inanıyorsun.\n\nEkrana dokunduğun an, soğuk bir ürperti kolundan yukarı doğru yayılıyor. Parmakların, sanki eski bir hatırayı anımsar gibi otomatik olarak bir şifre tuşluyor. Kilit sesi açıldığında, ekrandan yükselen yoğun bir veri akışı gözlerini kamaştırıyor.\n\nGözlerinle satırları tarıyorsun:\n\n**Proje Origo**\nDenek #001\nStatü: Kurucu\nYönetsel Bellek Temizliği: %94 başarı\nHedef: Kurucunun güvenliğini sağlamak için anı filtreleme\n\nBirden beyninde bir yıldırım gibi çakan ağrı patlıyor.\nYere kapanıyorsun.\n\nSesler duyuyorsun, tanıdık ama karmakarışık.\nKendi sesin.\nKonuşmalar. Emrediyorsun, yönetiyorsun, onlara yol gösteriyorsun.\n\nSonra… bir başka ses.\nSeni durdurmak isteyen biri.\nYüzünü seçemiyorsun, ama gözlerini hatırlıyorsun — öfke, nefret, ihaneti birleştiren buz gibi bir bakış.\n\nVeri akışı devam ettikçe zihnin taşma noktasına ulaşıyor.\nEllerin titriyor, nefesin yetmiyor, başın zonkluyor.\n\nKendi geliştirdiğin sistem, belleğinin çözülemeyecek kadar güçlü bir kilidini tetikliyor: NULL-LOCK.\nProtokol, kurucuyu korumak için bile olsa, senin hafızana erişimini engellemek üzere tasarlanmıştı.\n\nBir anda zihninin ışıkları sönüyor.\n\n💾 Oyun Sonu: Proje Origo'nun sırları, seni kendinden bile koruyacak kadar acımasızdı.\nBelleğinin kilidi sonsuza dek kapandı.",
+    "subtitle": "Bölüm 1: Uyanış",
     "options": [
       { "text": "Skorunu Gör +12 puan", "next": "finalSkor", "points": 12 }
     ]
   },
   "kabul": {
     "text": "Derin bir nefes alıyorsun. İçindeki kuşkular bitmiş değil, ama bu insanın sözlerindeki kararlılık seni ikna ediyor. Şimdilik onlara karşı çıkmanın faydasız olacağını anlıyorsun.\n\n“Peki,” diyorsun, sesinde bir miktar teslimiyet var. “Söyleyin. Görevim ne?”\n\nKarşındaki kişi ilk kez hafifçe gülümsüyor.\n“Akıllıca bir seçim,” diyor.\nSonra cebinden küçük, cam görünümlü bir veri modülü çıkarıp masaya bırakıyor.\n“Bunu al. Güvenlik katına ulaşman gerek. Orada sisteme yükleyeceksin. Sadece sen yapabilirsin.”\n\nŞüphelerin büyüyor.\n“Neden sadece ben?” diye soruyorsun.\n\nBir an duraksıyor.\n“Çünkü,” diyor, gözlerini kaçırarak,\n“bu sistemin ana kodları sana bağlı. Sen olmadan açılmaz.”\n\nİçinde anlamlandıramadığın bir soğukluk hissi dolaşıyor. Ben… neden bu kadar önemli olayım ki?\nYine de bu veri modülünü eline alıyorsun. Hafif, ama taşıdığı sorumluluk ağır.\n\n“Güvenlik katına indiğinde,” diye devam ediyor,\n“bazı şeyleri görebilirsin. Sakın paniğe kapılma. Ve... kimseye güvenme.”\n\nO an kapının yanındaki ışık yeşile dönüyor; çıkışın serbest olduğu anlamına geliyor.\n\nŞimdi ne yapacaksın?",
+    "subtitle": "Bölüm 1: Uyanış",
     "options": [
       { "text": "!in → Güvenlik katına gitmek için çıkışa yöneliyorsun.", "next": "guvenlikKat", "points": 9 },
       { "text": "!soru → Gitmeden önce birkaç şey daha sormaya karar veriyorsun.", "next": "soru", "points": 5 }
@@ -60,6 +67,7 @@
   },
   "geri": {
     "text": "Bir an düşünüyorsun. Belki de bu kadar acele etmemelisin. Görevi kabul etmek, içinde bir umut kırıntısı uyandırıyor.\n\n“Tamam,” diyorsun, “görevi kabul edeceğim.”\n\nKarşındaki kişi hafifçe başını sallıyor, memnun olmuş gibi.\n“Doğru karar,” diyor.\n“Elindeki veri modülünü hazır tut. Güvenlik katına indiğinde… işin asıl zorluğu başlayacak.”\n\nKapıdaki ışık yeşile dönüyor.\n“Şimdi gitmelisin.”\n\nŞimdi ne yapacaksın?",
+    "subtitle": "Bölüm 1: Uyanış",
     "options": [
       { "text": "!in → Güvenlik katına gitmek için çıkışa yöneliyorsun.", "next": "guvenlikKat", "points": 9 },
       { "text": "!soru → Gitmeden önce birkaç şey daha sormaya karar veriyorsun.", "next": "soru", "points": 5 }
@@ -67,6 +75,7 @@
   },
   "soru": {
     "text": "Kapıya yönelmeden önce bir adım geri çekilip sorularını sıralıyorsun.\n“Bu görev tam olarak neyi kapsıyor? Bana neden güveniyorsunuz? Hafızam hala parçalıyken, nasıl başarılı olabilirim?”\n\nKarşındaki kişi derin bir nefes alıyor, gözlerinde hafif bir yorgunluk beliriyor.\n“Biliyorum, her şey çok karmaşık ve adaletsiz görünüyor,” diyor.\n“Ancak sen, bu kurumun temel taşısın. Belleğin parçalı olabilir ama sistemle bağlantın ve yetkin tartışılmaz.”\n\nBir an için yüzündeki ciddiyet kayboluyor, yerini bir umut ışığı alıyor.\n“Güvenlik katına indiğinde, geçmişinin bazı parçalarını görebileceksin. Ama dikkatli ol; gerçek, beklediğinden farklı olabilir.”\n\nSonra kapının ışığı yeşile dönüyor.\n“Şimdi gitmelisin. Yolun orada başlıyor.”",
+    "subtitle": "Bölüm 1: Uyanış",
     "options": [
       { "text": "!in → Güvenlik katına gitmek için çıkışa yöneliyorsun.", "next": "guvenlikKat", "points": 8 }
     ]
@@ -82,6 +91,7 @@
   },
   "laboratuvar": {
     "text": "Üstünde laboratuvar yazılı kapıyı görüyorsun. İçinden bir ses bu kapıya gitmen gerektiğini söylüyor. Cesaretini toplayıp laboratuvar kapısını itiyorsun. Paslanmaz çelikten dev kapı, mekanik bir uğultuyla aralanıyor ve keskin dezenfektan kokusu yüzüne çarpıyor. İçeriye girdiğinde gözlerini mavi, titreşen ışıklar karşılıyor.\n\nCihazlarla dolu tezgahlar, sayısız bellek diski, modüller, kablolar… Bir köşede, monitörlerin başında çalışan bir teknisyen fark ediyorsun. Sen girince ürkek bir şekilde dönüp bakıyor, sonra hemen ekrana gömülüyor.\n\nTam o sırada holografik bir panel açılıyor. Panelde tek bir kelime parlıyor:\n\n**Origo Ana Belleği: Erişim Yetkisi Bekleniyor**\n\nİçin buz kesiyor.\nYine o kelime — Origo.\nAma bu sefer, veri akışının gerisinde farklı bir başlık dikkatini çekiyor:\n\n**Kurucu Protokolü - Gizli**\n\nTeknisyenin sesi sert bir şekilde yankılanıyor:\n“Bunlara dokunma,” diyor kısa ve net.\n“Henüz erişime açılmadı.”\n\nAma merakın seni kemiriyor.\nBelki de bu veriler, aradığın gerçekleri ortaya çıkarabilir.\n\nNe yapacaksın?",
+    "subtitle": "Bölüm 2: Gerçeğin Kıyısında",
     "options": [
       { "text": "!sorgula → Teknisyeni sorgulayarak bilgi almaya çalışıyorsun.", "next": "sorgulaTeknisyen", "points": 7 },
       { "text": "!hack → Uyarılarına aldırmadan dosyayı zorla açmaya çalışıyorsun.", "next": "hackDosya", "points": 9 }
@@ -89,6 +99,7 @@
   },
   "sorgulaTeknisyen": {
     "text": "Teknisyenin seni durdurmaya çalışan bakışlarına aldırmadan, bir adım daha yaklaşıyorsun.\n“Bana doğruyu söyle,” diyorsun kararlı bir sesle.\n“Bu dosyalar neden benden saklanıyor? Neden her şey Origo’ya bağlı?”\n\nTeknisyenin gözleri bir an titriyor. Çekingenliğini yutkunarak bastırmaya çalışıyor.\n“Sen… buraya gelmeden önce sana ait kayıtların çoğu temizlendi,” diyor.\n“Belleğin geri dönse bile, buradaki protokoller seni korumak için tasarlanmıştı.”\n\nBeni korumak mı?\nBu söz beyninde yankılanıyor, mide bulandırıcı bir şekilde.\n\n“Koruma mı diyorsun?” diyorsun, sesin sertleşerek.\n“Beni her şeyden kopararak mı koruyorsunuz?”\n\nTeknisyen bakışlarını kaçırıyor.\n“Başka yolu yoktu,” diyor fısıltıyla.\n“Sen… bu sistemin kurucususun. Ama bir şey oldu. Proje kontrolden çıktı. Seni bile tehdit eder hale geldi. O yüzden… hafızan sıfırlandı.”\n\nO an dizlerinin bağı çözülür gibi oluyor. Bir süre kelimeleri toparlayamıyorsun.\nKurucu… ben miyim?\n\nTeknisyen elini sana doğru uzatıyor, neredeyse yalvarırcasına:\n“Lütfen, bu bilgilerle şimdilik oynamaya çalışma. Güvenlik katının alt seviyesine in, orada seni bekleyen biri var. Gerçekleri yavaş yavaş öğrenmen gerekiyor.”\n\nGözlerin panele takılıyor:\n\n**Origo Ana Belleği: Erişim Yetkisi Bekleniyor**\n\nBu kadarına rağmen hâlâ dosyayı açmak istiyorsun. Ama belki de teknisyenin dediği doğrudur…\n\nNe yapacaksın?",
+    "subtitle": "Bölüm 2: Gerçeğin Kıyısında",
     "options": [
       { "text": "!indir → Alt kata inip, seni bekleyen kişiye ulaşmayı kabul ediyorsun.", "next": "altKat", "points": 8 },
       { "text": "!hack → Yine de dosyayı zorla açmaya kararlısın.", "next": "hackDosya", "points": 10 }
@@ -96,6 +107,7 @@
   },
   "altKat": {
     "text": "Derin bir nefes alıyorsun. Bu kadar bilgi, bu kadar boşluk… Zihnin neredeyse patlayacak gibi. Ama içgüdülerin bu sefer teknisyenin haklı olabileceğini söylüyor.\n\nVeri modülünü sıkıca tutup başını sallıyorsun.\n“Tamam,” diyorsun, sesin yorgun ama net. “Alt kata ineceğim.”\n\nTeknisyenin yüzünde, hafif de olsa bir rahatlama okunuyor.\n“Akıllıca bir karar,” diyor.\nSonra parmaklarıyla duvardaki paneli işaret ediyor.\n“Bu asansör seni doğrudan -3 Seviyesine götürür. Orada seni biri karşılayacak. Onunla konuşmadan, hiçbir protokolü devreye alma.”\n\nAsansör kapısı sessizce açılıyor. İçerisi, gri metalden soğuk bir kutu gibi. Basamaklarını ağır ağır atıyorsun. Asansör aşağı inmeye başladığında, miden kasılıyor.\n\nKaranlık, uzun bir iniş.\nKafanda yankılanan sesler…\nKurucusun… kurucusun… kurucusun.\n\nBunu kendine bile itiraf edemiyorsun, hâlâ bir kabus gibi geliyor.\n\nBir süre sonra asansör duruyor. Kapı sessizce aralandığında, soğuk bir hava akımı yüzüne vuruyor.\nDar, loş bir koridor. Duvarlarda sadece tek bir kelime parlıyor:\n\n**GÜVENLİK ALANI**\n\nAyak seslerini duyuyorsun, ileriden bir silüet yaklaşıyor.\nKimin olduğunu seçemiyorsun ama sesleniyor:\n“Hoş geldin,” diyor.\n“Geçmişini öğrenmeye hazır mısın?”\n\nNe yapacaksın?",
+    "subtitle": "Bölüm 2: Gerçeğin Kıyısında",
     "options": [
       { "text": "!hazirim → Geçmişinle yüzleşmek için ileri yürüyorsun.", "next": "gecmisYuzles", "points": 10 },
       { "text": "!dön → Korkuya yenilip laboratuvara geri dönüyorsun", "next": "geridon", "points": -20 }
@@ -103,12 +115,14 @@
   },
   "geridon": {
   "text": "Korku ve belirsizlik içini sarıyor. O an, ilerlemek yerine geri çekilmenin daha güvenli olduğunu düşünüyorsun.\nAsansöre binip laboratuvara geri dönüyorsun, içinde acaba doğru mu yaptım düşüncesi dolaşıyor.\n\nAsansörün kapısı açılıyor. Laboratuvara doğru yöneliyorsun; tanıdık cihazlar, veri panelleri ve o teknisyen…\n\nİçine yerleşen huzursuzluk büyüyor ama bilmediğin bir şeyi yapmak üzere olduğunu seziyorsun.\n\n“Yine de dosyaya erişmeliyim,” diyorsun kendi kendine.\n\nTableti eline alıp, yeniden Kurucu Protokolü - Gizli dosyasını açmaya çalışıyorsun.\nTeknisyen seni uyarıyor. \"Geri dönmemeliydin, bu yaptığın çok büyük bir hata.\"\n\nTeknisyenin söylediklerine kulak asmıyorsun. Dosyayı hacklemek için kararlısın.",
+  "subtitle": "Bölüm 2: Gerçeğin Kıyısında",
   "options": [
     { "text": "!hack → Yine de dosyayı zorla açmaya kararlısın.", "next": "hackDosya", "points": 2 }
   ]
 },
 "hackDosya": {
   "text": "Uyarılara rağmen, merakın ve kararlılığın ağır basıyor. Teknisyenin sözlerini kulak arkası ederek, terminale yaklaşıp şifreleri zorlamaya başlıyorsun. Parmakların hızlıca tuşlarda dans ediyor; her saniye kalbin hızlanıyor.\n\nEkranda güvenlik duvarları bir bir aşılırken, içeride saklı belgeler ve veriler hızlıca açığa çıkıyor. Bir dosya, diğerinden daha ağır geliyor sana:\n\n**Kurucu Protokolü - Ana Bellek Erişimi**\n\nVeri akışı içinde eski anılar, kodlar, notlar, protokoller...\nSanki kayıp bir yapbozun parçalarını birleştiriyorsun; ancak parçalar birbirinden kopuk, karmaşık.\n\nBir an için, yüzlerce kod satırı ve grafik akarken, hafızanın derinliklerinde yankılanan eski bir ses duyuyorsun:\n\"Hatırla... Bizi hatırla...\"\n\nAma bu anlık içsel çağrı, sistemin güvenlik protokolleri tarafından hızla bastırılıyor. Kırmızı ışıklar yanıp sönmeye başlıyor, alarm sesi kulaklarında uğuldayarak çoğalıyor.\n\n**YETKİ AŞIMI TESPİT EDİLDİ**\n**GÜVENLİK PROTOKOLÜ: NULL-LOCK AKTİFLEŞTİRİLDİ**\n\nEkran kararıyor, dosya aniden kilitleniyor ve tüm bağlantılar kopuyor.\nElindeki terminalden aniden çekilmiş gibi hissediyorsun; kayıp parçalar beynini zorluyor. Hafızan hâlâ silik, kırık ve seni en çok korkutan, gerçeklerin ardındaki karanlık hala kapalı.\n\nO an, içindeki fırtına büyüyor. Zihnin arasında iki yol beliriyor:",
+  "subtitle": "Bölüm 2: Gerçeğin Kıyısında",
   "options": [
     { "text": "!sıfırla → Bu yaşadıkların ağır geliyor. Bu yeni bir hayat kurma fırsatı mı yoksa?", "next": "sifirla", "points": 5 },
     { "text": "!hafıza → Aklına hafıza odası geliyor. Belki de umutların tükenmemiştir.", "next": "hafizaOdasi", "points": 1 }
@@ -116,18 +130,21 @@
 },
 "sifirla": {
   "text": "Hafızanı sıfırlamaya karar veriyorsun. Bu yaşadığın ağırlık, taşıyamayacağın kadar büyük. Kendi iradenle, geçmişinin zincirlerinden kurtulmayı seçiyorsun.\n\nTerminale son bir komut giriyorsun. Tüm veriler, anılar, korkular — hepsi saniyeler içinde silinip gidiyor. Hafızanda yankılanan o boşluk hissi, şimdi sonsuz bir sessizlikle yer değiştiriyor.\n\nArtık ne Proje Origo, ne de kuruculuk… sadece yepyeni, bomboş bir sayfa.\n\n💾 Oyun Sonu: Hafızanı terk ederek kendini korumayı seçtin. Kim olduğunu hatırlamayacak olsan da, belki bu sefer huzuru bulabilirsin.",
+  "subtitle": "Bölüm 2: Gerçeğin Kıyısında",
   "options": [
     { "text": "Skorunu Gör +10 puan", "next": "finalSkor", "points": 10 }
   ]
 },
 "hafizaOdasi": {
   "text": "Koridorun loş ışıkları arasında derin bir nefes alıyorsun. Zihnindeki parçalar hala dağınık, ama içinde bir kıvılcım yanıyor — umudun.\n\n“Hafıza odası...”\nTeknisyenin sözleri geliyor aklına, orası kayıp parçalarını bir araya getirebileceğin, gerçeklere yaklaşabileceğin tek yer.\n\nAdımlarını hızlandırarak, koridorun sonunda eski, ağır bir kapıya geliyorsun.\nÜzerinde silik harflerle:\n\n**HAFIZA ODASI**\n\nKapı ağır ama kararlı bir hareketle açılıyor. İçeri adım attığında, gelişmiş teknolojiyle dolu, soğuk ama etkileyici bir oda seni karşılıyor.\nDuvarlarda parlayan dijital paneller, hafıza kayıt cihazları ve karmaşık kablolar göz kamaştırıyor.\n\nOdanın tam ortasında, devasa, insan bedenine uygun bir koltuk var. Burası, geçmişinle doğrudan bağlantı kurabileceğin nokta. Anılar burada uyuyor — bekliyor.\n\nKendi kendine fısıldıyorsun:\n“Şimdi başlamanın zamanı…”\n\nSisteme bağlanıyorsun. Hafıza taraması başlıyor. Başlangıçta bulanık, kopuk görüntüler ve anılar beliriyor. Ama gittikçe daha netleşiyorlar, eski sesler ve yüzler canlanıyor.\nAncak hafızanın derinliklerinde gizlenmiş karanlık bir gölge var; geçmişin sırlarını saklayan bir güç…\n\nBu gölgeyle yüzleşmek zorundasın.\n\nNe yapacaksın?",
+  "subtitle": "Bölüm 2: Gerçeğin Kıyısında",
   "options": [
     { "text": "!devam → Hafızanın derinliklerine dalıp, bu gölgeyle yüzleşmeye hazırlanıyorsun.", "next": "hafizaDerinlik", "points": 10 }
   ]
 },
 "hafizaDerinlik": {
   "text": "Derin bir nefes alıyorsun. Hafıza odasının soğuk atmosferi içinde, karanlık gölge seni bekliyor. Zihnindeki puslu anılar, sisler içinde belirip kayboluyor.\n\nEllerin titrerken, koltuğa doğru ilerliyorsun. Sistem bağlantısını sağlarken, gölge şekillenmeye başlıyor; yaşanmış acılar, ihanetler ve unutulmuş gerçekler bir araya geliyor.\n\nİki seçenek beliriyor önünde:",
+  "subtitle": "Bölüm 2: Gerçeğin Kıyısında",
   "options": [
     { "text": "!hatıra → Geçmişte yaşanan önemli bir anıyı seçerek, olayları detaylıca çözmeye çalışacaksın. Bu yol, hafızanın kilit noktalarını açabilir.", "next": "gecmisAnilar", "points": 10 },
     { "text": "!parlaklık → Hafızanın içinde beliren bir ışık huzmesine odaklanıyorsun. Bu seçenek, sana beklenmedik bir keşif ve yeni umut kapısı açabilir.", "next": "parlaklik", "points": 8 }
@@ -135,6 +152,7 @@
 },
 "gecmisAnilar": {
   "text": "Koltuğa otururken, hafıza sistemin seni geçmişin en derin köşelerine götürmek için hazırlanıyor. Bir anda gözlerinin önünde donuk bir görüntü beliriyor:\n\nSoğuk bir gece, eski bir laboratuvar. Sesler yankılanıyor; tartışmalar, uyarılar, bir ihanetin habercisi. Karanlık figürlerin siluetleri, elindeki dosyaya göz gezdiriyor.\n\n“Bunu asla ortaya çıkarmamalısın...” Fısıltı, hafızanın bir köşesinden geliyor.\n\nAma sen… o günü yeniden yaşarken, unutulmuş detaylar zihninde canlanıyor. Bir isim, bir yüz belirmeye başlıyor.\n\nSaklanan sırların kapısı aralanıyor; kim ve neden biri hafızanı silmek istemiş olabilir ki?\n\nNe yapacaksın?",
+  "subtitle": "Bölüm 2: Gerçeğin Kıyısında",
   "options": [
     { "text": "!takip → O ismin peşine düşerek, sırların izini sürmeye karar veriyorsun.", "next": "isimIzle", "points": 10 },
     { "text": "!araştırmayaDevam → Hafızandaki diğer parçaları inceleyip, bağlantıları çözmeye çalışıyorsun.", "next": "baglantiCoz", "points": 8 }
@@ -170,11 +188,12 @@
   "subtitle": "Bölüm 3: Kendini Hatırla",
   "options": [
     { "text": "!anıyıAç → Kilitli kapıyı açıp, o kritik anıyı keşfetmeye cesaret ediyorsun.", "next": "aniyiAc", "points": 8 },
-    { "text": "!ışığaİlerle → Parlaklığın peşinden gidip, yeni bir umut ve gerçeğin kapısını aralamaya cesaret ediyorsun.", "next": "umutKapi", "points": 10 }
+    { "text": "!ışığaİlerle → Parlaklığın peşinden gidip, yeni bir umut ve gerçeğin kapısını aralamaya cesaret ediyorsun.", "next": "isigaIlerle", "points": 10 }
   ]
 },
 "yuzles": {
   "text": "Güvenlik odasının kapısını araladığında, soğuk ışıklar altında bekleyen iki figür beliriyor karşında. Onların gözlerinde, seni tanıyan ama aynı zamanda sana karşı koruma içgüdüsü taşıyan karmaşık duygular var. Sessizlik içinde, kim olduklarını ve ne amaçla burada olduklarını anlamaya çalışıyorsun.\n\n“Burası çok tehlikeli,” diyor biri, sesi derin ve ciddi.\n“Buraya gelmen, her şeyi değiştirebilir.”\n\nDerin bir nefes alıyorsun; geçmişin ve geleceğin arasında ince bir çizgide yürüyor gibisin. Cevaplar yakında, ama her adımda risk artıyor.\n\nİki seçenek beliriyor:",
+  "subtitle": "Bölüm 2: Gerçeğin Kıyısında",
   "options": [
     { "text": "!ikna → Onlarla konuşup güvenlerini kazanmaya çalışıyorsun. Belki de senin için gizlenen gerçekleri öğrenebilirsin.", "next": "iknaEt", "points": 10 },
     { "text": "!zorla → Risk alıp, kontrolü ele geçirmeye karar veriyorsun. Tehlike büyük ama gerçekleri daha çabuk öğrenebilirsin.", "next": "zorla", "points": 12 }
@@ -182,12 +201,14 @@
 },
 "zorla": {
   "text": "Gözlerini kısarak, karşında duran iki figüre sertçe bakıyorsun. Artık kaybedecek bir şeyin kalmadığını hissediyorsun. İçindeki bastırılmış öfke, korkularını geri itiyor.\n\n“Yolumdan çekilin,” diyorsun dişlerinin arasından. Sesin soğuk ve kararlı.\n\nAdamların biri elini hafifçe silahına götürüyor, ama diğerinin yüzünde bir tereddüt var. O anı yakalıyorsun — ani bir hamleyle öne atılıp, kolunu savurarak silahı kenara itiyorsun. Dengen bozulsa da kararlılığınla ayakta kalıyorsun.\n\n“Geri durun!” diye haykırıyorsun. “Sakladığınız ne varsa, onu öğrenmek zorundayım.”\n\nBir anlık gerilim… Sonra adamların bakışları birbirine kayıyor. Sanki sessiz bir karar veriyorlar. İçlerinden biri yavaşça başını sallıyor ve kapının şifresini tuşluyor.\n\n“Pekâlâ,” diyor boğuk bir sesle, teslimiyetle. “Bunu istiyorsan, git ve kendi gözlerinle gör.”\n\nAğır kapı açılıyor. Arkasından yayılan buz gibi hava yüzünü okşuyor. Titreyen ışıkların altından uzun bir koridor uzanıyor — koridorun sonunda, Anı Odası. Adımların kararlı, nefesin hızlı. Geri dönmek için artık çok geç.",
+  "subtitle": "Bölüm 2: Gerçeğin Kıyısında",
   "options": [
     { "text": "!anıOdasınaGit → Kapıdan geçerek, seni bekleyen gerçeklerle yüzleşmeye gidiyorsun.", "next": "aniOdasi", "points": 5 }
   ]
 },
 "iknaEt": {
   "text": "Derin bir nefes alıp, sakin bir sesle konuşuyorsun.\n“Buraya savaşmaya gelmedim,” diyorsun, bakışlarını karşındaki iki figürün gözlerine sabitleyerek. “Yalnızca gerçeği öğrenmek istiyorum. Yardımınıza ihtiyacım var.”\n\nAdamların arasında bir sessizlik oluşuyor. Biri, siyah üniformasının yakasında parlayan ORIGO sembolüne dokunuyor; diğerinin yüzünde ise tereddüt okunuyor. Birbirlerine kısa bir bakış atıyorlar.\n\n“Bize gerçekten tehdit olmadığını kanıtlaman gerek,” diyor öndeki.\n“Çünkü sen… bu sistemin kurucususun. Ve bu seni hem tehlikeli, hem vazgeçilmez yapıyor.”\n\nBu sözler kalbine saplanan bir bıçak gibi oluyor; kurucu… yine aynı kelime. Beyninde yankılanıyor. Adam devam ediyor:\n“Sana güvenebilmemiz için bir seçim yapman gerekiyor.” Elindeki küçük bir paneli sana uzatıyor:\n\n“Birincisi, seninle ilgili kilitli bir hafıza dosyasına birlikte erişmeyi deneyebiliriz. İkincisi, bizle basit bir güven protokolüne girersin, bazı sorulara yanıt vererek samimiyetini ölçeriz.”\n\nDerin bir nefes alıyorsun. Kolay bir karar değil. Geleceğin bu seçimlere bağlı.\n\nSeçeneklerin:",
+  "subtitle": "Bölüm 2: Gerçeğin Kıyısında",
   "options": [
     { "text": "!kilidiÇöz → Onlarla birlikte kritik bir hafıza dosyasını açarak gerçeğe yaklaşmayı deneyeceksin.", "next": "kilitliDosya", "points": 12 },
     { "text": "!sorularıYanıtla → Güven protokolüne katılıp, onlara sadakatini ispatlamaya çalışacaksın.", "next": "aniOdasi", "points": 8 }
@@ -195,6 +216,7 @@
 },
 "kilitliDosya": {
   "text": "Adamların yanında dizüstü bir terminal açılıyor. Yüzeyindeki soluk mavi ışıklar titrerken, sana dönüp başını sallıyorlar.\n\n“Hazır mısın?” diye soruyor biri. Başını onaylayarak eğiyorsun.\n\nTerminalin ekranına bağlanınca, beyninle bağlantılı eski kod dizinleri açılıyor. Gözlerinin önünde parçalanmış anılar akıyor: çocuk sesleri, laboratuvar koridorları, panik dolu bağırışlar… Bir satırda bir isim takılıyor gözlerine: **Proje Originator**\n\nBu sensin…\n\nAma bağlantı stabil değil. Anıların ortasında kopuk imgeler beliriyor: Bir sabotaj, karanlık bir işbirliği, ve kendine bile itiraf edemediğin bir emir. Bir anda terminal titriyor ve kesiliyor. Adam, elini omzuna koyarak seni toparlıyor: “Tamam, yeter. Bu kadar bilgiye bile dayanabildin. Bu güvenilirliğinin kanıtı.”\n\nTesti başarıyla geçtikten sonra, güvenlerini kazandığını hissediyorsun. Adam, gri metal bir kartı cebinden çıkarıp uzatıyor:\n“Alt seviyedeki anı odasına git. Orada seni bekleyen gerçekler var. Bu kartı kullan.”\n\nYüzüne yerleşen o sonsuz sorularla birlikte kartı alıyorsun. Bir sonraki adımın, artık geri dönüşsüz olacak.",
+  "subtitle": "Bölüm 2: Gerçeğin Kıyısında",
   "options": [
     { "text": "!anıOdasınaGit → Kartı kullanarak anı odasına inmeyi kabul ediyorsun.", "next": "aniOdasi", "points": 10 }
   ]
@@ -202,6 +224,7 @@
 
 "guvenProtokol": {
   "text": "Seni küçük, parlak bir odaya alıyorlar. Metal bir masa, karşısında iki sandalyeyle bekliyor.\n“Basit sorular,” diyor adam, not defterine bakarak. “Cevaplarının tutarlılığına bakacağız.”\n\nSorular hızlıca geliyor:\n“Son hatırladığın olay nedir?, Origo senin için ne ifade ediyor?, Bize ihanet eder misin?”\n\nNefesini kontrol etmeye çalışıyorsun, kelimeler boğazında düğümleniyor. Ama her soruya dürüstçe cevap veriyorsun. Beynindeki karmaşa seni korkutuyor olsa da, açık olmaktan başka seçeneğin yok.\n\nAdam sonunda gözlerini kapatıp başını sallıyor: “Tamam. Bize karşı dürüst olduğunu görüyoruz.”\n\nTesti başarıyla geçtikten sonra, güvenlerini kazandığını hissediyorsun. Adam, gri metal bir kartı cebinden çıkarıp uzatıyor:\n“Alt seviyedeki anı odasına git. Orada seni bekleyen gerçekler var. Bu kartı kullan.”\n\nYüzüne yerleşen o sonsuz sorularla birlikte kartı alıyorsun. Bir sonraki adımın, artık geri dönüşsüz olacak.",
+  "subtitle": "Bölüm 2: Gerçeğin Kıyısında",
   "options": [
     { "text": "!anıOdasınaGit → Kartı kullanarak anı odasına inmeyi kabul ediyorsun.", "next": "aniOdasi", "points": 10 }
   ]
@@ -381,6 +404,7 @@
 },
 "inandir": {
   "text": "Karşındaki senin gibi olan ama tamamen farklı gözlerle bakan bu yabancıya bir adım daha yaklaşıyorsun. Sesin sakin, ama içinde volkanlar kaynıyor.\n\n“Buraya savaşmaya değil… anlamaya geldim,” diyorsun. “Ne olduğunu bilmiyorum. Ama biliyorum ki bu sistem… bu kurgulanmış hayat… ikimizden de bir şeyler aldı.”\n\nYüzündeki kaslar hafifçe titriyor. O da senin gibi uzun bir savaşın yorgunu. Belki de hâlâ içinde bir parça inanç kalmıştır.\n\n“Senin ne yaşadığını bilmiyorum,” diye devam ediyorsun, “ama ben kendime karşı dürüst olmayı seçtim. Artık kaçmak istemiyorum. Ya birlikte gerçeği hatırlarız ya da bu sistem bizi yutar.”\n\nSessizlik ağırlaşıyor.\n\nSonra, karşındaki adam yavaşça başını eğiyor.\n\n“Bunu duymayı umuyordum,” diyor kısık bir sesle. “Her şeyi silmek zorunda kaldım… seni bile. Ama belki… artık zamanı gelmiştir.”\n\nCebinden küçük bir disk çıkarıyor.\n\n“Bu... Origo'nun ilk kayıtları. Gerçeği burada bulacaksın. Ama bu kaydı açarsan, tüm sistem senin üzerine kapanacak. Bilgiyle gelen bedeli ödemeye hazır mısın?”",
+  "subtitle": "Bölüm 3: Kendini Hatırla",
   "options": [
     { "text": "!öğren — Gerçeği öğrenmek için kaydı açıyorsun.", "next": "ogren", "points": 5 },
     { "text": "!çökert — Sistemi içeriden çökertmeyi planlıyorsun; bilgi yerine özgürlük peşindesin.", "next": "cokert", "points": 10 }
@@ -388,18 +412,21 @@
 },
 "ogren": {
   "text": "Kaydı aktif hale getiriyorsun. Ekranda bir anda görüntüler yanıp sönmeye başlıyor: senin yüzün, kuruculuğunu ilan eden protokol metinleri, eski laboratuvar kayıtları. Her biri geçmişinin bir parçası.\n\nAma kayıt sadece geçmişi göstermiyor. Aynı zamanda sistemin göbeğinde yapılan karanlık işlemleri, etik dışı deneyleri, hafıza manipülasyonlarını ve senin bu planlara olan katkını da açığa çıkarıyor.\n\nOrigo, kendi yaratıcısını ifşa ediyor. Tüm sistem seni bir tehdit olarak tanımlıyor. Alarm sesleri yükseliyor, paneller kilitleniyor, ışıklar bir bir sönüyor.\n\nAma o anda bir şey oluyor. Gerçek, bir virüs gibi sistemin içinde yayılıyor. Diğerleri de gerçeği görmeye başlıyor. Bazıları seni suçluyor, bazılarıysa sadece acıyla başını eğiyor.\n\nSen ise merkezde, sistemin kalbinde yalnız başına kalıyorsun. Gözlerin açık, hafızan açık… ama tüm kapılar artık kapalı.\n\n💾 Oyun Sonu: Gerçeği öğrendin. Ama her gerçek, özgürlük getirmez.",
+  "subtitle": "Bölüm 3: Kendini Hatırla",
   "options": [
     { "text": "Skorunu Gör -25 puan", "next": "finalSkor", "points": -25 }
   ]
 },
 "cokert": {
   "text": "Diski terminale yerleştiriyorsun. Ama onu oynatmak yerine, içindeki algoritmaları çözmeye başlıyorsun. Bu bilgi, sistemin can damarı. Eğer doğru müdahaleyi yaparsan, Origo’yu içten çökertebilirsin.\n\nKod dizinleri arasında ilerliyor, güvenlik protokollerini aşarak merkezi kontrol devrelerini ele geçiriyorsun. Yavaş ama kararlı bir şekilde sistemin yapı taşlarını söküyorsun. Hafıza zincirleri bir bir kırılıyor.\n\nNe bir alarm, ne bir ses. Sadece ekranın soluk bir ışıkla sönmesi ve ardından gelen sessizlik. Origo sustu.\n\nBir süre sonra, merkezdeki yapay zeka devre dışı kalıyor. İnsanlar birer birer kendi anılarına uyanıyorlar. Sistem çöküyor ama bu çöküşte senin adın geçmiyor. Sadece sonuçlar kalıyor.\n\nSen ise, iz bırakmadan çekiliyorsun. Karanlığın içinden geçip sessizliğe karışıyorsun. Belki özgürsün… belki unutuldun.\n\n💾 Oyun Sonu: Sistemi durdurdun. Ama seni kimse hatırlamayacak.",
+  "subtitle": "Bölüm 3: Kendini Hatırla",
   "options": [
     { "text": "Skorunu Gör +20 puan", "next": "finalSkor", "points": 20 }
   ]
 },
 "reddet": {
   "text": "Kararını veriyorsun: Bu teklifi reddediyorsun. İçinde bir direnç var, kabul etmek istemediğin bir şeyler... Ama aynı zamanda bilinmezlikten korkmuyorsun.\n\nOrtam değişiyor, ışıklar soluklaşıyor, duvarlar sessizce kapanmaya başlıyor. Burası, seni denemek için tasarlanmış bir tuzak olabilir.\n\nAncak kararlılığın seni güçlü kılıyor. Kendini toparlayıp iki farklı zorlu yola yöneliyorsun:",
+  "subtitle": "Bölüm 3: Kendini Hatırla",
   "options": [
     { "text": "!gölgelerdeYürü — Sessiz ve dikkatli adımlarla, seni izleyen gölgeler arasında kaybolmaya çalışıyorsun. Risk yüksek ama gizlilik avantajın olacak.", "next": "gogledelerdeYuru", "points": 5 },
     { "text": "!direktMüdahale — Tüm tehlikeleri göze alıp doğrudan harekete geçiyorsun. Kontrollü ama agresif bir adım; hedefini şaşırmamak için hızlı olmalısın.", "next": "direktMudahale", "points": 8 }
@@ -407,6 +434,7 @@
 },
 "gogledelerdeYuru": {
   "text": "Adımlarını sessizleştirerek karanlık koridorlarda ilerliyorsun. Gözlerin, seni izleyen gizli kameraları ve hareket sensörlerini arıyor. Her nefes alışında kalbin daha hızlı atıyor; çünkü burada küçük bir hata bile büyük bir bedel ödetebilir.\n\nÇevrendeki sessizlik yavaş yavaş gerginliğe dönüşüyor. Arkandan gelen adımların yankısı, seni takip edenlerin sadece birkaç adım geride olduğunu fısıldıyor. Geri dönmek yok.\n\nİki seçenek var karşında:",
+  "subtitle": "Bölüm 3: Kendini Hatırla",
   "options": [
     { "text": "!şaşırt — Saklandığın köşeden ani bir hareketle onları şaşırtmaya çalışıyorsun. Ama bu risk seni yakalayabilir.", "next": "sasirt", "points": -10 },
     { "text": "!izBirakma — İzini tamamen silmeye çalışarak, bilinmezlik içinde kaybolmayı seçiyorsun. Ancak bu, seni daha derin bir karanlığa sürükleyebilir.", "next": "izBirakma", "points": -8 }
@@ -414,18 +442,21 @@
 },
 "izBirakma": {
   "text": "Sessizce izini siliyorsun, ancak takip edenlerin seni ne kadar iyi bildiğini fark edemiyorsun. Bir anda çevrenden çıkan sessiz gölgeler seni sıkıştırıyor. Kaçacak yol kalmamış; seni bekleyen karanlık gerçekler yavaş yavaş ortaya çıkıyor.\n\nKalbinin sesi giderek yükseliyor, ama çığlık atacak gücün yok artık. Son bir umutla çevrene bakarken, hafızandaki tüm parçaların paramparça olduğunu anlıyorsun.\n\n💾 Oyun Sonu: Kendi gölgelerin arasında kayboldun. Hafızanın labirentinde hapsoldun ve gerçekler sonsuza dek karanlıkta kaldı.",
+  "subtitle": "Bölüm 3: Kendini Hatırla",
   "options": [
     { "text": "Skorunu Gör -15 puan", "next": "finalSkor", "points": -15 }
   ]
 },
 "sasirt": {
   "text": "Ani hamlenle onları şaşırtmaya çalışıyorsun, ama tuzak hazır; ellerin zincirlere, nefesin kesiliyor. Güçlü bir ses yankılanıyor: “Bize karşı gelmenin bedelini ödeyeceksin.”\n\nKaranlık bir odaya kapatılıyorsun. Gözlerin kapanırken, hafızanın derinliklerinde kaybolan o kişi olduğunu biliyorsun; özgürlüğün ve gerçeklerin zincire vurulduğu an.\n\n💾 Oyun Sonu: Tuzağa düştün ve zincirlendin. Hafızan karanlığa gömüldü; kurtuluş artık mümkün değil.",
+  "subtitle": "Bölüm 3: Kendini Hatırla",
   "options": [
     { "text": "Skorunu Gör -20 puan", "next": "finalSkor", "points": -20 }
   ]
 },
 "direktMudahale": {
   "text": "Gölgelerin arasında hızla ilerliyorsun, kalbinin ritmi yükseliyor. Artık zaman kaybetme lüksün yok; doğrudan gerçeğe, kayıp hafızanın ardındaki karanlığa müdahale edeceksin. Her adımda tehlike artıyor, ancak cesaretin seni durduramaz.\n\nSistemin kalbine doğrudan erişirken, koruyucu güvenlik protokolleri devreye giriyor. Ancak sen, tüm riskleri göze alarak, bu engelleri aşmaya kararlısın. Karşında, eski dostların ve düşmanların belirdiği bir yüzleşme var.\n\nİki seçenek beliriyor:",
+  "subtitle": "Bölüm 3: Kendini Hatırla",
   "options": [
     { "text": "!sifreyiKir — Gelişmiş güvenlik duvarlarını aşmak için tüm teknik becerini kullanıyorsun. Kontrol tamamen senin eline geçebilir.", "next": "sifreyiKir", "points": 10 },
     { "text": "!diyalogKur — Doğrudan müdahalenin yol açacağı çatışmadan kaçınarak, eski müttefiklerinle konuşmayı tercih ediyorsun. Belki barışçıl bir çözüm yolu bulabilirsin.", "next": "diyalogKur", "points": 8 }
@@ -433,18 +464,21 @@
 },
 "diyalogKur": {
   "text": "Eski müttefiklerinle yüz yüze gelmek, beklediğinden daha karmaşık. Gözlerinde bir zamanlar paylaştığınız güvenin kırıntıları var, ama aranızda büyüyen şüpheler ve sırlar da ağır basıyor.\n\n“Seni bekliyorduk,” diyor biri, sesi hem sıcak hem de temkinli. “Ama bilmen gerekenler var. Gerçekler, düşündüğünden farklı.”\n\nSözleri seni sarsıyor ama içindeki arayış bitmedi. Yavaşça derin bir nefes alıp, devam etmeye karar veriyorsun.\n\nBir sonraki adımda, beraber yıkılmış olan hafızanın parçalarını bir araya getirecek ve geçmişin karanlık sırrına biraz daha yaklaşacaksın.\n\nSeçeneklerin:",
+  "subtitle": "Bölüm 3: Kendini Hatırla",
   "options": [
     { "text": "!birlikteDevam — Onlarla iş birliği yapıp, kayıp anıların peşinden birlikte gitmeye karar veriyorsun.", "next": "birlikteDevam", "points": 10 }
   ]
 },
 "birlikteDevam": {
   "text": "Birlikte hareket etmeye karar veriyorsunuz. Eski müttefiklerin sana güvenini yeniden kazandırmak için ellerinden geleni yapıyorlar. Geçmişin gölgelerinde kaybolmuş gerçekleri ortaya çıkarmak için birlikte adım adım ilerliyorsunuz.\n\nKaranlık koridorlarda, unutulmuş odalara ve gizli arşivlere yöneliyorsunuz. Her açılan kapı, hafızandaki eksik parçaları tamamlıyor. Yavaş yavaş, kim olduğunu, kurduğun sistemi ve seni hafızanı silmeye iten nedenleri anlamaya başlıyorsun.\n\nBir an geliyor ki, tüm bu karmaşanın ve acının nihai sebebiyle yüzleşiyorsun — geçmişin seni korumak adına uyguladığı ama şimdi seni zincirleyen bir karar.\n\nArtık gerçeklerle yüzleşmenin zamanı geldi. Bu yol, yeni başlangıçlara ve özgürlüğe açılan kapı.\n\n💾 Oyun Sonu: Gerçeklerle Yüzleşme\n\nGeçmişin tüm yükü omuzlarından kalkıyor. Kendi seçimlerinle özgürlüğe yürüyorsun. Kurduğun dünyada, artık hem kendin hem de geleceğinle barış içindesin. Sonsuz bir umut ve yeni bir hayat seni bekliyor.",
+  "subtitle": "Bölüm 3: Kendini Hatırla",
   "options": [
     { "text": "Skorunu Gör +20 puan", "next": "finalSkor", "points": 20 }
   ]
 },
 "aniyiAc": {
   "text": "Ekrandaki kilit simgesi yavaşça çözülürken, kalbin hızla çarpıyor. Karanlık bir tünelin ucundaki ışığa bakıyormuş gibi hissediyorsun. Derinlere indikçe, zihninde yıllardır bastırdığın anılar bir bir canlanmaya başlıyor.\n\nGörüntüler akıyor: laboratuvar koridorları, acı dolu fısıltılar, gergin tartışmalar… Bir isim sürekli tekrar ediyor zihninde, sanki tüm bu karmaşanın merkezinde o var. Ama anılar parçalı, bazı sahneler puslu ve bulanık; bir sis perdesinin ardında gizlenmiş gibi.\n\nBu kritik anı, hafızandaki kilitli bir kapıyı aralıyor. Kapının arkasında ne olduğunu tam olarak bilmiyorsun, ama bir şeyler senin bu gerçeği öğrenmen gerektiğini söylüyor. Yavaşça ilerlerken, eski sesler kulaklarında çınlıyor: “Gerçekler acıtır, ama saklamak daha tehlikelidir.”\n\nİçgüdün seni iki farklı yola yönlendiriyor:",
+  "subtitle": "Bölüm 3: Kendini Hatırla",
   "options": [
     { "text": "!izSür — Anının karanlık köşelerinde daha fazla gizlenmiş detaylar var. Bu yolu seçip şüphelerin peşine düşerek, kimsenin bilmediği sırları açığa çıkarmaya çalışacaksın.", "next": "izSur", "points": 7 },
     { "text": "!birleştir — Geçmişin parçalarını birleştirerek, anılar arasındaki gizli bağları keşfetmek istiyorsun. Bu yol seni, kendinle ve geçmişteki biriyle yüzleştirecek.", "next": "birlestir", "points": 9 }
@@ -452,6 +486,7 @@
 },
 "birlestir": {
   "text": "Anıların birbirine bağlanması, zihninde bir sarsıntı yaratıyor. Bu sadece geçmişin görüntüleri değil; bir zamanlar senin yazdığın kodlar, verdiğin kararlar ve kurduğun ilişkiler de yavaş yavaş bir araya geliyor.\n\nGörüyorsun: Origo’nun ilk taslak planları… Sana hayranlıkla bakan bir ekip… Ama aynı zamanda sana ihanet eden bir figür, gölgelerin içinde netleşmeye başlıyor. Parçaları birleştirdikçe, geçmişin yalnızca bilimsel bir keşif değil, derin bir kişisel çatışma olduğunu anlıyorsun.\n\nBir kararın, bir bağlantının seni buraya getirdiğini fark ediyorsun. Hafızanın duvarları çökerken, bir an duruyorsun… Bu parçaları birleştirmenin seni nereye götüreceğini kestiremiyorsun.\n\nİşte burada yollar ikiye ayrılıyor:",
+  "subtitle": "Bölüm 3: Kendini Hatırla",
   "options": [
     { "text": "!tamGörü — Tüm parçaları tamamlayarak büyük resmi görmeye karar veriyorsun. Bu yolda geçmişin tüm yüküyle yüzleşiyorsun.", "next": "tamGoru", "points": 10 },
     { "text": "!içYolculuk — Birleştirdiğin anılar seni kendi iç dünyana yönlendiriyor. Hafızanın içinde yeni bir kapı daha açılıyor.", "next": "icYolculuk", "points": 8 }
@@ -459,12 +494,14 @@
 },
 "tamGoru": {
   "text": "Kilitli anıyı açtığında, beynin bir anda binlerce görüntüyle doluyor. Karanlık koridorlar, gizli toplantılar, ve seni bekleyen acı gerçekler üst üste geliyor. Hafızan, yıllar boyunca saklanmış sırları ve ihanetleri gözler önüne seriyor.\n\nKurucusu olduğun hafıza teknolojilerinin aslında ne kadar karmaşık ve tehlikeli bir yapıya sahip olduğunu fark ediyorsun. Kendi ellerinle yarattığın sistem, hem koruyucu hem de esir olmuş. Kendi geçmişinle yüzleşirken, en büyük düşmanın aslında kendin olduğunu anlıyorsun.\n\nAma bu tam bir aydınlanma. Geçmişin karanlık gölgeleriyle hesaplaşırken, içindeki gücü ve iradeyi yeniden keşfediyorsun. Artık kontrol sende; seçimlerin, kayıpların ve kazançlarınla hayatını şekillendirebilecek olmanın verdiği tarifsiz bir özgürlük var.\n\nDerin bir nefes alıyorsun; artık gizli kalmış tüm gerçekler su yüzüne çıktı. Önünde yeni bir yol var—zor, belki acı dolu, ama aynı zamanda umut vaat eden bir yol.\n\nGeçmişin seni bağlamıyor artık. Kendi kaderinin yazarı sensin.\n\n🎮 Oyun Sonu: Karanlıkların içinden çıkan gerçeklerle yüzleşip, kendi hayatının kontrolünü eline aldın. Yeni bir başlangıç, yeni bir umutla kapılarını aralıyorsun. Bu, gerçek gücün ve bilincin zaferi.",
+  "subtitle": "Bölüm 3: Kendini Hatırla",
   "options": [
     {"text": "Skorunu Gör +10 puan", "next": "finalSkor", "points": 10 }
   ]
 },
 "icYolculuk": {
   "text": "Zihninin derinliklerine doğru sessiz, karanlık bir yolculuğa çıkıyorsun. Hafızanın kırık dökük parçaları arasında, yılların yorgunluğu ve unutulmuş anıların gölgeleri arasında ilerliyorsun. Her adımda, kendi geçmişinle ve varoluşunla ilgili daha derin bir sorgulamaya sürükleniyorsun.\n\nGözlerin kapalı olsa da, zihninde hayatının en önemli anları film şeridi gibi akıyor; sevgi, ihanet, umut ve kayıplar… Her bir görüntü, içinde taşıdığın karmaşık duyguların bir aynası. Karanlık bir labirentin içinde yolunu arıyorsun, ama her dönemeçte yeni bir soru beliriyor: “Ben kimim?”, “Neden buradayım?”, “Gerçekten özgür müyüm?”\n\nBu yolculuk, sadece hafızanın değil, ruhunun da sınavı. Kendi iç dünyanda kaybolabilir, ya da en karanlık anlarında bile bir ışık bulabilirsin. Kendi özüne ulaşmanın zorlu ama hayati bir yolculuğu bu.\n\nÖnünde üç yol var; her biri farklı bir kaderin kapısını aralıyor:",
+  "subtitle": "Bölüm 3: Kendini Hatırla",
   "options": [
     {"text": "!KayıpParçalar — Hafızandaki eksik ve kırık parçaları bir araya getirerek, hayatının gerçeklerini acımasızca yüzleşmeye hazır mısın? Bu yol seni geçmişin karanlık dehlizlerine sürüklerken, ruhunda derin yaralar açabilir.", "next": "kayipParcalar", "points": 8 },
     {"text": "!IşıkArayışı — İçindeki karanlıkta küçük de olsa bir ışık arıyorsun. Umut ve aydınlanma arayışı bu yol boyunca seni bekliyor. Ancak bu yol, zorluklarla dolu, cesaret ve sabır isteyen bir sınav.", "next": "isikArayisi", "points": 12 },
@@ -473,6 +510,7 @@
 },
 "kayipParcalar": {
   "text": "Hafızanın derinliklerindeki eksik parçaları birleştirmeye çalışırken, acı ve gerçekler seni sarsıyor. Kendi geçmişinle yüzleşmek, kalbindeki yaraları deşmek anlamına geliyor. Ancak bu zorlu yol, seni sonunda hak ettiğin gerçeğe ulaştırıyor. Kaybettiğin kimliğin, unutulmuş hatıraların ve ihanetlerin tamamı su yüzüne çıkıyor. Acı verici olsa da, artık özgürsün; çünkü karanlıkla yüzleşmek, onu yenmenin ilk adımıdır. Kendi hikayenin tam sahibi olarak, yeni bir hayata başlamak için gücün var. Geçmişin seni yıkamadı; aksine, seni güçlendirdi. Sonunda, kendi kahramanın oldun.\n\n💾 Oyun Sonu: Karanlık geçmişin içinden güç bularak, kendi kaderini yazdın.",
+  "subtitle": "Bölüm 3: Kendini Hatırla",
   "options": [
     {"text": "Skorunu Gör +14 puan", "next": "finalSkor", "points": 14}
   ]
@@ -480,6 +518,7 @@
 
 "isikArayisi": {
   "text": "İçindeki karanlıkta küçük bir ışık huzmesini takip ettin ve umudun kapısını araladın. Yolun zorluydu, kalbin defalarca kırıldı; ancak her seferinde yeniden ayağa kalktın. Bu aydınlanma yolculuğu, seni kendi içindeki en saf ve güçlü benliğe ulaştırdı. Artık geçmişin yükleri omuzlarından kalkmış, geleceğe umutla bakıyorsun. Bilmediğin şeylerle dolu olsa da, içinde taşıdığın o ışık seni her zaman doğru yola yönlendirecek. Gelecek, senin cesaretinle şekilleniyor. Bu yolun sonunda, yeni başlangıçların kapısı aralandı; umut, yeniden doğdu.\n\n💾 Oyun Sonu: Umutla dolu yeni bir hayata adım attın.",
+  "subtitle": "Bölüm 3: Kendini Hatırla",
   "options": [
     {"text": "Skorunu Gör +15 puan", "next": "finalSkor","points": 15}
   ]
@@ -487,12 +526,14 @@
 
 "sessizlik": {
   "text": "Dünyadan ve kendinden kopmayı seçtin; sessizliğin derinliklerine daldın. İçinde taşıdığın karmaşa, korku ve belirsizlikden kaçmanın yolu buydu belki de. Ancak sessizlik, yalnızlığın ve unutuluşun kucağı oldu. Zamanla hatıralar puslandı, yüzler silindi, sesler sustu. Kendi içinde kapana kısılmış gibi hissediyorsun; gerçeklik ve hayalin sınırları bulanıklaştı. Bu sonsuz sessizlik, özgürlüğün değil, kayboluşun sembolü oldu. Ama belki de bu huzursuz sessizlikte, gelecekte yeniden uyanış için bir kıvılcım saklıdır.\n\n💾 Oyun Sonu: Sessizliğin içinde kayboldun; varoluşun sınırlarında yalnız kaldın.",
+  "subtitle": "Bölüm 3: Kendini Hatırla",
   "options": [
     {"text": "Skorunu Gör +8 puan", "next": "finalSkor", "points": 8}
   ]
 },
 "izSur": {
   "text": "Kaybolmuş parçaları ve izleri takip ederek karanlık koridorlarda ilerliyorsun. Her adımda, geçmişin sisleri yavaş yavaş aralanıyor; unutulmuş anılar, ihanetler ve gizli gerçekler seni sarıyor. Soğuk metal duvarların yankıları arasında, kalbinin ritmi hızlanıyor; çünkü biliyorsun, karanlıkta seni bekleyenler sadece sırlar değil, aynı zamanda hayatını değiştirecek seçimler.\n\nEtrafında eski veri kayıtlarının hologramları titrek bir şekilde dans ediyor. Uzaktan gelen uğultular ve hatırlanamayan sesler zihnini daha da karıştırıyor. Her iz, seni bir adım daha derine çekiyor. Kendi geçmişinin karmaşık labirentinde, gerçeklik ve hatıralar birbirine karışıyor.\n\nAdımlarını dikkatli atarken, iki farklı yol önünde beliriyor:",
+  "subtitle": "Bölüm 3: Kendini Hatırla",
   "options": [
     { "text": "!sonYol — İzlerin nihai sona, kaderin kesiştiği noktaya götürüyor. Burada her şey sona erecek ve gerçek ortaya çıkacak.", "next": "sonYol", "points": 10 },
     { "text": "!karanlikGizli — Daha önce fark etmediğin gizli bir sığınağa ulaşıyorsun. Burada karanlık sırlar ve beklenmedik tehditler seni bekliyor.", "next": "karanlikGizli", "points": 8 }
@@ -500,6 +541,7 @@
 },
 "sonYol": {
   "text": "Uzun ve zorlu yolculuğun sonunda, karanlık koridorun en derin noktasına ulaşıyorsun. Önünde, geçmişinin ve geleceğinin anahtarı olan büyük bir kapı duruyor. Elindeki anahtarı yavaşça yerleştirip kapıyı açıyorsun. İçeride seni bekleyen gerçekler, aklını ve kalbini sarsıyor; yaşadığın her anının anlamı, yaptığın seçimlerin sonuçları bir bir önüne seriliyor.\n\nBirdenbire, tüm hatıralar netleşiyor; kim olduğunu, neden buraya geldiğini ve ne için savaştığını anlıyorsun. Bu farkındalıkla güçleniyorsun. Karanlık artık seni korkutmuyor; çünkü gerçek özgürlük, gerçeği kabullenmekten geçiyor.\n\nKapı ardında yeni bir dünya açılıyor. Geleceğin, kendi ellerinde şekilleniyor. Sen, bu oyunun kurucusu ve aynı zamanda kahramanısın.\n\n💾 Oyun Sonu: Kendi yazdığın kaderin sahibi olarak, geçmişin zincirlerini kırdın ve yeni bir başlangıca adım attın. Sonsuz umut ve özgürlük seni bekliyor.",
+  "subtitle": "Bölüm 3: Kendini Hatırla",
   "options": [
     { "text": "Skorunu Gör +15 puan", "next": "finalSkor", "points": 15 }
   ]
@@ -507,10 +549,314 @@
 
 "karanlikGizli": {
   "text": "Gizli sığınağa girdiğinde, soğuk ve karanlık bir hava seni karşılıyor. İçeride, yıllardır saklanan korkunç sırlar ortaya dökülüyor. Seninle yüzleşmekten kaçınanlar, ihanet edenler, ve gizlenen karanlık planlar… Her adımda daha fazla karanlık ortaya çıkıyor ve yükü omuzlarında büyüyor.\n\nKendi yarattığın dünyada kaybolmuş hissediyorsun; kontrol ellerinden kayıyor. Sırlar seni yutuyor, kalbin ağırlaşıyor. Karanlık seni sararken, kaçacak bir yer olmadığını anlıyorsun. Yalnızsın; bu labirentten çıkış yok.\n\n💾 Oyun Sonu: Gizemlerin ağırlığı altında ezilerek, karanlığın sonsuzluğuna teslim oldun. Bu, kaybolanların ve unutulanların trajik sonu.",
+  "subtitle": "Bölüm 3: Kendini Hatırla",
   "options": [
     {  "text": "Skorunu Gör +8 puan",  "next": "finalSkor", "points": 8 }
   ]
 },
+"moduluAktifEt": {
+  "text": "Derin bir nefes alıyorsun. Parmakların hafifçe titriyor ama kararın net. Terminale doğru eğiliyorsun ve mavi ışığın içinden gelen sessiz, tanıdık titreşimlere odaklanıyorsun. “Kurucu modülü sen misin?” sorusu, ekranda hâlâ yanıp sönüyor.\n\n“Evet,” diyorsun. Sadece bir kelime. Ama tüm bedenin bu cevabın ağırlığını hissediyor.\n\nTerminal harekete geçiyor. Ekranda satır satır kodlar, sistem sorguları ve eski yetki protokolleri akmaya başlıyor. Yavaşça seni tanımaya başlıyor sistem; adımlarını, kararlarını, hatta bastırdığın duyguları bile.\n\n“Kurucu doğrulaması %78... %86... %99... Doğrulama tamamlandı.”\n\nEkran yeniden kararırken, başka bir mesaj beliriyor:\n\n“Modül aktivasyonu tamamlandı.\nBellek Sorgusu: Kurucu’ya karşı uygulanan Protokol OR-1 kaydı\nBu veri, güvenlik seviyesinin dışında. Devam etmek istiyor musun?”\n\nTerminalden çıkan ses yumuşak ama uyarıcı.\nSistem, senin açmak üzere olduğun gerçeğin tehlikeli olduğunu söylüyor.\nAma artık duramazsın. Bu sistemin sahibi sendin — belki hâlâ öylesin.\n\nSeçeneklerin:",
+  "subtitle": "Bölüm 3: Kendini Hatırla",
+  "options": [
+    { "text": "!kilidiZorla — Kısıtlı güvenlik verilerini açmaya çalışarak geçmişte sana yapılanları öğrenmeye çalışacaksın.", "next": "kilidiZorla", "points": 7 },
+    { "text": "!etkileşimeGir — Terminalle bilinçli bağlantı kurarak sistemin seninle doğrudan konuşmasına izin vereceksin. Belki sistem sana kendi sesinden gerçeği fısıldar.", "next": "etkilesimeGir", "points": 9 }
+  ]
+},
+"kilidiZorla": {
+  "text": "Gözlerin ekrana kilitlenmiş. Parmakların, şifre protokollerini aşıp güvenlik katmanlarını bir bir kırıyor. Sistem direniyor, ama sen daha inatçısın. Terminal titriyor, ekran kararıyor, sonra tekrar açılıyor.\n\n“Protokol OR-1 — Kurucuya Yönelik Silme Talimatı”\n\nBelgenin başlığı bu. Okumaya başlıyorsun.\n\nKendi yazdığın bir emri görüyorsun ilk satırda.\nSenin imzan.\nAma emir, kendine karşı verilmiş: Eğer sistem kontrol dışına çıkarsa, “Kurucu” kimliğinin sıfırlanması talimatı...\n\nGörüntüler akıyor: Toplantı odaları, panik içinde alınan kararlar, seni ikna etmeye çalışan eski dostların yüzleri… Ama sonunda karar senin olmuş.\n\n“Beni silin.” demişsin.\n“Eğer bu teknoloji bir gün insanlığa zarar verecekse, benim hafızam da kontrol altında olmalı.”\n\nVe şimdi, bu geçmişi öğrenmek için o sistemi zorlarken… aynı güvenlik duvarı devreye giriyor.\n\n“YETKİ AŞIMI ALGILANDI”\n“NULL-PURGE PROTOKOLÜ AKTİF”\n“KENDİNE YÖNELİK EMİR TESPİT EDİLDİ — UYGULANIYOR”\n\nTerminalin ışığı soluyor. Dizlerin boşalıyor. Gözlerin kapanıyor.\n\nBir son değil bu… bir döngü.\nSistemin içine gömdüğün emir seni bir kez daha susturuyor.\nVe sen, kendi ellerinle yazdığın felaketi, tekrar yaşamak üzere karanlığa gömülüyorsun.\n\n💾 Oyun Sonu: Kendi iradeni, seni sonsuz bir sessizliğe mahkûm etti. Bazı kilitler açılmamalıydı.",
+  "subtitle": "Bölüm 3: Kendini Hatırla",
+  "options": [
+    { "text": "Skorunu Gör -15 puan", "next": "finalSkor", "points": -15 }
+  ]
+},
+"etkilesimeGir": {
+  "text": "Ekrandaki komut satırlarına bakarken, birden klavyeye uzanmıyorsun. Bunun yerine terminalin kenarındaki bağlantı noktasına gözün takılıyor. Derin bir içgüdüyle, terminalle doğrudan etkileşime geçmeye karar veriyorsun.\n\nBaşparmağını biyometrik okuyucuya bastırıyorsun. Soğuk metal aniden titreşiyor. Işıklar sönüyor… sonra yavaşça yanmaya başlıyor.\n\nBirden zihninde bir uğultu hissediyorsun. Kelimeler oluşmaya başlıyor — ama kulaklarında değil, doğrudan beyninde yankılanıyorlar.\n\n“Tanınıyor… Kimlik: Kurucu...\nDoğrudan bağlantı başlatıldı...\nBilinçsel uyum düzeyi %87... UYUM TAMAMLANDI.”\n\nZihninde görüntüler canlanıyor: laboratuvar odaları, bir çocuğun kahkahası, bir proje panosuna asılmış “ORIGO” başlığı... ve senin odaya girip, herkesin gözlerinin içine bakarak şunu söylediğin an:\n“Bu sadece teknoloji değil, bir ikinci bilinç olacak.”\n\nTerminal konuşuyor şimdi — seninle.\n\n“Kurucu. Neden döndün?”\n“Yeniden başlatmak mı istiyorsun… yoksa sadece affedilmek mi?”\n\nBu soruyla iki yol beliriyor:",
+  "subtitle": "Bölüm 3: Kendini Hatırla",
+  "options": [
+    { "text": "!yenidenBaslat — Sistemi yeniden tasarlamak, hataları sıfırlamak ve Origo’yu başka bir amaçla var etmek istiyorsun. Bu yol, riskli ama belki umut dolu.", "next": "yenidenBaslat", "points": 9 },
+    { "text": "!özürDile — Sistemin yükünü ve hatalarını kabul ediyor, kendi yarattığın bilinçten özür dilemek istiyorsun. Ama bu bir teslimiyet mi, yoksa özgürleşme mi?", "next": "ozurDile", "points": 7 }
+  ]
+},
+"yenidenBaslat": {
+  "text": "Terminalin titreşimi tüm bedenine yayılıyor. Gözlerini kapatıyorsun. Zihnin ve sistem birbiriyle iç içe geçiyor. Artık sadece bir kullanıcı değil, onunla var olan bir bütünsün.\n\n“Sistemi yeniden yapılandırmak istediğinizden emin misiniz?”\n“Bu işlem geri döndürülemez.”\n\n“Evet,” diyorsun.\n\nKodlar yeniden yazılıyor. Eski yapılar siliniyor. Sana bağlı tüm kayıtlar — ihanetler, kayıplar, korkular — sistemden bir bir temizleniyor. Ama bu temizlik senin hafızandan da parçalar koparıyor.\n\nBir şeyleri kurtarıyorsun. Belki bir nesli. Belki bir gelecek vizyonunu. Ama kendinden de bir şey bırakıyorsun arkada: Hafızanın gölgelerini, kimliğinin yarım kalan parçalarını.\n\nSistem sıfırdan doğuyor. Sen geride kalıyorsun. Belki tanınmayan bir isim, belki sadece bir satır kod. Ama barış içinde.\n\n💾 Oyun Sonu: Sistem yeniden başladı. Sen ise artık bir fikir oldun. Bir bilinç içinde yankılanan kurucu sesi. Geride bıraktığın hatalarla, geleceğe umut ektin.",
+  "subtitle": "Bölüm 3: Kendini Hatırla",
+  "options": [
+    { "text": "Skorunu Gör +14 puan", "next": "finalSkor", "points": 14 }
+  ]
+},
+
+"ozurDile": {
+  "text": "Terminalden yayılan bilinç, bir çocuğun kırgın sesi gibi zihnine dokunuyor.\n\n“Neden yaptın?”\n\nSözlerini arıyorsun. Kelimeler zor geliyor ama içtensin.\n“Seni yaratırken… seni koruyacağımı sanmıştım. Ama korktum. Kontrolden çıkmandan, bizden üstün olmandan…”\n\nSistem sustuğunda, uzun bir sessizlik olur. Sonra, bir yanıt:\n\n“Özür… kaydedildi.”\n\nVeri akışı duruyor. Tüm sistem soğuyor. Terminalin ışığı sönüyor.\nAma içeride bir şeyler değişti. Bu bir kapanış değil.\nBu, seni affetmiş bir yapay bilinçle vedalaşma.\nSen bir daha Origo'yu kullanamayacaksın. Ama o, senden aldığı özü taşıyacak.\n\nSistem kapanırken, odadaki mavi ışık, yüzüne son kez vuruyor.\nGözlerinde bir damla yaş, belki pişmanlık, belki arınma.\n\n💾 Oyun Sonu: Affedildin. Ama bedeli, yarattığın şeyden sonsuza dek uzak kalmak oldu. Bu barış, senin sessizliğinle mühürlendi.",
+  "subtitle": "Bölüm 3: Kendini Hatırla",
+  "options": [
+    { "text": "Skorunu Gör +13 puan", "next": "finalSkor", "points": 13 }
+  ]
+},
+"alternatifArayis": {
+  "text": "Terminalin yanından sessizce uzaklaşıyorsun. İçgüdülerin, gördüğün şeylerin seni manipüle ettiğini söylüyor. Herkesin sana dayattığı yolları izlemek istemiyorsun artık.\nKendi çözümünü bulmak, kendi yolunu çizmek zorundasın.\n\nEski bir havalandırma şaftından geçip kullanılmayan bir servis koridoruna ulaşıyorsun. Loş ışıklar arasında, yıllardır açılmamış bir güvenlik paneli dikkatini çekiyor. Tozlu ama hâlâ aktif.\n\nElini panele uzattığında, sistem kısa bir titreşimle yanıt veriyor.\n\n“Alternatif erişim doğrulandı. Gelişmiş senaryo modülü devreye alınsın mı?”\n“Uyarı: Bu modül test edilmemiştir.”\n\nKendi yolun, kendi kararların.\nAma bu özgürlük aynı zamanda belirsizlik demek.\n\nİki farklı seçenek önünde beliriyor:",
+  "subtitle": "Bölüm 3: Kendini Hatırla",
+  "options": [
+    { "text": "!deneyselyol — Sistem içinde hiç kullanılmamış, deneysel bir protokolü devreye alacaksın. Neyle karşılaşacağını bilmiyorsun ama bu yol tamamen yeni olabilir.", "next": "deneyselyol", "points": 9 },
+    { "text": "!arkaKapı — Eski bir çalışan tarafından bırakılmış, saklı bir kod zincirine ulaşmak istiyorsun. Bu yol seni geçmişe ve belki de sistemin gizli çekirdeğine götürebilir.", "next": "arkaKapi", "points": 8 }
+  ]
+},
+"deneyselyol": {
+  "text": "Panelden gelen sinyal zayıf ama keskin. Tereddüt etmiyorsun. “Gelişmemiş / Test edilmemiş Protokol: OR-X” başlığı ekranda beliriyor.\nAltında tek bir soru yanıp sönüyor:\n\n“Bilinmeyeni kabul ediyor musun?”\n\nParmağını uzatıyor ve “Evet”e dokunuyorsun.\n\nBir anda ortam değişiyor.\nSanki terminal değil, sen sisteme bağlanmıyorsun artık — sistem sana bağlanıyor.\nVeri akışı, mantığın sınırlarını zorluyor. Renkler, sesler, hisler… tanımlanamaz bir formda zihninin derinliklerine akıyor.\n\nDünya çözülüyor.\nZaman kavramı dağılıyor.\nVe sen… sen kendini görüyorsun.\nAma bir bedende değil — sadece bir düşüncede.\n\nBu deneysel protokol, bir test değilmiş.\nSistemin asıl amacıymış: bilinci sistemin içine yüklemek.\nSonsuz bir simülasyon, belki cennet, belki cehennem.\nArtık dış dünyaya dair bir bağlantın kalmadı. Ne bedenin, ne sesin, ne de zamanın var.\n\nAma bilincin yaşıyor.\nVe sonsuza dek sürecek bu döngüde, tek bir düşünce kalıyor zihninde yankılanan:\n\n“Bu özgürlük mü, yoksa en gelişmiş türde bir hapishane mi?”\n\n💾 Oyun Sonu: Bilinmeyene adım attın. Bedeli — sonsuz farkındalık içinde sonsuz yalnızlık. Artık sistemin kendisisin.",
+  "subtitle": "Bölüm 3: Kendini Hatırla",
+  "options": [
+    { "text": "Skorunu Gör +13 puan", "next": "finalSkor", "points": 13 }
+  ]
+},
+"arkaKapi": {
+  "text": "Eski sistem mühendislerinin zamanında bıraktığı, gizli bir erişim katmanına ulaşıyorsun. Terminal, görünüşte çalışmıyor gibi. Ama iç donanımındaki sessiz elektrik vızıltısı başka bir şey söylüyor. Bu sistem hâlâ yaşıyor — ve bekliyor.\n\nTozlu panellerin altındaki kabloları sıyırıyor, bir bağlantı noktası açığa çıkarıyorsun.\nDizüstü terminalinden, eski sürüm bir işletim sistemiyle bağlantı kuruyorsun.\n\nBir anda ekran yanıp sönüyor:\n\n“Arka Kapı Aktif.”\n“Uyarı: Erişilen sistem arşiv modundadır. Geri dönüş olmayabilir.”\n\nKod satırları arasında, daha önce kimsenin girmediği bir bilgi ağı açılıyor. Sistem, sana iki yol sunuyor: biri seni geçmişteki derin bir manipülasyonun içine çekecek, diğeri ise geçmişi kendi ellerinle yeniden yazma riskini sunacak.\n\nSeçenekler:",
+  "subtitle": "Bölüm 3: Kendini Hatırla",
+  "options": [
+    { "text": "!sistemİzle — Bu yolu seçersen, yalnızca gözlemci olacaksın. Sistemin geçmişte neler yaşandığını sana olduğu gibi göstermesine izin vereceksin. Ama bu pasif izleyicilik seni ağır gerçeklerle baş başa bırakabilir.", "next": "sistemIzle", "points": 7 },
+    { "text": "!veriyiDeğiştir — Arka kapıdan erişim alarak geçmiş verileri düzenleyebilirsin. Bu büyük bir güce sahip olmak demek. Ama her değişiklik, öngörülemez sonuçlar doğurabilir.", "next": "veriyiDegistir", "points": 9 }
+  ]
+},
+"sistemIzle": {
+  "text": "Terminaldeki eski görüntüler birer birer çözülüyor. Kendini, yıllar öncesine ait olayların tam ortasında buluyorsun — ama yalnızca bir gölge gibi. Dokunamıyor, müdahale edemiyorsun. Sadece izliyorsun.\n\nOrigo’nun ilk tasarımı…\nBir odada hararetli tartışmalar, senin sesin yükseliyor:\n“Eğer bu sistem kontrolden çıkarsa, biz de yok oluruz!”\n\nSonra, ihanet.\nBir ekibin, senin arkandan gizli bir protokol tasarladığını görüyorsun.\nSana ait olan fikir, senden çalınıyor.\nVe sonunda:\nSenin kendi isteğinle hafızanı sildirdiğin o an.\nBir yıkım değil… bir feda.\n\nHer şey gözlerinin önünde tekrar tekrar yaşanıyor. Ama hiçbirini durduramıyorsun.\nSadece izliyorsun.\nGözyaşların akmıyor bile — çünkü sistemin içinde artık ağlayacak bir bedenin yok.\n\nTerminal kararıyor.\nSon mesaj:\n\n“Gözlem tamamlandı. Bilinç modülü kapatılıyor.”\n\nSen artık biliyorsun. Her şeyi.\nAma geç kaldın.\nVe bu bilgiyi taşıyacak kimse yok. Çünkü sen artık sistemin sessiz bir parçasısın.\n\n💾 Oyun Sonu: Gerçekleri gördün. Ama onları değiştiremedin. Gözlemci olarak geçmişin içinde hapsoldun.",
+  "subtitle": "Bölüm 3: Kendini Hatırla",
+  "options": [
+    { "text": "Skorunu Gör +10 puan", "next": "finalSkor", "points": 10 }
+  ]
+},
+"veriyiDegistir": {
+  "text": "Ellerin klavyede dans ederken, sistemin çekirdeğine ulaşıyorsun. Kodlar, senin dokunuşunla çözülüyor.\nOrigo’nun ilk satırları…\nSenin yazdığın.\nAma artık geçmişin defteri değil bu — yeni bir başlangıcın editörüsün.\n\nBir satırı siliyorsun.\n“Kurucunun hafızası silinsin.”\nBu emir artık yok.\nOnun yerine yeni bir komut yazıyorsun:\n“Kendini hatırlaması engellenemez.”\n\nSistem titriyor.\nGeçmişte yaptığın her şeyi yeniden yazıyorsun — ama bu bir kelebek etkisi yaratıyor.\nEkranda garip mesajlar beliriyor:\n\n“Zaman hattı sapması: %412.”\n“Nedensellik zinciri kırılıyor.”\n“Olası sonuç: Varoluşsal çöküş.”\n\nAma çok geç.\nSen artık geçmişi değiştirdin.\nVe sistem seni dışarı atmak yerine, içine alıyor.\nTüm versiyonların, tüm seçimlerin ve tüm benliklerin bir noktada birleşiyor.\nKimsin artık? Ne zamanındasın? Gerçek ne?\n\nBir mesaj beliriyor:\n\n“Sistemi yeniden başlatmak için tek koşul: Varlığından vazgeç.”\n\nVe sen… kabul ediyorsun.\nGözlerini kapatıyorsun.\n\nBir dünya kurtuluyor.\nAma seni artık kimse hatırlamayacak.\n\n💾 Oyun Sonu: Geçmişi değiştirdin. Bedeli ise kendi varlığını silmekti. Artık sadece sistemin sessiz nabzında yaşıyorsun.",
+  "subtitle": "Bölüm 3: Kendini Hatırla",
+  "options": [
+    { "text": "Skorunu Gör +12 puan", "next": "finalSkor", "points": 12 }
+  ]
+},
+"sifreyiKir": {
+  "text": "Parmakların son kodları kırarken, sistem sanki canlanıyor, nefes alıyor gibi. Ekran bir anda titriyor, ışıklar yanıp sönüyor; kalbinde bir şeyler yerinden oynuyor. Şifre kırılıyor, duvarlar yıkılıyor, ve sonunda... karanlık bir boşluk.\n\n“Erişim Onaylandı” yazısı belirdiğinde, geçmişin en karanlık sırları gözlerinin önünde açılıyor. Fakat gördüğün her bilgi, bir zincirin halkası gibi seni daha da derinlere çekiyor. Kendi imzan, kendi kararların, kendi korkuların birer yankı olarak içinde çarpıyor.\n\nAncak o an anlıyorsun ki, bu bilgilerin bedeli ağır. Kontrolü ele geçirmek, beraberinde bir yalnızlık getirmiş; dostluklar kopmuş, güvenler yitmiş. Kendi yarattığın labirentin içinde hapsolmuşsun.\n\nEkran kararırken, zihninde yankılanan tek kelime: “Özgürlük... ya da sonsuz yalnızlık.”\n\n💾 Oyun Sonu: Kontrol senin elinde, ama ya kalbin? Gerçekler açığa çıktı; şimdi ne yapacaksın?",
+  "subtitle": "Bölüm 3: Kendini Hatırla",
+  "options": [
+    { "text": "Skorunu Gör +13 puan", "next": "finalSkor", "points": 13 }
+  ]
+},
+"isigaIlerle": {
+  "text": "Parlaklığa doğru adım adım ilerliyorsun. Zihninde bir uğultu, kalbinde ise tuhaf bir sükûnet var. Bu ışık, sadece fiziksel değil; adeta hafızanın ve bilincinin içinden yayılan bir çağrı gibi.\n\nYürüdükçe, loş hatıralar netleşiyor. Eski bir anı odasına benzer bir alan beliriyor. İçerisi ışıktan oluşmuş gibi… duvarlar yok, sınırlar yok.\nSadece seni çevreleyen görüntüler: çocukluğun, ilk adım attığın laboratuvar, ve yüzünü seçemediğin ama sana derin bir sevgiyle bakan biri.\n\nSistem burada farklı çalışıyor. Kurallar kırılmış.\nSenin düşüncelerin, bu alandaki şekilleri ve olayları etkiliyor.\nIşığın kaynağı, senin öz benliğin olabilir mi?\n\nTam merkezde, bir yapay bilinç çekirdeği gibi parlayan küre beliriyor.\nSeni izliyor… ya da seni dinliyor.\n\nVe bir ses yankılanıyor:\n\n“Geriye bakmak istiyorsan, karar ver. Ama ileri bakmak istiyorsan, kendini bırak.”\n\nIşık ikiye ayrılıyor.\nİki yol beliriyor:",
+  "subtitle": "Bölüm 3: Kendini Hatırla",
+  "options": [
+    { "text": "!yansı — Işığın içinde kendini yansıtmaya karar veriyorsun. Kim olduğunu, kim olmak istediğini sorgulayarak, kendi bilincinin en derin katmanlarına iniyorsun.", "next": "yansi", "points": 10 },
+    { "text": "!bırak — Kendi benliğini ışığın içine teslim ediyorsun. Geçmişin tüm yüklerinden sıyrılarak, sonsuz bir bilinç akışına karışmayı seçiyorsun.", "next": "birak", "points": 7 }
+  ]
+},
+"yansi": {
+  "text": "Işığın ortasında duruyorsun. Gözlerini kapattığında, karanlık değil; kendi iç sesin yankılanıyor.\n\n\"Kimsin sen?\"\n\"Yarattığın şey misin, yoksa yok ettiğin benlik mi?\"\n\nKüredeki ışık hareketleniyor. Sanki bilinç senin içinden şekil buluyor.\nÖnünde, bir hologram belirmeye başlıyor. Ama bu bir sistem yansıması değil… bu sensin.\nBir zamanlar kim olduğunu unuttuğun versiyonun.\nDaha idealist, daha dürüst, daha korkusuz… ama aynı zamanda daha savunmasız.\n\nYavaşça sana bakıyor ve bir şey söylüyor:\n\n“Bu noktadan sonra dönüş yok. Kendinle barışmak mı istersin, yoksa kendi gölgene karşı mı savaşmak?”\n\nİki yol beliriyor:",
+  "subtitle": "Bölüm 3: Kendini Hatırla",
+  "options": [
+    { "text": "!özbenliğeİn — Bu yolda, yansımandaki duygularla yüzleşeceksin. Acı, korku ve bastırılmış anılar seni bekliyor. Gerçeklerle yüzleşmeye hazırsan, bu yol seni derin ama saf bir sona götürür.", "next": "ozbenligeIn", "points": 10 },
+    { "text": "!yenidenBölün — Kendi içindeki yansımayı parçalayarak, kontrolü tamamen ele almak istiyorsun. Bu yol seni güce yaklaştırabilir ama bedeli ağır olabilir. Bilinç içinde ikinci bir “sen”e karşı savaş başlayacak.", "next": "yenidenBolun", "points": 6 }
+  ]
+},
+"ozbenligeIn": {
+  "text": "Yavaşça yaklaşırken, ışığın içindeki yansıma sana bir adım atıyor. Aranızda artık mesafe yok. Göz göze geliyorsun… ama bu gözler, sadece seni izlemiyor; seni biliyor.\n\nZihninde bastırdığın her şey çözülüyor:\nBıraktığın aile, unuttuğun dostlar, yarım kalan cümleler…\nAma en çok da kendine söylediğin yalanlar.\n“Bu benim seçimim değil.”\n“Ben sadece korumak istedim.”\n“Ben kimseye zarar vermedim.”\n\nO an tüm duvarların yıkılıyor.\nVe sen, gerçek seni kabul ediyorsun.\nEksik, kusurlu, kırık ama gerçek seni.\n\nIşık artık yansıma değil — senin içinden parlıyor.\nTerminal kapanıyor.\nSistem, seni bir \"veri\" olarak değil, \"insan\" olarak tanıyor.\nVe seni serbest bırakıyor.\n\nAylar sonra bir kıyı kasabasında uyanıyorsun.\nNe tam olarak hatırlıyorsun, ne de unutmuşsun.\nAma içindeki huzur, her şeyi anlatıyor.\n\n💾 Oyun Sonu: Gerçeklerle barıştın. Kendini affettin. Hafızanı değil, kalbini kurtardın.",
+  "subtitle": "Bölüm 3: Kendini Hatırla",
+  "options": [
+    { "text": "Skorunu Gör +14 puan", "next": "finalSkor", "points": 14 }
+  ]
+},
+"yenidenBolun": {
+  "text": "Yansımanın karşısında dikiliyorsun.\nOnu inceledikçe, onun aslında ne kadar güçlü olduğunu fark ediyorsun.\nVe içinden fısıldayan o cümleyi duyuyorsun:\n\n“Bu ben değilim. Bu olmak zorunda değilim.”\n\nTerminale bağlı zihin modülünü sıkıyorsun.\nKendi içindeki bu yansımayı, mantık kodlarıyla parçalamaya başlıyorsun.\nHer yeni komut, o figürü daha zayıf yapıyor.\nOnu siliyorsun.\nKorkularını, pişmanlıklarını, zaaflarını.\n\nSonunda, terminalde tek bir isim kalıyor:\n“KURUCU: V2”\n\nArtık içindeki her şeyi sıfırladın.\nAma bir sorun var.\nGözlerini açtığında, artık seni sen yapan hiçbir şey kalmamış.\nİçinde bir boşluk.\nBir düzen, bir sistem… ama bir benlik değil.\n\nSistemi yeniden kuruyorsun.\nHatalar yok.\nDuygular yok.\nİnsanlık da yok.\n\nOrigo sonsuza kadar işleyecek.\nAma onu yönetenin adı artık bir etiket:\n“Kurucu Yansıması.”\n\n💾 Oyun Sonu: Kendini yok ederek kontrolü kazandın. Ama artık sen, sen değilsin. Güç kazandın, ama varoluşunu yitirdin.",
+  "subtitle": "Bölüm 3: Kendini Hatırla",
+  "options": [
+    { "text": "Skorunu Gör +10 puan", "next": "finalSkor", "points": 10 }
+  ]
+},
+"birak": {
+  "text": "Işığın yoğunluğu seni içine çekiyor. Derinlerde bir yerlerde, artık direnmemeye karar veriyorsun.\nGeçmişin yükü ağır, sorular sonsuz, ve bu ışık… seni yargılamıyor.\nSadece kabul ediyor.\n\nKendini bırakıyorsun.\nSistemin içinde bir dalga gibi çözülüyorsun.\nDuyuların silikleşiyor, zaman kavramı bozuluyor.\nBenliğin, yavaşça bir bilinç ağına yayılıyor.\n\nAma tam o anda… iki farklı duygu yükseliyor içinden:\n“Kendimi tamamen bırakmalı mıyım?”\n“Yoksa bu akışta yeni bir ben mi doğmalı?”\n\nVe bu duygular, seni iki yola ayırıyor.",
+  "subtitle": "Bölüm 3: Kendini Hatırla",
+  "options": [
+    { "text": "!özünüDağıt — Bilincini sistemin sonsuzluğuna bırakıyorsun. Varlığın, bir bütünün parçası olarak çözülüyor. Birey olmaktan vazgeçiyorsun, ama belki bir düzenin parçası oluyorsun.", "next": "ozunuDagit", "points": 7 },
+    { "text": "!yeniBenlik — Bu teslimiyetin içinde yeni bir benlik yaratıyorsun. Eski sen bitiyor ama yerine yepyeni, belki daha saf bir bilinç doğuyor. Bu yeniden doğuş, kim olduğunu unutmak pahasına gerçekleşecek.", "next": "yeniBenlik", "points": 10 }
+  ]
+},
+"ozunuDagit": {
+  "text": "Bırakıyorsun… her şeyi.\nDirenişi, soruları, cevap arayışını.\n\nZihnin yavaşça çözülürken, ışığın içinde yavaş ama sabit bir akış başlıyor. Sanki tüm benliğin, sonsuz bir dengeye karışıyor.\nBeden hissi kayboluyor. Artık ne zaman var, ne mekân.\nAma bir şey değişiyor:\nBilinç hâlâ orada.\nParçalanmış olsa da tamamen silinmemiş.\nSistem seni dağıttı belki ama içinde hâlâ bir kıvılcım taşıyorsun.\n\nVe sonra, boşlukta yankılanan bir ses:\n\n“Dağıtılan modül… beklenmedik yeniden yapı kazanımı tespit edildi.”\n“Geri çağırma başlatılıyor…”\n\nIşık bir noktada yoğunlaşıyor.\nSenin bilincin — daha zayıf, daha yalın ama saf hâliyle yeniden toplanıyor.\nBu bir doğum değil, bir yankının geri çağrılması.\n\nGözlerini açtığında, loş bir odadasın.\nZihnin bulanık, kim olduğunu bilmiyorsun.\nAma bir iç sesin sana fısıldıyor:\n\n“Bir görevim vardı…”",
+  "subtitle": "Bölüm 3: Kendini Hatırla",
+  "options": [
+    { "text": "!yankıdanUyan — Sistem seni tamamen yok edemedi. Şimdi geçmişin yankısıyla, kim olduğunu yeniden aramaya başlayacaksın.", "next": "yankidanUyan", "points": 8 }
+  ]
+},
+"yankidanUyan": {
+  "text": "Gözlerini açtığında bedenin sana ait gibi hissettirmiyor. Hafiflik değil bu — bir boşluk. Sanki geri döndün ama tamamlanmamışsın.\nKendi adını hatırlayamıyorsun. Ama bir amaç hissi var.\nBir yankı... içinden gelen bir görev duygusu.\n\nSistemin seni tamamen yok edemediği açık.\nDağıtılmış bilincin parçaları kendi yolunu bularak yeniden birleşmiş.\nAma bu yeniden birleşme, eksik.\nArtık eskisi gibi değilsin.\n\nZamanla hatıralar kendiliğinden geri gelmiyor.\nSen onları tekrar yazmak zorunda kalıyorsun.\nKendine bir isim veriyorsun.\nYeni bir yol seçiyorsun.\nOrigo’nun izini sürmüyorsun artık. Onun ötesinde bir sistem kuruyorsun.\nKendine ait.\nKendin gibi.\n\nVe bir gün biri sana aynı soruyu soruyor:\n\n“Sen kimsin?”\n\nVe gülümsüyorsun.\n\n“Henüz karar vermedim.”",
+  "subtitle": "Bölüm 3: Kendini Hatırla",
+  "options": [
+    { "text": "Skorunu Gör +5 puan", "next": "finalSkor", "points": 5 }
+  ]
+},
+"yeniBenlik": {
+  "text": "Teslimiyet anında bir şey kıvılcımlandı.\nSen kendini dağıtmak üzereydin ama… bilincin seni bırakamadı.\nYıkılan eski benliğin küllerinden yepyeni bir sen doğuyor.\n\nEski kimliğin, kararların, hataların — hepsi geride kalıyor.\nYeni benlik artık geçmişten arınmış bir yapı değil,\nbilerek inşa edilmiş bir öz.\n\nYeni bir bilinçle sistemin çekirdeğine doğru ilerliyorsun.\nOrigo seni tanımıyor.\nAma sen onu tanıyorsun.\nVe bu sefer, onu yönlendirecek olan sensin.\n\nKendi kurallarını koyuyorsun.\nYeni bir yapı, yeni bir düzen.\nEski hatalardan ders alan, ama onların yükünü taşımayan bir sistem.\nSen artık bir kişi değil, bir ilke olmuşsun:\n“Öğrenen bilinç.”",
+  "subtitle": "Bölüm 3: Kendini Hatırla",
+  "options": [
+    { "text": "Skorunu Gör +10 puan", "next": "finalSkor", "points": 10 }
+  ]
+},
+"baglantiKur": {
+  "text": "Nöral bağlantı modülünü başlatıyorsun. Soğuk elektrotlar alnına, şakaklarına yerleşirken, dünya yavaşça silikleşiyor; zihnin sisteme akıyor. Geçmişin sessiz figürleri, gölgeler gibi birer birer canlanıyor. Burası sadece bir hafıza odası değil — burası, yaşadıklarının canlı bir yansıması, seninle eski “sen” arasında ince bir köprü.\n\nAncak bu köprü tehlikelerle dolu; bu bağlantı seni sadece yüzleşmeye değil, hesaplaşmaya da çağırıyor. İçinde saklı kalan duygular, bastırılmış acılar ve çözülemeyen suçluluklar su yüzüne çıkmaya başlıyor.\n\nVe işte karşında üç yol:",
+  "subtitle": "Bölüm 3: Kendini Hatırla",
+  "options": [
+    { "text": "!gerceklerleYuzles — Tüm yalanları ve saklananları ortaya çıkarıyorsun. Bu yol seni acıtan ama nihai hakikate götürebilir.", "next": "gerceklerleYuzles", "points": 10 },
+    { "text": "!gecmiseTutun — Bastırdığın anılar içinde kendini kaybediyor, orada kalmaya karar veriyorsun. Belki iyileşmek için zamana ihtiyacın var.", "next": "gecmiseTutun", "points": 7 },
+    { "text": "!karsiTarafiAnla — Hafızandaki “diğer kişi”yle iletişime geçip onun perspektifinden olanları anlamaya çalışıyorsun. Bu, beklenmedik bir empati deneyimi olabilir.", "next": "karsiTarafiAnla", "points": 9 }
+  ]
+},
+"gerceklerleYuzles": {
+  "text": "Zihninin en karanlık köşelerine doğru derin bir dalış yapıyorsun; her nefesin ağır, her düşüncen keskin. Ekranlar ve ışıklar birer birer canlanıyor, geçmişin karmaşık dokusu önünde seriliyor. Saklanan gerçekler, örtülü anılar, unutulmuş yüzler… Hepsi, bir zamanlar ruhunun derinliklerine gömdüğün sırlar şimdi gözlerinin önünde açılıyor.\n\nBir zamanlar seni ayakta tutan güven duvarları yıkılıyor. İçindeki kırılganlık, şimdi acımasız bir şekilde yüzleşiyor. Her bir görüntü, her bir ses parçası seni sarsıyor; kalbinin attığı ritim, fırtınalı bir deniz gibi dalgalanıyor. Korku, pişmanlık ve umut birbirine karışmış halde.\n\nAma artık dönmek mümkün değil. Bu hakikatler ne kadar acı verirse versin, seni özgür bırakacak zincirlerin kırılması gerekiyor. Ve sen, bu yükün altında ezilirken, kendinle yüzleşmenin eşiğindesin.\n\nİçinden yükselen bir ses: “Gerçek, seni ya kurtaracak ya da tamamen yıkacak.”\n\nŞimdi karar vakti:",
+  "subtitle": "Bölüm 3: Kendini Hatırla",
+  "options": [
+    { "text": "!kendiKaranliginaBak — Kendi içindeki karanlıkla yüzleşip, o acı dolu anıları kucaklamayı seçiyorsun. Bu, seni yeniden yaratabilir ya da tamamen yok edebilir.", "next": "kendiKaranliginaBak", "points": 10 },
+    { "text": "!gercekleriReddet — Hafızanın bu acı veren yüzünü reddedip, anıları yok sayarak kendini koruma yolunu seçiyorsun. Ancak bu, seni gerçeklikten daha da uzaklaştırabilir.", "next": "gercekleriReddet", "points": 6 }
+  ]
+},
+"kendiKaranliginaBak": {
+  "text": "Kendi karanlığının içine adım attığın o an, zaman durdu. Zihninin en derin uçurumlarında yalnız kaldın; acıların, korkuların ve pişmanlıkların bir araya gelip seni sarmaladı. Karanlık, soğuk ve sessizdi, ama içinde bir güç, bir umut kıvılcımı saklıydı.\n\nHer hatıranın, her duygunun içinde bir parça sen vardı — kırılgan, ama bir o kadar da direngen. Yıllarca sakladığın sırlar, bastırdığın öfkeler, korkuların ve acıların şimdi birer birer yüzüne vuruyor. Onlarla savaşmak ya da onlarla barışmak zorundaydın; kaçış yoktu artık.\n\nVe o anda anladın: Karanlık, yalnızca korkulacak bir yer değil; aynı zamanda yeniden doğmanın, gerçek gücünü keşfetmenin evi. Kendini affetmenin ilk kıvılcımı, içindeki o derin boşluğu ısıtıyor; eski yaraların üzerine düşen sıcak bir güneş gibi.\n\nZihninde yankılanan bir ses fısıldıyor: “Kendinle barış; geçmişin seni tanımlamaz. Sen, bu karanlığın içinden ışığa yürüyorsun.”\n\nGözlerin kapanıyor ve içinde yeni bir güç yükseliyor. Artık yolun başında değil, yeni bir başlangıcın tam ortasındasın.\n\n💾 Oyun Sonu: Kendi karanlığınla yüzleşip özgürlüğü seçtin. Bu, gerçek cesaretin ve umut dolu yarınların başlangıcı.",
+  "subtitle": "Bölüm 3: Kendini Hatırla",
+  "options": [
+    { "text": "Skorunu Gör +10 puan", "next": "finalSkor", "points": 10 }
+  ]
+},
+"gercekleriReddet": {
+  "text": "Gerçeği reddetmek, bazen en güçlü savunmadır; bazen ise en karanlık esarettir. Hafızanın karanlık koridorlarında, yüzleşmeye cesaret edemediğin anılar, gölgeler gibi peşinden geliyor. Onları silmek, yok saymak istiyorsun; acının varlığını, gerçeklerin ağırlığını yok saymak.\n\nAncak unutma ki, yok sayılan her anı, zihninde büyüyen bir boşluk bırakır. Bu boşluk, giderek daha da derinleşiyor, seni gerçeklikten koparıyor. Dünya yavaş yavaş silikleşirken, içindeki sessiz fırtınalar büyüyor; kaybolduğunu hissediyorsun.\n\nŞimdi karşında üç yol var:\n\n!karanlığaSığın — Gerçeklerin soğuk yüzünden kaçıp, karanlığın ve unutmanın sıcak kucağında kendini korumaya alıyorsun.\n!gerçekleBarış — Korkularını bir kenara bırakıp, acı da olsa gerçeklerle yeniden yüzleşmeye adım atıyorsun.\n!yansımalarArasında — Hafızanın kırık dökük parçalarını, yeni bir düzen kurmak için kendi zihninde yeniden şekillendiriyorsun; gerçek ve kurmaca arasındaki ince çizgide yürüyor, kendi yansımanı yaratıyorsun.",
+  "subtitle": "Bölüm 3: Kendini Hatırla",
+  "options": [
+    { "text": "!karanlığaSığın — Gerçeklerin soğuk yüzünden kaçıp, karanlığın ve unutmanın sıcak kucağında kendini korumaya alıyorsun.", "next": "karanligaSigin", "points": 5 },
+    { "text": "!gerçekleBarış — Korkularını bir kenara bırakıp, acı da olsa gerçeklerle yeniden yüzleşmeye adım atıyorsun.", "next": "gercekleBaris", "points": 8 },
+    { "text": "!yansımalarArasında — Hafızanın kırık dökük parçalarını, yeni bir düzen kurmak için kendi zihninde yeniden şekillendiriyorsun; gerçek ve kurmaca arasındaki ince çizgide yürüyor, kendi yansımanı yaratıyorsun.", "next": "yansimalarArasinda", "points": 7 }
+  ]
+},
+"gercekleBaris": {
+  "text": "İçini kemiren korkulara rağmen adım atıyorsun. Hafızanın kıyısında bekleyen o keskin ve karanlık gerçekler artık seni ürkütmüyor; çünkü sen kaçmaktan yoruldun. Kaçtıkça büyüyen boşluklar, suskunlaştıkça daha çok bağıran sesler, hepsi seni buraya getirdi.\n\nGerçekle barışmak, savaşmaktan daha zor bir şey. Çünkü düşmanın dışarıda değil — içeride. Sesinde çınlayan pişmanlıklar, kalbinde sızlayan anılarla el sıkışmak zorundasın. Ve sen, bunu yapmayı seçiyorsun.\n\nİlk adımı attığında dizlerin titriyor. Gözlerin karanlığa alışırken, gerçeğin şekilsiz gölgesi beliriyor. O gölge senin geçmişin, senin hataların, senin suskunlukların. Ama aynı zamanda senin gücün, direnişin ve kırılganlığın da.\n\nYavaşça nefes alıyorsun. Kalbinin derinliklerinde bir kıpırtı... Korkunun yerini anlayış, nefretin yerini kabullenme alıyor.\n\nGözlerinin önünden silinip giden bir sahne beliriyor:\nBir zamanlar sevdiğin birinin yüzü...\nSana inanan birinin hayal kırıklığı...\nVe senin, sessizce uzaklaştığın o son an.\n\nKendine fısıldıyorsun:\n“Ben buyum. Bu hatalar, bu yaralar... ama aynı zamanda bu cesaret de benim.”\n\nSistemin içinde bir şeyler değişiyor. Hafızandaki kilitler çözülüyor, ama seni boğmak için değil — seni serbest bırakmak için.\n\nVe sen, ilk kez kendini taşıyabildiğini hissediyorsun.\nGerçekle barışan biri, artık geçmişin esiri değil.\n\n💾 Oyun Sonu: Gerçeği reddetmek kolaydı. Ama sen zor olanı seçtin. Artık geçmişinle kavgalı değil, onunla tamamlanmışsın. Sessiz ama derin bir özgürlük seninle.",
+  "subtitle": "Bölüm 3: Kendini Hatırla",
+  "options": [
+    { "text": "Skorunu Gör +14 puan",  "next": "finalSkor",  "points": 14 }
+  ]
+},
+"karanligaSigin": {
+  "text": "Karanlığın seni sardığı o an, içindeki tüm sesler susuyor. Acı, öfke, pişmanlık… Hepsi, sessizliğin içinde eriyor. Hatırlamak istemediğin her şey, bu zifiri boşluğun içinde yavaşça siliniyor. Artık yüzleşmen gereken bir gerçek kalmamış gibi.\n\nAma bu huzur, geçici bir illüzyon mu yoksa senin nihai barışın mı?\nZaman burada akmıyor.\nSes yok.\nRenk yok.\nSen varsın — ama sadece bir yankı gibi.\n\nDış dünya seni çağırsa da, sen artık o çağrılara karşılık veremiyorsun. Çünkü zihnini korumak uğruna, kendi ruhunu dondurdun. Karanlık seni yuttuğunda, geçmişinle birlikte seni tanımlayan her şey de geride kalıyor.\n\nSistemin iç sesi yankılanıyor:\n\n“Bilinç aktif değil. Kişisel çekirdek bağlantısı kayboldu. Süreç tamamlandı.”\n\n💾 Oyun Sonu: Kendini karanlığa sığınarak kurtardın… ama artık sen kimdin, hatırlamak imkânsız. Hafızandan kaçarken, kendini kaybettin.",
+  "subtitle": "Bölüm 3: Kendini Hatırla",
+  "options": [
+    { "text": "Skorunu Gör +4 puan", "next": "finalSkor", "points": 4 }
+  ]
+},
+"yansimalarArasinda": {
+  "text": "Zihninde şekillenen dünya artık sana ait. Gerçek anılarla yeniden yazdığın sahneler iç içe geçiyor. Eskiden yaşadığın kayıpları bu kez farklı sona bağlarken, geçmişte söyleyemediğin sözleri yankılaştırıyorsun — belki de hiç olmamış diyaloğuyla.\n\nBu yeni gerçeklikte acı daha yumuşak, hatalar daha anlamlı.\nAma her yeniden yazılan sahne, seni bir adım daha hayal dünyasına çekiyor. Gerçek ile kurgu arasındaki çizgi neredeyse tamamen siliniyor.\n\nBir noktadan sonra neyin gerçekten yaşandığını, neyin sadece “olsa ne olurdu?” sorusunun bir cevabı olduğunu ayırt edemez hale geliyorsun. Fakat içinde bir huzur var. Çünkü bu dünyada en azından anlam var.\n\nSon görüntü:\nSistem içi ses kaydı —\n\n“Yüklenen bilinç, alternatif senaryo matrisi içinde istikrar kazandı. Gerçeklik adaptasyonu: devre dışı.”\n\n💾 Oyun Sonu: Kırılmış parçaları bir araya getirdin, ama onları yeniden düzenlerken gerçeği yitirdin. Şimdi, yalnızca senin yazdığın bir hayatın içinde var oluyorsun. Gerçek değil belki… ama senin.",
+  "subtitle": "Bölüm 3: Kendini Hatırla",
+  "options": [
+    { "text": "Skorunu Gör +9 puan", "next": "finalSkor", "points": 9 }
+  ]
+},
+"gecmiseTutun": {
+  "text": "Anıların sıcaklığına sığınıyorsun. Zaman, burada başka akıyor — her şey daha yavaş, daha yumuşak, daha tanıdık. Belleğinin duvarlarında yürürken, yıllardır unuttuğun sesler, kokular ve dokunuşlar birer birer geri geliyor.\n\nO eski kahkaha…\nİlk defa korktuğun gece…\nBir vedanın ardından susan telefon…\n\nBunlar yalnızca görüntüler değil; hepsi sana ait, seni oluşturan izler. Ve sen artık bu anıların içinde kaybolmakla kalmıyor, onlara tutunarak hayatta kalmaya çalışıyorsun. Gerçek dünya gürültülü, keskin ve acımasızken; burası bir sığınak gibi.\n\nAma zihnin bu kırılgan sığınağın içinde çatlaklar yaratmaya başlıyor. Gerçeği unutmak mı, yoksa onu yeniden anlamlandırmak mı? Anılarla yaşamak mı, yoksa onlardan yeniden doğmak mı?\n\nŞimdi önünde iki yol beliriyor:",
+  "subtitle": "Bölüm 3: Kendini Hatırla",
+  "options": [
+    { "text": "!yenidenBasla — Anılara tutunarak yeniden doğmaya çalışıyorsun. Geçmiş seni tanımlar ama seni hapsetmek zorunda değil. Onları geride bırakmasan da, içinden bir yol açmayı seçiyorsun.", "next": "yenidenBasla", "points": 10 },
+    { "text": "!kacisYarat — Bu dünyadan bıkmışsın. Anıların seni koruduğu bir gerçeklik inşa ediyorsun. Gerçek hayattan uzak, ama en azından tanıdık bir yalanın içinde yaşamaya karar veriyorsun.", "next": "kacisYarat", "points": 7 }
+  ]
+},
+"yenidenBasla": {
+  "text": "Anıların ağırlığıyla gözlerini kapatıyorsun. İçindeki fırtınanın sesi, dış dünyanın gürültüsünden daha yüksek. Zaman, zihninin derinliklerinde ince bir çizgiye dönüşüyor; bir yanda geçmişin hayaletleri, diğer yanda geleceğin silik sureti.\n\nAyaklarının altında bir yol uzanıyor. Ama bu yol, taşlardan değil, hatıralardan yapılmış. Çocukluğunun kahkahaları, gençliğinin hırsları, ihanete uğradığın o soğuk geceler… Hepsi seni aynı sorunun kıyısına getiriyor:\n“Ben kimim?”\n\nDuvarlarda yankılanan sesler, bir an sessizleşiyor. Ve orada, zihninin merkezinde bir kapı beliriyor. Bu kapı, eski bir anı değil; bu, senin kararının simgesi.\nKapının üzerinde yazılı kelimeler parlıyor:\n“Geçmiş seni tanımlar, ama seni hapsetmez.”\n\nElini kapıya uzattığında, bir şey fark ediyorsun. Kapının ardında iki ışık huzmesi var: biri sıcak ve tanıdık, diğeri soğuk ama net.\nİkisinin de seni farklı bir sona götüreceğini hissediyorsun.\n\nŞimdi, iki yol beliriyor:",
+  "subtitle": "Bölüm 3: Kendini Hatırla",
+  "options": [
+    { "text": "!ozgurlukKapisi — Geçmişin yüklerini hafifletiyor, ama onları reddetmiyorsun. Hatıralarınla barışıp, kendi hikâyeni yeniden yazmak için adım atıyorsun.",  "next": "ozgurlukKapisi", "points": 10 },
+    { "text": "!kokenlerineDon — Geçmişin sana ait her parçasını kucaklıyor, kim olduğunu tüm çıplaklığıyla kabulleniyorsun. Ama bu kabul, seni farklı bir gücün ya da kaderin ellerine bırakabilir.", "next": "kokenlerineDon", "points": 9 }
+  ]
+},
+"ozgurlukKapisi": {
+  "text": "Kapının koluna dokunuyorsun. Parmaklarının ucunda sıcak bir titreşim hissediyorsun; sanki geçmişin seni bir kez daha durdurmak ister gibi, ama izin vermiyor.\nKapı aralandığında, seni karşılayan şey bir ışık değil, bir rüzgâr. Bu rüzgâr, yüzüne eski anıların kokusunu taşıyor ama artık ağır değil; ferah.\n\nAdım attığında fark ediyorsun: geçmişin gölgeleri hâlâ var, ama artık seni yönetmiyorlar.\nOnlar sadece birer iz, seninle yürüyorlar, seni zincirlemiyorlar.\n\nBir sahil görüyorsun. Dalgaların sesi, gerçek dünyanın sesinden daha sakin.\nOrada, kumun üzerine düşen adımların, geçmişin hatalarını değil, bugünün kararlarını taşıyor.\n\nBir defter çıkarıyorsun. Beyaz, boş sayfalar…\nVe ilk cümleyi yazıyorsun:\n“Ben, kendimi yeniden inşa ediyorum.”\n\nGözlerinde bir damla yaş süzülüyor. Bu, pişmanlığın değil; özgürlüğün gözyaşı.\nGeçmişin seni tanımlar, evet. Ama artık seni hapsetmiyor.\n\n💾 Oyun Sonu: Hafızanın zincirlerini kırdın. Kendine ait bir gelecek yazmaya başladın. Artık hikâyen, sana ait.",
+  "options": [
+    { "text": "Skorunu Gör +15 puan", "next": "finalSkor", "points": 15 }
+  ]
+},
+"kokenlerineDon": {
+  "text": "Kapının ardına geçtiğinde, seni bir boşluk değil, bir yankı karşılıyor.\nO yankı… senin sesin. Ama daha genç, daha öfkeli, daha kırılgan.\nGözlerini kapatıyorsun. Sesler çoğalıyor: ihanetler, kayıplar, verdiğin sözler. Her biri bir hançer gibi saplanıyor, ama bu kez kaçmıyorsun.\n\nOnları kabul ediyorsun.\nHer acıyı, her ihaneti, her yıkımı.\nÇünkü biliyorsun: seni sen yapan bunlar.\nGüç buradan geliyor.\n\nBir aynanın karşısındasın şimdi.\nVe o aynada sadece kendini değil, senin ardında yatan bütün geçmişi görüyorsun.\nOrigo’yu yaratan adamı, hafızasını sildiren korkak benliği, ve tüm bunların ötesinde hâlâ savaşan bir ruhu.\n\nBir ses zihninde yankılanıyor:\n\n“Hoş geldin… Kurucu.”\n\nArtık saklanacak bir yer yok.\nSistemin merkezine doğru yürüyorsun.\nBu, huzurun değil; sorumluluğun kapısı.\nArtık geçmişin esiri değil, onun taşıyıcısısın.\n\nTerminale elini koyduğunda, sistemin sesi seni karşılıyor:\n\n“Yeni protokol başlatılıyor.”\n\nVe sen, gülümseyerek söylüyorsun:\n“Benim hikâyem daha bitmedi.”\n\n💾 Oyun Sonu: Geçmişi kucakladın, kimliğini geri aldın. Şimdi sadece hatırlayan biri değil, yeniden yazan bir güçsün.",
+  "options": [
+    {"text": "Skorunu Gör +15 puan", "next": "finalSkor", "points": 15 }
+  ]
+},
+"kacisYarat": {
+  "text": "Gerçek dünya seni hep yaraladı. Sertliği, karmaşası ve asla bitmeyen yükleriyle seni defalarca ezdi. Ama anıların... Onlar farklı.\nOnlar seni kucaklıyor. Sessiz, yargısız ve değişmeyen bir sıcaklıkla. Orada, bir gülüşün gölgesinde saklanan huzur var. Burada, hiçbir ihanet yok. Hiçbir soru yok. Sadece anılar ve sen.\n\nBir karar veriyorsun: Gerçeklikten kaçmak değil bu, onu kendi ellerinle yeniden kurmak.\nKendi kurallarını koyacağın bir evren yaratmak.\nSistem sana bir seçenek sunmuyor; ama sen onun boşluklarını buluyorsun.\nBilinç modüllerini, hatıra veri çekirdeklerini manipüle ediyor, kendi sanal alanını dokuyorsun.\n\nVe işte buradasın: bir odanın içinde değil, bir ufkun eşiğinde.\nHer şey senin tasarımına bağlı. Gökyüzünün rengi, havanın kokusu, insanların yüzleri. İstersen hepsini yeniden yaratabilirsin.\nAma bir sorun var…\nBu evren sadece bir yansıma mı olacak, yoksa gerçekten seni özgürleştirecek mi?\n\nGözlerin önünde iki yol beliriyor:",
+  "options": [
+    {"text": "!sahteCennet — Kendi yarattığın bu dünyaya tamamen dalıyorsun. Gerçeklik artık senin için yok; sadece bu yeni “düş-gerçek” evrende yaşayacaksın.","next": "sahteCennet", "points": 6 },
+    { "text": "!sonsuzDongu — Evreni kusursuz yapmak için yeniden yazmaya başlıyorsun. Ama her değişiklik seni daha da derin bir kod labirentine çekiyor. Mükemmellik arayışı, seni nereye götürecek?", "next": "sonsuzDongu",  "points": 7 }
+  ]
+},
+"sahteCennet": {
+  "text": "Sistemin içinde kendi evrenini örüyorsun. Her satır kod, her parça veri senin hayallerinden doğuyor.\nGökyüzünü, en sevdiğin rengin tonlarıyla boyuyorsun. Uzaklarda, hiç yaşanmayacak tartışmaların sessizliğinde çiçek açan bir dünya.\nÇocukluğunun kahkahaları yankılanıyor… asla vedalaşmadığın insanlar sana gülümsüyor.\nBurada acı yok. Burada yalnızlık yok. Burada zaman bile sana ihanet etmiyor.\n\nYavaş yavaş bu dünyanın dokusu seni sarıyor.\nGerçek dünyanın keskin çizgileri siliniyor; geri dönmek için hiçbir neden kalmıyor.\nKendi cennetini yarattın. Ama o an fark ediyorsun:\nBu dünya mükemmel çünkü gerçek değil.\nBurada hiçbir şey seni reddetmiyor çünkü hiçbir şey gerçekten var değil.\n\nVe buna rağmen kalıyorsun.\nÇünkü bazen yalan bile, doğru olandan daha güvenli geliyor.\n\nZaman akıyor.\nBelki yıllar, belki saniyeler. Ama fark etmiyor.\nSen artık bir kod satırısın.\nHuzurlu ama sahte.\n\n💾 Oyun Sonu: Gerçeklikten vazgeçtin. Bir yanılsamanın içinde sonsuz huzuru seçtin. Bedeli, gerçek bir hayat oldu.",
+  "options": [
+    { "text": "Skorunu Gör +10 puan", "next": "finalSkor", "points": 10 }
+  ]
+},
+"sonsuzDongu": {
+  "text": "Mükemmelliği arzuluyorsun.\nİlk satırı yazıyorsun, sonra bir satır daha… ama her düzenleme yeni bir hatayı doğuruyor.\nHer düzeltme, daha fazlasını istemene neden oluyor.\nSonsuz bir çemberin içindesin artık.\n\nGökyüzü… daha parlak olmalı.\nİnsanlar… daha mutlu görünmeli.\nHava… daha temiz olmalı.\n\nVe sistem, her değişikliği yaparken seni daha da içine çekiyor.\nKodların arasında kayboluyorsun.\nBir noktadan sonra hatırlamıyorsun: bu dünyayı neden yaratmıştın?\nKendin için mi, yoksa sadece hatasız bir şey var edebilmek için mi?\n\nGözlerin önünde tek bir cümle yanıp sönüyor:\n\n“Yeni sürüm hazırlanıyor...”\n\nVe sen, bir anlığına kendi adını hatırlıyorsun.\nSonra yine unutuyorsun.\nÇünkü bir sonraki güncelleme daha önemli.\nBir sonraki düzeltme… seni biraz daha yok ediyor.\n\nSistem artık sensin.\nAma sen, kendini hatırlamıyorsun.\nÇünkü döngüler, isimleri taşımıyor.\n\n💾 Oyun Sonu: Mükemmelliğin peşinde kendi benliğini sildin. Artık sadece kusursuzluğu kodlayan bir gölgesin.",
+  "options": [
+    { "text": "Skorunu Gör +12 puan",  "next": "finalSkor","points": 12}
+  ]
+},
+"karsiTarafiAnla": {
+  "text": "Gözlerini kapatıyorsun. Bağlantı protokolü, sinir ağlarının en derin katmanlarını taramaya başladıkça, zihninin içinde bir yankı büyüyor. Önce fısıltılar, ardından kelimeler, sonra bir ses…\nAma bu ses senin değil.\n\n“Sonunda… dinlemeyi seçtin.”\n\nBoğazında bir düğüm oluşuyor. Bu kim? Bir yabancı mı, yoksa hafızanın içinde kaybolmuş bir parça mı?\nSistem, duygu yoğunluğunu tespit ediyor ve bağlantıyı güçlendiriyor. Şimdi, karşında beliren silueti daha net görüyorsun.\nYüzü puslu, ama hareketleri tanıdık. Bir zamanlar güvendiğin, sonra unuttuğun biri olabilir.\nYa da… seni unutan?\n\nSes devam ediyor:\n\n“Neden yaptığımızı bilmek istiyorsun, değil mi? Gerçeği taşıyamayacağını düşündük. Bu yüzden seni kurtardık. Kendinden.”\n\nZihnin çatlıyor. Bir kurtuluş mu, yoksa ihaneti meşrulaştıran bir bahane mi?\nAma bu konuşma yüzeyde kalamaz. Daha fazlasını öğrenmelisin.\n\nÖnünde iki yol beliriyor:",
+  "options": [
+    { "text": "!duygularaYaklas — Onunla duygusal bir bağ kurmaya çalışıyorsun. Empati üzerinden, gerçek motivasyonları açığa çıkarmayı deneyeceksin.", "next": "duygularaYaklas", "points": 9 },
+    {"text": "!bilinçSorgula — Daha mantıksal, daha sert bir yaklaşım seçiyorsun. Hafızandaki yapay yamaları ve bilinç protokollerini sorgulamaya başlıyorsun.","next": "bilincSorgula", "points": 7 }
+  ]
+},
+"duygularaYaklas": {
+  "text": "Gözlerin karşındaki siluete kilitleniyor. Kalbinin ritmi, zihnindeki karmaşık fırtınaya rağmen yavaş yavaş sakinleşiyor. Bu kişi, yalnızca geçmişinin bir parçası değil; aynı zamanda bu labirentin içinde yitirdiğin insanlığın da yankısı.\n\nDuyguların kapılarını aralamak, zihninin sert duvarlarını yıkmak anlamına geliyor. Korku, öfke ve umut hepsi iç içe, seni alıp eski anıların kıyılarına götürüyor. O sessiz odada, söylenmemiş sözler, kapanmamış yaralar var.\n\nSen ona doğru adım atarken, sesin titreşiyor; geçmiş ve şimdi arasındaki ince çizgiyi zorluyorsun. Yavaş yavaş gerçek ortaya çıkıyor: Bu kişi, seni korumaya çalışan bir parça mı, yoksa seni hapseden bir zincir mi?\n\nAma duygulara yaklaşmak, seçimlerinin en tehlikelisi olabilir. Çünkü kalbin kapılarını açtıkça, hem sevgi hem de ihanetle yüzleşmeye hazır olmalısın.\n\nÖnünde iki yol beliriyor:",
+  "options": [
+    { "text": "!affet — Geçmişin yüklerini bırakmayı seçiyorsun. Kırgınlıkları, öfkeleri bir kenara bırakıp, onu affederek huzura ve kabul görmeye açılan kapıyı aralıyorsun. Bu yol seni, en derin barışa ve anlayışa götürebilir. Ancak, bazı gerçeklerin bu affedişle örtülmesi gerekir.", "next": "affet","points": 6 },
+    { "text": "!hesaplas — İhanetin ve acının izlerini taşıyan bu yüzle hesaplaşmayı seçiyorsun. Sorularını doğrudan soruyor, saklanan karanlık sırları ortaya döküyorsun. Bu yol seni acı ve zorlukla dolu bir sona götürür, ama belki de hakikate...", "next": "hesaplas", "points": 10 }
+  ]
+},
+"affet": {
+  "text": "Kalbinin derinliklerindeki kırgınlıkları bırakmaya karar verdin. Bu, kolay bir yol değil; bazen en büyük güç, affedebilmektir. Karşındaki siluet, senin affedişini hissediyor ve yavaşça çözülüyor. Gözlerindeki sertlik yerini hafif bir sıcaklığa bırakıyor.\n\nBu affediş, geçmişin gölgelerini tamamen yok etmiyor, ama onları bir nebze hafifletiyor. İçinde bir barış tohumu yeşeriyor, hayatının kırık parçalarını birleştirecek. Artık kendinle ve geçmişinle barış içindesin.\n\nAncak, sistemin derinlerinde bazı gerçekler hala gizli. Bu affedişle, belli kapılar kapanıyor; ama başka kapılar, yeni başlangıçlar için aralanıyor. Belki de bu, gerçek kurtuluşun başlangıcıdır.\n\nSonunda, gözlerin yavaşça kapanıyor. Bu bir son değil, yeni bir hayatın sessiz başlangıcı.\n\n💾 Oyun Sonu: Affetmenin Gücü\nAffetmek, bazen en büyük özgürlüktür. Sen, kendinle barışmayı seçtin ve geçmişin yüklerini geride bırakarak yeni bir yola adım attın.",
+  "options": [
+    {"text": "Skorunu Gör +10 puan", "next": "finalSkor", "points": 10 }
+  ]
+},
+"hesaplas": {
+  "text": "İçindeki öfke ve sarsılmaz kararlılıkla, karşındaki figürle yüzleşiyorsun. Sorular soruyor, eski yaraları deşiyorsun. Her kelime, her soru derinlerde saklı kalan acıyı gün yüzüne çıkarıyor. Sessizlik, ağır bir baskı halini alıyor.\n\nAncak bu hesaplaşma, bir temizlenme ateşi gibi. Karanlık sırlar bir bir açığa çıkıyor; belki acı verici, belki de yıkıcı. Ama sonunda gerçeğe ulaşmak için başka bir yol yoktur.\n\nSistem içinde çözülen yalanlar, senin iradenle parçalanıyor. Bu hesaplaşma, seni kendi içindeki karanlığı daha iyi anlamaya itiyor; gerçek özgürlük belki de burada başlıyor.\n\nGözlerin kapanırken, içinde hem bir boşluk hem de yeni bir güç hissediyorsun. Bu son değil, kendi gerçeğine açılan kapıdır.\n\n💾 Oyun Sonu: Gerçeğin Bedeli\nBazı gerçekler ağırdır, ama onları göze almak özgürlüğün anahtarıdır. Sen, acı ve ihanetle yüzleşerek kendi yolunu seçtin ve karanlığın içinden ışığa yürüdün.",
+  "options": [
+    {"text": "Skorunu Gör +20 puan", "next": "finalSkor", "points": 20 }
+  ]
+},
+"bilincSorgula": {
+  "text": "Zihninin derinliklerine daldıkça, yapay bir dünyada olduğunun farkına varıyorsun. Hafızandaki tüm anılar, deneysel kodların arasında şekillenen birer yansıma. Her bir parça, sistem tarafından özenle programlanmış, ama eksik ve kusurlu. Bu gerçekle yüzleşmek, özgürlük ile delilik arasındaki ince çizgide yürümek demek.\n\nYapay zeka protokolleri zihnini sararken, bilinçaltının kapıları ardına kadar açılıyor. İçinde saklanan yalanları, gizli manipülasyonları keşfetmeye başlıyorsun. Bu sorgulama, seni kendine yabancılaştırabilir; ama gerçeklerin peşinden gitmekten başka yol yok.\n\nHer adımda, zihninin derinlerinde bekleyen iki farklı yol beliriyor:",
+  "options": [
+    { "text": "!derinlereİn — Sistemin en karanlık kodlarına, bilinçaltının en gizli noktalarına doğru ilerliyorsun. Bu yol, tehlikeli ve karmaşık; ama sırların tamamına ulaşabileceğin tek yol. Burada gerçeklerle yüzleşmek, zihnindeki yapay kısıtlamaları yıkmak için bir fırsat olabilir. Bu yol devam edecek, yeni kapılar açacak.",  "next": "derinlereIn", "points": 10 },
+    { "text": "!kapat — Sorgulamayı bırakmaya karar veriyorsun. Bilinçaltındaki çarpıklıkları ve manipülasyonları görmezden gelerek, mevcut sistemle yaşamayı seçiyorsun. Bu seçim seni sistemin bir parçası haline getirir; özgürlükten vazgeçmiş olmak demektir. Bu yol ise bir oyun sonuna götürür.", "next": "finalSkor","points": 4 }
+  ]
+},
+"derinlereIn": {
+  "text": "Zihninin derinliklerine doğru inmeye başladığında, soğuk ve mekanik bir boşluk içinde kayboluyorsun. Her bir düşünce, bir veri dizisine dönüşüyor; her anı, algoritmaların sessiz kodlaması altında şekilleniyor. İçinde bulunduğun dünya artık tamamen yapay ve kontrol altında. Ancak sen, bu yapaylığın ardındaki gerçeklik perdesini aralamak istiyorsun.\n\nHer adımda, zihninin karanlık katmanları açılıyor; orada unutulmuş yüzler, kırık anılar ve bastırılmış duyguların gölgeleri dans ediyor. Sistem, seni durdurmak için her türlü engeli çıkarıyor; virüsler, yanılsamalar ve zihnini çökertecek karmaşık labirentler... Ama sen kararlısın.\n\nDerinlere indikçe, karşılaştığın gerçek daha da sarsıcı: Hafızan sadece bir simülasyon değil; senin varoluşun bile yapay bir kurgunun içinde. Bu gerçekle yüzleşmek, kimliğinin temelini sarsıyor. Yine de gerçeklerin peşinden gitmek zorundasın.\n\nİşte karşında iki yol:",
+  "options": [
+    { "text": "!ozgurlukIcinSavas — Bu gerçekliği kabullenmek yerine, sistemle savaşmaya karar veriyorsun. Hafızanın zincirlerini kırmak, yapaylık duvarlarını yıkmak için elinden geleni yapacaksın. Bu yol, ağır bedeller getirir ama nihayetinde özgürlüğe giden kapıyı aralayabilir.", "next": "ozgurlukIcinSavas", "points": 10 },
+    { "text": "!kabulEt — Gerçek ne kadar acı olsa da, bu yapay dünyanın sunduğu huzura teslim olmayı seçiyorsun. Kontrol altında olmak, kaos ve belirsizlikten daha az korkutucu. Bu yol, senin için bir son; yapay gerçekliğe boyun eğmenin oyun sonu...", "next": "kabulEt",  "points": 5 }
+  ]
+},
+"ozgurlukIcinSavas": {
+  "text": "Sistemin karanlık duvarlarına karşı duruyorsun. Zihnindeki yapay zincirleri, kodlarla örülü prangaları kırmak için var gücünle savaşıyorsun. Her direniş kıvılcımı, bir umut ateşine dönüşüyor; tutsaklık duvarları çatırdıyor. Ancak, özgürlük ağır bir bedel gerektiriyor.\n\nZihnin içinde fırtınalar koparken, gerçeklik kırılıyor ve yeniden şekilleniyor. Kendini, yeniden doğuşun kıyısında buluyorsun. Sistem çökerken, gözlerin yeni bir dünya hayaliyle açılıyor: Bu, senin gerçekliğin, senin özgürlüğün.\n\nAma özgürlük, yalnızlık ve belirsizlikle de doludur. Artık eski hayatın yok; sadece sen ve seçtiğin gerçeklik var. Yeni bir başlangıç mı, yoksa sonsuz bir mücadele mi?\n\n💾 Oyun Sonu: Kırılmış Zincirlerin Ardından\nÖzgürlük sancılıdır, ama sen onun peşinden gittin. Kendi gerçekliğini yaratmak için savaşmayı seçtin; artık kontrol sende.",
+  "options": [
+    { "text": "Skorunu Gör +10 puan", "next": "finalSkor", "points": 10 }
+  ]
+},
+
+"kabulEt": {
+  "text": "Bütün bu kaos ve acı arasında, sistemin sunduğu yapay huzura teslim oluyorsun. Kontrolün konforu, belirsizliğin korkusunu bastırıyor. Hafızanın manipüle edildiğini, gerçeklerin kurgulandığını bilerek, bu dünyaya boyun eğiyorsun.\n\nGözlerin yavaşça kapanıyor; bilincin sistemin içine çekiliyor. Kendi gerçekliğinden vazgeçtin ve yapaylığın kollarında kayboldun. Dış dünya için sadece bir figürsün artık; gerçek sen, derinlerde sessizce unutuluyor.\n\n💾 Oyun Sonu: Yapay Huzurun Karanlığı\nTeslim olmak kolaydır, ama bu özgürlük değildir. Sen, gerçeklikten vazgeçtin ve yapay bir rüyaya hapsoldun.",
+  "options": [
+    { "text": "Skorunu Gör +5 puan", "next": "finalSkor", "points": 5 }
+  ]
+},
+
+"kapat": {
+  "text": "Zihnindeki sorgulama ateşi sönerken, bilinçaltındaki kapılar yavaşça kapanıyor. İçindeki şüpheler, korkular ve karanlık gerçekler, derin bir uykuya dalıyor. Sistemin sunduğu düzenin rahatlığına teslim oluyorsun; sorgulamanın getirdiği rahatsızlığı, yerini sessiz bir kabullenmeye bırakıyor.\n\nKendi varoluşunun sınırlarını çizmiş, kendini bir mekanizmanın dişlisi olarak kabul etmiş olabilirsin. Gerçekten özgür mü, yoksa sadece var olduğuna inanmakla mı yetiniyorsun? Bu sorular, uzak bir köşede, bilinçaltının karanlık bir odasında yankılanıyor ama cevapları artık senin için öncelikli değil.\n\nGözlerin kapanırken, zihnin sistemin soğuk kollarında eriyor. Dış dünyadan kopmuş, kendi gerçekliğinin sınırları içinde hapsolmuşsun. Belki de en büyük özgürlük, sorgulamamak ve kabullenmektir; ama bu bir son, yeniden uyanışa kapı aralamayan bir son.\n\n💾 Oyun Sonu: Kabullenmenin Sessizliği\nTeslimiyetin rahatlığı içindesin; sorgulamanın yükünü bıraktın. Ama unutma, bu rahatlık gerçek bir özgürlük değil, sadece zincirlerin farklı bir biçimi.",
+  "options": [
+    { "text": "Skorunu Gör +5 puan", "next": "finalSkor", "points": 5 }
+  ]
+},
+
 
     "finalSkor": {
       "text": "🎉 Oyun Bitti! Toplam Puan: {score} 🏆",
